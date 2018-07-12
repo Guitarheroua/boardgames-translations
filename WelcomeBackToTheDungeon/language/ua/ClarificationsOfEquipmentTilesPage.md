@@ -1,5 +1,5 @@
 ---
-permalink: /wbttd-ua-description-of-special-monsters-page/
+permalink: /wbttd-ua-description-of-equipment-monsters-page/
 title: Уточнення до жетонів спорядження
 ---
 
