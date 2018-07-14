@@ -1,4 +1,7 @@
-# Уточнення до жетонів спорядження
+---
+permalink: /ua/wbttd-description-of-equipment-monsters-page/
+title: Clarifications of Equipment Tiles
+---
 
 [Check ukrainian version of this page](../ua/ClarificationsOfEquipmentTilesPage.mds)
 
@@ -8,88 +11,88 @@
 
 ***
 
-* [Ельфійська Арфа](#ельфійська-арфа)
-* [Щаслива Монетка](#щаслива-монетка)
-* [Заворожуюча Флейта](#заворожуюча-флейта)
-* [Королівський Посох](#королівський-посох)
-* [Нічогенький Меч](#нічогенький-меч)
-* [Корона Династії](#корона-династії)
-* [Воскресальні Кісточки](#воскресальні-кісточки)
-* [Димна Бомба](#димна-бомба)
+* [Elvish Harp](#elvish-harp)
+* [Lucky Coin](#lucky-coin)
+* [Charming Flute](#charming-flute)
+* [Royal Scepter](#royal-scepter)
+* [Greatsword](#greatsword)
+* [Family Crown](#family-crown)
+* [Reanimation Bones](#reanimation-bones)
+* [Smoke Bomb](#smoke-bomb)
 
 ***
 
-## Ельфійська Арфа
+## Elvish Harp
 
-Коли кількість очок здоров'я вашого героя менша 5, за усіх чудовиська з непарним числом сили ви втрачатимете 1 здоров'я, за всіх з парним числом - 2 очки здоров'я. [Заворожуюча Флейта](#заворожуюча-флейта) також може зменшити кількість отриманих поранень.
+As long as your HP is less than 5, all odd-strength Monsters you face only deal 1 damage and all even-strength Monsters only deal 2 damage. This damage can be reduced even further by the [Charming Flute](#charming-flute).
 
 ![harp]
 
 ***
 
-## Щаслива Монетка
+## Lucky Coin
 
-Ви можете скинути чудовисько з парним числом сили і зберегти Щасливу Монетку. Якщо наступне чудовисько також має парне число сили **і ви не можете перемогти його іншим спорядженням**, ви долаєте і його. Так продовжується поки ви не зустрінете чудовисько з непарнимчислом сили. В цьому випадку ви змушені скинути Щасливу Монетку.
+You can ignore an even-strength Monster and keep the Lucky Coin. If the next Monster you face is also even-strength **and is not defeated by another piece of Equipment,** defeat it and continue this way until you face an odd-strength Monster. The Lucky Coin is then discarded.
 
-> Приклад: У вас двобій з Вампіром з силою 4. Ви вирішуєте скинути його, використавши ефект Щасливої Монетки. Потім вт зустрічаєте Демона з силою 7 і вирішуєте перемогти його за допомогою Меча-Гарцівника(Dancing Sword). Можна використовувати Монетку і далі, якщо наступне чудовисько має парну силу. Але якщо наступне чудовисько має непарну силу і ви не можете перемогти його жодною річчю зі свого спорядження, ви змушені скинути Щасливу Монетку.
+> Example: You face a Vampire with strength 4 and choose to ignore it with the Lucky Coin. Then, you face the Demon with strength 7 and choose to use your Dancing Sword to defeat it. You can continue to use your Coin: if the next Monster is even-strength, defeat it. However, if the next Monster is odd-strength and you can’t defeat it with another piece of Equipment, you must discard your Lucky Coin.
 
 ![coin]
 
 ***
 
-## Заворожуюча Флейта
+## Charming Flute
 
-Перемагає Ґоблінів.  За кожного переможеного флейтою Ґобліна, ви зменшуєте кількість отриманих поранень на 1. Які і у випадку [Корони Династії](#корона-династії), тип чудовиська не змінюється.
+Defeat Goblins. For each Goblin you defeat this way, the Bard reduces damage dealt by the next Monsters by 1. As with the Princess’s [Family Crown](#family-crown), the identity of the Monster doesn’t change.
 
-> Приклад: Вампір залишеться Вампіром, чудовиськом з силою 4, навіть коли його силу зменшено за допомогою Заворожуючої Флейти.
+> Example: A Vampire stays a Vampire, an even Monster with strength 4, even if the damage taken is reduced by the Charming Flute.
 
 ![flute]
 
 ***
 
-## Королівський Посох
+## Royal Scepter
 
-Автоматично перемагаєте кожне наступне чудовисько , яке має той же ж тип що й вже переможене вами чудовисько(за умови що вони обоє знаходяться в Підземеллі). Якщо в підземеллі є третє чудовисько того ж типу (Особливе чудовисько), вооно також автоматично переможене.
+The second Monster of each kind is defeated, even if the first Monster of the same identity was defeated (they just need to be in the Dungeon). If there is a third Monster (ie. Special Monster) of the same identity in the Dungeon, it is ignored as well.
 
 ![scepter]
 
 ***
 
-## Нічогенький Меч
+## Greatsword
 
-Перед тим, як увійти в Підземелля, вибери іншого гравця за столом, не зважаючи на те, вибув він чи ще у грі.
+Before entering the Dungeon, choose another player at the table, whether they are still in play or have been eliminated.
 
 ![sword]
 
 ***
 
-## Корона Династії
+## Family Crown
 
-Поранення зменшуються на 2, але тип чудовиська залишається незмінним.
+Damage is reduced by 2, but the identity of the Monster does not change.
 
-> Приклад: Вампір б'є вас із силою рівною лише 2, але залишається Вампіром.
+> Example: A Vampire only does 2 points of damage, but remains a Vampire.
 
 ![crown]
 
 ***
 
-## Воскресальні Кісточки
+## Reanimation Bones
 
-Воскресальні Кісточки можна використати декілька разів. Ящо ви отримали здоров'я(від Кривавої Палички(Bloody Wand) і/або Сувою Одержимості(Possession Scroll)), ви можете застосувати Воскресальні Кісточки знову якщо помрете. Якщо ваше здоров'я перед смерттю було рівне 1 - Воскресальні Кісточки вам не допомагають.
+The Reanimation Bones can be used multiple times. If you gain HP (from the Bloody Wand and/or the Possession Scroll), you can use the Reanimation Bones again when you die. If your HP is 1 when you die, you cannot use the Reanimation Bones.
 
 ![bones]
 
 ***
 
-## Димна Бомба
+## Smoke Bomb
 
-Ви не можете скинути Димну Бомбу. Якщо Димна Бомба - єдина річ зі спорядження, що у вас залишилась, ви не можете застосувати її ефект.
+You cannot discard the Smoke Bomb. If the Smoke Bomb is the only equipment left under the Adventurer, you cannot use it.
 
 ![bomb]
 
 ***
 
-[◄ Попередня](GamePlayPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](DescriptionOfSpecialMonsters.md)
+[◄ Previous](GamePlayPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](DescriptionOfSpecialMonsters.md)
 
 ***
 
