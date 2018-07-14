@@ -20,11 +20,9 @@ title: Foggy Island
 
 Foggy Island is the fantasy world full of adventures and surprises.
 
-Race for power was newer so interesting and exciting.
+The race for power was never so interesting and exciting.
 
-For whom is this game? This is nice family or duel game, that is based on "Tic-Tac-Toe" game mechanic. It gives you possibility to show your logical thinking and strategic skills. Each player`s army consists of 18 characters. They create lines which bring victory points. But beware of spies sneaking everywhere and help your opponent.  
-
-Вперед на пошуки пригод!
+For whom is this game? This is a nice family or duel game, that is based on a "Tic-Tac-Toe" game mechanic. It gives you the possibility to show your logical thinking and strategic skills. Each player`s army consists of 18 characters. They create lines which bring victory points. But beware of spies sneaking everywhere and help your opponent. Let's start the Adventure!
 
 ## Chapters
 
