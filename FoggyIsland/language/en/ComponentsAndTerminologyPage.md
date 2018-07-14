@@ -1,14 +1,45 @@
+---
+permalink: /*put-your-custom-url-path-link-here*/
+title: Your Title
+---
+
 # Game Components And Terminology
+
+[translation swich](.)
+
+***
+
+[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](CharactersDescription.md)
+
+***
 
 ## 1 Island Map (6x6 Tiles)
 
+![map]
+
+***
+
 ## 1 Weather and Mercenary Board
 
-## 3 Mist Card Boards
+![board]
+
+***
+
+## 3 Fog Card Boards
+
+![fogg]
+
+***
 
 ## 8 Weather Cards
 
+![weatherCards]
+
+***
+
 ## 36 Basic Character Tokens
+
+![basicCharactersTokens]
 
 * 18 with blue shield on back side and 18 with red shield on back side:
   * 9 Wolves Warriors
@@ -16,7 +47,13 @@
   * 3 Rabbits Princesses
   * 2 Pigs Traders
 
+***
+
 ## 50 Coins with 1, 5, 10 value
+
+![coins]
+
+***
 
 ## 24 Mercenary Character Tokens
 
@@ -46,3 +83,18 @@ The Line of 3 or more character tokens, that locate side by side horizontaly, ve
 ## Round
 
 Game phase, that continues until all tiles of the Island Map will be filled with character tokens.
+
+***
+
+[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](CharactersDescription.md)
+
+***
+
+<!--Image links ref-->
+
+[map]: ../../resources/img/mapField.jpg
+[fogg]: ../../resources/img/fogg.jpg
+[board]: ../../resources/img/weatherBoard.jpg
+[weatherCards]: ../../resources/img/weatherCards.jpg
+[basicCharactersTokens]: ../../resources/img/basicCharactersTokens.jpg
+[coins]: ../../resources/img/coins.jpg
