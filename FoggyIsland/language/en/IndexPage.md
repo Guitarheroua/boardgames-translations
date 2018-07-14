@@ -18,13 +18,13 @@ title: Foggy Island
 
 ***
 
-Foggy Island is the fantasy world full of advanture and surprises.
-Фантастичний світ "Туманного острова" наповнений пригодами, інтригами та несподіванками! 
+Foggy Island is the fantasy world full of adventures and surprises.
 
-Ще ніколи боротьба за владу не була такою цікавою і азартною одночасно. 
+Race for power was newer so interesting and exciting.
 
-Для кого ця гра? Це чудовий варіант сімейної чи дуельної гри на основі простих і всім відомих правил “хрестиків-нуликів” збагачений новими можливостями застосувати свою логіку, ерудицію та стратегічне мислення. 
-Армія кожного гравця складається з вісімнадцяти персонажів, які, стаючи в ряди, приносять переможні бали. Однак остерігайтесь Шпигунів - вони шастають усюди та допомагають супернику! Вперед на пошуки пригод!
+For whom is this game? This is nice family or duel game, that is based on "Tic-Tac-Toe" game mechanic. It gives you possibility to show your logical thinking and strategic skills. Each player`s army consists of 18 characters. They create lines which bring victory points. But beware of spies sneaking everywhere and help your opponent.  
+
+Вперед на пошуки пригод!
 
 ## Chapters
 
