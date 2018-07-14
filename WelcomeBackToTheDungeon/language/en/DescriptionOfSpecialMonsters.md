@@ -1,6 +1,10 @@
 # Опис особливих чудовиськ
 
-[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
+[Check ukrainian version of this page](../ua/DescriptionOfSpecialMonsters.md)
+
+***
+
+[◄ Previous](ClarificationsOfEquipmentTilesPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](ReferencesPage.md)
 
 ***
 

@@ -1,6 +1,10 @@
 # Ігровий процес
 
-[◄ Попередня](GameSetupPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
+[Check ukrainian version of this page](../ua/GamePlayPage.md)
+
+***
+
+[◄ Previous](GameSetupPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](ClarificationsOfEquipmentTilesPage.md)
 
 ***
 

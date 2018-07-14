@@ -1,7 +1,11 @@
 ---
-permalink: /wbttd-ua-game-setup-page/
+permalink: /ua/wbttd-game-setup-page/
 title: Підготовка до гри
 ---
+
+[Переглянути цю сторінку англійською](../en/GameSetupPage.md)
+
+***
 
 [◄ Попередня](ComponentPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
 
