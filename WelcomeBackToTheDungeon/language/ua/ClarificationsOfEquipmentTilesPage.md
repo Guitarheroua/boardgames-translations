@@ -1,7 +1,11 @@
 ---
-permalink: /wbttd-ua-description-of-equipment-monsters-page/
+permalink: /ua/wbttd-description-of-equipment-monsters-page/
 title: Уточнення до жетонів спорядження
 ---
+
+[Переглянути цю сторінку англійською](../en/ClarificationsOfEquipmentTilesPage.md)
+
+***
 
 [◄ Попередня](GamePlayPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](DescriptionOfSpecialMonsters.md)
 
