@@ -1,7 +1,11 @@
 ---
-permalink: /wbttd-ua-ref-page/
+permalink: /ua/wbttd-ref-page/
 title: Додаткова інформація про гру
 ---
+
+[Переглянути цю сторінку англійською](../en/ReferencesPage.md)
+
+***
 
 [◄ Попередня](DescriptionOfSpecialMonsters.md) | [🚪 Головна 🚪](IndexPage.md)
 
