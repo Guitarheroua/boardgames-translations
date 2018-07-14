@@ -3,7 +3,7 @@ permalink: /wbttd-ua-description-of-equipment-monsters-page/
 title: Уточнення до жетонів спорядження
 ---
 
-[◄ Попередня](GamePlayPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](DescriptionOfSpecialMonsters.md)
+[◄ Попередня](GamePlayPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](DescriptionOfSpecialMonsters.md)
 
 ***
 
@@ -88,7 +88,7 @@ title: Уточнення до жетонів спорядження
 
 ***
 
-[◄ Попередня](GamePlayPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](DescriptionOfSpecialMonsters.md)
+[◄ Попередня](GamePlayPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](DescriptionOfSpecialMonsters.md)
 
 ***
 

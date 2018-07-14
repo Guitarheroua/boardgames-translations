@@ -1,6 +1,6 @@
 # Опис особливих чудовиськ
 
-[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
+[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
 
 ***
 
@@ -68,7 +68,7 @@
 
 ***
 
-[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
+[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
 
 ***
 <!--Image links ref-->
