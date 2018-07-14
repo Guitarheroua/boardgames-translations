@@ -57,6 +57,8 @@ title: Your Title
 
 ## 24 Mercenary Character Tokens
 
+![mercenaryCharactersTokens]
+
 * 12 with blue shield on back side and 12 with red shield on back side:
   * 2 Crows Kings
   * 1 Moldwarp Digger
@@ -70,15 +72,27 @@ title: Your Title
   * 1 Mouse Guard
   * 1 Snake Archer
 
+***
+
 ## Game Terminology
 
 ### Adjacent Tiles
 
-Adjacent Tiles in the game are tiles, that locate side by side horizontaly and verticaly (but not diagonally).
+Adjacent Tiles in the game are tiles, that locate side by side horizontaly and verticaly (but not diagonally). 
+
+> Example: Adjacent tiles marked with red shields on the picture
+
+![adjacentTiles]
+
+***
 
 ### The Line
 
 The Line of 3 or more character tokens, that locate side by side horizontaly, verticaly or diagonaly. The Line of tokens, that breaks by one or more white tokens (Princesses Rabbits) or enemy tokens does not consider as a Line.
+
+![lines]
+
+***
 
 ## Round
 
@@ -98,3 +112,6 @@ Game phase, that continues until all tiles of the Island Map will be filled with
 [weatherCards]: ../../resources/img/weatherCards.jpg
 [basicCharactersTokens]: ../../resources/img/basicCharactersTokens.jpg
 [coins]: ../../resources/img/coins.jpg
+[mercenaryCharactersTokens]: ../../resources/img/mercenaryCharactersTokens.jpg
+[adjacentTiles]: ../../resources/img/adjacentTiles.jpg
+[lines]: ../../resources/img/lines.jpg
