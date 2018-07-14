@@ -29,7 +29,7 @@ title: Aditional game information
 
 ***
 
-## Інші посилання
+## Other Links
 
 [Board Game Geek webpage](https://boardgamegeek.com/boardgame/195043/welcome-back-dungeon)
 
