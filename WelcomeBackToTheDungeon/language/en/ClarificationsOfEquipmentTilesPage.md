@@ -3,7 +3,7 @@ permalink: /en/wbttd-description-of-equipment-monsters-page/
 title: Clarifications of Equipment Tiles
 ---
 
-[Check ukrainian version of this page](../ua/ClarificationsOfEquipmentTilesPage.mds)
+[Check ukrainian version of this page](../ua/ClarificationsOfEquipmentTilesPage.md)
 
 ***
 
