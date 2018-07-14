@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Настільні ігри
-permalink: /
 ---
 
 * Welcome Back to the Dungeon / З поверненням в Підземелля :
