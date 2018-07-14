@@ -1,6 +1,6 @@
 # Ігровий процес
 
-[◄ Попередня](GameSetupPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
+[◄ Попередня](GameSetupPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
 
 ***
 
@@ -121,7 +121,7 @@
 
 ***
 
-[◄ Попередня](GameSetupPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
+[◄ Попередня](GameSetupPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
 
 <!--Image links ref-->
 [gameplay01]: ../../resources/img/gameplay01.jpg

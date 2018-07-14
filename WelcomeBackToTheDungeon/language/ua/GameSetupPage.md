@@ -3,7 +3,7 @@ permalink: /wbttd-ua-game-setup-page/
 title: Підготовка до гри
 ---
 
-[◄ Попередня](ComponentPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
+[◄ Попередня](ComponentPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
 
 ***
 
@@ -55,7 +55,7 @@ title: Підготовка до гри
 
 ***
 
-[◄ Попередня](ComponentPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
+[◄ Попередня](ComponentPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
 
 <!--Image links ref-->
 [heroOnTable]: ../../resources/img/setup01.jpg

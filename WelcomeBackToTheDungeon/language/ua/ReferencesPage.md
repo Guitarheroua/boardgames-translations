@@ -3,7 +3,7 @@ permalink: /wbttd-ua-ref-page/
 title: Додаткова інформація про гру
 ---
 
-[◄ Попередня](DescriptionOfSpecialMonsters.md) | [🚪Головна 🚪](IndexPage.md)
+[◄ Попередня](DescriptionOfSpecialMonsters.md) | [🚪 Головна 🚪](IndexPage.md)
 
 ***
 ## Про видавця

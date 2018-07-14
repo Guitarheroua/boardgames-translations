@@ -1,7 +1,11 @@
 ---
-permalink: /wbttd-ua-main-page/
+permalink: /ua/wbttd-main-page/
 title: З поверненням в Підземелля
 ---
+
+[Переглянути цю сторінку англійською](../en/IndexPage.md)
+
+***
 
 ## Правила гри
 
