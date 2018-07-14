@@ -3,7 +3,7 @@ permalink: /en/wbttd-main-page/
 title: Welcome Back to the Dungeon
 ---
 
-[Check ukrainian version of this page](../ua/IndexPage.md)
+[Check ukrainian version of this page](../ua/IndexPage.md) | [Return to Start Page](../../index.md)
 
 ***
 

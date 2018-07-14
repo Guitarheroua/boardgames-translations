@@ -1,5 +1,5 @@
 ---
-permalink: /ua/wbttd-description-of-equipment-monsters-page/
+permalink: /en/wbttd-description-of-equipment-monsters-page/
 title: Clarifications of Equipment Tiles
 ---
 
