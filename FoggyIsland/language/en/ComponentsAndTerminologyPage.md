@@ -78,7 +78,7 @@ title: Your Title
 
 ### Adjacent Tiles
 
-Adjacent Tiles in the game are tiles, that locate side by side horizontaly and verticaly (but not diagonally). 
+Adjacent Tiles in the game are tiles, that locate side by side horizontally and vertically (but not diagonally). 
 
 > Example: Adjacent tiles marked with red shields on the picture
 
@@ -88,7 +88,7 @@ Adjacent Tiles in the game are tiles, that locate side by side horizontaly and v
 
 ### The Line
 
-The Line of 3 or more character tokens, that locate side by side horizontaly, verticaly or diagonaly. The Line of tokens, that breaks by one or more white tokens (Princesses Rabbits) or enemy tokens does not consider as a Line.
+The Line of 3 or more character tokens, that locate side by side horizontally, vertically or diagonally. The Line of tokens, that breaks by one or more white tokens (Princesses Rabbits) or enemy tokens does not consider as a Line.
 
 ![lines]
 
