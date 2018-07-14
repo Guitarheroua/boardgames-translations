@@ -64,7 +64,7 @@ The Count becomes a Vampire with strength 4 if you don’t have a Success card. 
 
 ***
 
-## Перевертень
+## Shapeshifter
 
 The Shapeshifter takes on:
 
