@@ -1,9 +1,13 @@
 ---
-permalink: /wbttd-ua-game-setup-page/
+permalink: /ua/wbttd-game-setup-page/
 title: Підготовка до гри
 ---
 
-[◄ Попередня](ComponentPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
+[Переглянути цю сторінку англійською](../en/GameSetupPage.md)
+
+***
+
+[◄ Попередня](ComponentPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
 
 ***
 
@@ -55,7 +59,7 @@ title: Підготовка до гри
 
 ***
 
-[◄ Попередня](ComponentPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
+[◄ Попередня](ComponentPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
 
 <!--Image links ref-->
 [heroOnTable]: ../../resources/img/setup01.jpg

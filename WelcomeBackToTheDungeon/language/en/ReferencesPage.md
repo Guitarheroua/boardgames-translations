@@ -1,29 +1,36 @@
-# Додаткова інформація про гру
+---
+permalink: /en/wbttd-ref-page/
+title: Aditional game information
+---
 
-[◄ Попередня](DescriptionOfSpecialMonsters.md) | [🚪Головна 🚪](IndexPage.md)
+[Check ukrainian version of this page](../ua/ReferencesPage.md)
 
 ***
-## Про видавця
 
-* [Сторінка IELLO Games](http://www.iellogames.com/)
-* [Електронна адреса info@iellogames.com](mailto:info@iellogames.com)
+[◄ Previous](DescriptionOfSpecialMonsters.md) | [🚪 Main 🚪](IndexPage.md)
+
+***
+## About Publisher
+
+* [IELLO Games webpage](http://www.iellogames.com/)
+* [Email Address: info@iellogames.com](mailto:info@iellogames.com)
 * [Facebook IELLO](https://www.facebook.com/IelloFrance/)
 
 ***
 
-## Над грою працювали
+## Credits
 
-* **Розробники гри:** Masato Uesugi і Antoine Bauza 
-* **Художник:** Paul Mafayon
-* **Керівник проекту:** Virginie Gilson 
-* **Керівник серії ігор:** Ludovic Papaïs
-* **Перекладач:** Danni Loe-Sterphone
-* **Розробники висловлюють подяку:** Особлива подяка Yannick Deplaedt а також La Cafetière за їх внесок і тестування гри.
+* **Designers:** Masato Uesugi & Antoine Bauza 
+* **Artist:** Paul Mafayon
+* **Project Manager:** Virginie Gilson 
+* **Series Manager:** Ludovic Papaïs
+* **Translator:** Danni Loe-Sterphone
+* **Thanks of the designers:** Special thanks to Yannick Deplaedt and the regulars at La Cafetière for playtesting and their contributions.
 
 ***
 
 ## Інші посилання
 
-[Board Game Geek сторінка](https://boardgamegeek.com/boardgame/195043/welcome-back-dungeon)
+[Board Game Geek webpage](https://boardgamegeek.com/boardgame/195043/welcome-back-dungeon)
 
 ***

@@ -1,127 +1,134 @@
-# Ігровий процес
+---
+permalink: /en/wbttd-game-play-page/
+title: Game Play
+---
 
-[◄ Попередня](GameSetupPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
-
-***
-
-* [Огляд Раунду](#огляд-раунду)
-* [Фаза Підготовки](#фаза-підготовки)
-* [Фаза Підземелля](#фаза-підземелля)
-* [Новий Раунд](#новий-раунд)
-* [Кінець Гри](#кінець-гри)
-* [Варіант Гри](#варіант-гри)
+[Check ukrainian version of this page](../ua/GamePlayPage.md)
 
 ***
 
-**Гра триває декілька раундів, під час яких гравці визначають, хто з них поведе героя в Підземелля. Цей єдиний "щасливець" увійде в підземелля, і в двобої з кожним чудовиськом виборюватиме свою перемогу, або зустріне свою фатальну поразку.**
+[◄ Previous](GameSetupPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](ClarificationsOfEquipmentTilesPage.md)
 
 ***
 
-## Огляд Раунду
-
-Кожен раунд складається з двох фаз:
-
-* Фаза Підготовки
-* Фаза Підземелля
+* [Round Overview](#round-overview)
+* [Bidding phase](#bidding-phase)
+* [Dungeon phase](#dungeon-phase)
+* [New Round](#new-round)
+* [End of the Game](#end-of-the-game)
+* [Variant](#variant)
 
 ***
 
-## Фаза Підготовки
+**The game plays over several rounds, during which players bid to determine who has to take the Adventurer into the Dungeon. That one player will take the Adventurer into the Dungeon, drawing ever nearer to victory or defeat, depending on their success.**
 
-Гравці ходять за годинниковою стрілкою. В свій хід, необхідно обрати одну з наступних дій: **Взяти картку** або **Пропустити хід**.
+***
+
+## Round Overview
+
+Each round has **two phases**:
+
+* Bidding phase
+* Dungeon phase
+
+***
+
+## Bidding phase
+
+During this phase, play goes clockwise. On your turn, you must choose one of the following: **Draw a card** or **Pass your turn**.
 
 ![gameplay01] ![gameplay02]
 
 ***
 
-### • Взяти картку
+### • Draw a card
 
-Витягніть верхню картку з колоди чудовиськ. Подивіться, що ви обрали (але шшшшш...., нікому не показуйте). Тепер ви маєте вирішити, що робити з карткою:
+If you Draw a card, take the top card of the Monster deck. Look at it without letting anyone else see it. You now must choose one of the following options:
 
-1. **Додати чудовисько в Підземелля.** В цьому випадку покладіть чудовисько долілиць в колоду Підземелля. У цій колоді знаходяться усі монстри Підземелля, з якими ви зустрінетесь в двобої. **Примітка: Завжди можна порахувати, скільки чудовиськ є в колоді Підземелля, але не можна дивитись які саме чудовиська там знаходяться.**
+1. **Add the Monster to the Dungeon.** In this case, put the Monster card face-down on the Dungeon pile. This pile contains all the Monsters you must face if you enter the Dungeon. **Note: You can always count the number of Monster cards in the Dungeon, but you cannot look at the cards.**
 
 ![gameplay03]
 
-2. **Скинути чудовисько долілиць перед собою.** В цьому випадку ви повинні забрати одну річ зі спорядження героя і покласти її на карту чудовиська. В цьому випадку карта чудовиська з спорядженням вважаються скинутими до кінця раунду. **Примітка: Якщо ви взяли карту чудовиська, а у героя не залишилось жодної речі з спорядження, ви повинні додати чудовисько в Підземелля**
+2. **Place the Monster in front of you face-down.** In this case, you must place an Equipment tile of your choice, from beneath the Adventurer, onto the Monster. The Monster and piece of Equipment are considered discarded for the rest of the round. **Note: If you draw a Monster card, and the Adventurer has no more sEquipment, you must add the Monster to the Dungeon.**
 
 ![gameplay04]
 
-Коли ви обрали потрібну дію, ваш хід вважається завершиним і хід переходить до наступного гравця за годинниковою стрілкою.
+Once you make your choice, your turn is over; the next player clockwise goes.
 
-**Примітка: Якщо колода з чудовиськами пуста, ви змушені пропустити свій хід.**
-
-***
-
-### • Пропустити хід
-
-Якщо ви пропускаєте хід, ви більше не приймаєте участі в цьому раунді гри. Ви зможете продовжити лише в наступному раунді. Коли **всі гравці, крім останнього пропустили хід**, фаза підготовки вважається завершеною. Гравець, який не пропустив хід, змушений сам йти в Підземелля, з тим спорядженням що у нього залишилось. Перходимо до фази Підземелля.
+**Note: When the Monster deck is empty, you must pass your turn.**
 
 ***
 
-## Фаза Підземелля
+### • Pass your turn
 
-**Тільки той гравець, який не пропустив хід, переходить до цієї фази.** Спочатку підраховуємо загальну кількість очок здоров'я(HP). Для цього додаємо усі очки здоров'я на жетонах спорядження до очок здоров'я на жетоні героя. Після підрахунку, переміщуємо маркер Дракона на відповідне число на планшеті очок здоров'я.
+When you pass your turn, you no longer participate in this round. You will be able to play in the next round. Once **all players but one have passed**, the Bidding phase ends. The remaining player must enter the Dungeon alone, with whatever Equipment the Adventurer has left. They press onward to the Dungeon phase.
+
+***
+
+## Dungeon phase
+
+**Only the player who did not pass participates in this phase.** Begin by counting your total Health Points (HP): Add the HP values of the Adventurer tile and all the Equipment that gives you HP. Put the Dragon token on the corresponding space of the Health Point board.
 
 ![gameplay05]
 
 ***
 
-### **Починаючи з верхньої картки в колоді Підземелля, одна за одною послідовно перевертаємо картки горілиць:**
+### **Next, starting with the last Monster placed into the Dungeon, reveal the cards in the Dungeon pile one by one:**
 
 ![gameplay06]
 
-* Якщо ви натрапили на чудовисько, яке можете здолати однією з наявних речей спорядження у вашого героя, скиньте його без втрати очок здоров'я. **Примітка: Якщо для перемоги над чудовиськом ви використали річ зі спорядження, що має символ ⚡ - повинні скинути її, вона більше не допомагатиме вам у битві проти чудовиськ що залишились в Підземеллі.**
+* If you reveal a Monster that is defeated by a piece of Equipment in play, discard the Monster without losing any HP. **Note: If the Equipment used to defeat the monster has the symbol ⚡, discard it. It cannot be used for the remaining Monsters.**
 
 ![gameplay07]![gameplay08]
 
-* Якщо ви натрапили на чудовисько, яке **НЕ** можете здолати однією з наявних речей спорядження у вашого героя - ви втрачає кількість очок здоров'я рівну силі чудовиська. Зменшіть кількість очок здоров'я на кількість отриманих в бою ушкоджень, перемістивши маркер Дракона на планшеті на відповідне число. Скиньте карту чудовиська. **Примітка: Певні чудовиська можуть відновлювати ваше здоров'я. Якщо таке сталось, збільшіть кількість очок здоров'я на планшеті, перемістивши маркер Дракона на відповідне число.**
+* If you reveal a Monster that is not defeated by a piece of Equipment in play, lose as many HP as its strength. Move the Dragon token on the Health Point board to decrease your HP as many spaces as the number of damage taken. Then, discard the Monster. **Note: Certain Monsters can make you gain HP. When this happens, move the Dragon token on the HP board in order to increase your HP.**
 
 ![gameplay09]
 
-* Якщо ви натрапили на Особливе чудовисько, застосуйте його спеціальний ефект, перемістіть маркер Дракона на планшеті здоров'я, якщо це необхідно і скиньте картку чудовиська. **Примітка: Описи всіх Особливих чудовиськ можна знайти у розділі ["Опис особливих чудовиськ"](DescriptionOfSpecialMonsters.md).**
+* If you reveal a Special Monster, apply its effect, move the Dragon token on the HP board if necessary, then discard the Special Monster. **Note: You will find a description of all the ["Special Monsters"](DescriptionOfSpecialMonsters.md) at the end of the rulebook.**
 
 ***
 
-### **Фаза Підземелля завершується, коли виконана одна з цих умов:**
+### **The Dungeon phase ends when one of these two conditions is met:**
 
-* Ви здолали всіх чудовиськ в підземеллі і кількість очок вашого здоров'я більше 0. **Візміть картку Досягнення.** Якщо їх у вас дві - ви переможець!
+* You defeated all the Monsters in the Dungeon and your HP is greater than 0 on the HP board. **Take a Success card.** If this is your second Success card, you win the game!
 
 ![gameplay10]
 
-* Якщо маркер Дракона дійшов до позначки 0 на планшеті здоров'я і жодна річ з спорядження не здатна вас оживити. **Переверніть карти-підказки червоною стороною догори.** Якщо ваші карти-підказки вже повернуті червоною стороною - ви вибуваєте з гри. Якщо всі гравці крім одного вибули з гри - переможцем стає гравець що залишився.
+* The Dragon token reaches the box 0 HP space and no Equipment will allow you to come back to life. **Flip your player aid to the red side.** If your player aid was already on its red side, you are eliminated from the game. If all players except one have been eliminated, the last remaining player wins the game.
 
 ![gameplay11]
 
-Поверніть всіх скинутих монстрів у гру. Раунд закінчився. Якщо ніхто не виграв гру - почнинайте новий раунд.
+Reveal all the Monsters that were discarded. The round is over. If nobod has won the game, start a new round.
 
 ***
 
-## Новий Раунд
+## New Round
 
-Перемішайте усіх монстрів і покладіть колоду на стіл долілиць. Гравець, який щойно спускався в Підземелля обирає нового героя для наступного раунду (Некроманта, Принцесу, Ніндзю, або Барда). Покладіть жетон героя і відповідні по кольору жетони спорядження на центер столу. Ви готові до нового раунду. Першим розпочинає хід гравець, який щойно спускався в підземелля.
+Shuffle all the Monsters and put the deck face-down on the table. The player who just entered the Dungeon chooses the Adventurer for the new round (Necromancer, Princess, Ninja, or Bard). Place the Adventurer and the corresponding Equipment in the center of the table. You are ready for a new round. The start player is the one who just went into the Dungeon.
 
 ![gameplay12]
 
 ***
 
-## Кінець Гри
+## End of the Game
 
-Ви виграєте гру в двох випадках:
+You win the game in either of the following ways:
 
-* Ви отримали другу карту Досягнення
-* Всі інші гравці крім вас вибули з гри
+* You earn a second Success card.
+* All the other players have been eliminated from the game.
 
 ![gameplay13]
 
 ***
 
-## Варіант гри
+## Variant
 
-*Розробники радять наступний варіант гри:* В перший хід гри фази Підготовки ви повинні покласти отриману карту чудовиська до колоди Підземелля.
+*The designer suggests the following variant:* During the first turn of the Bidding phase, you must add the card you draw to the Dungeon.
 
 ***
 
-[◄ Попередня](GameSetupPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
+[◄ Previous](GameSetupPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](ClarificationsOfEquipmentTilesPage.md)
 
 <!--Image links ref-->
 [gameplay01]: ../../resources/img/gameplay01.jpg

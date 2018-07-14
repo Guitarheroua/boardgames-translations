@@ -1,76 +1,83 @@
-# Компоненти гри
+---
+permalink: /en/wbttd-components-page/
+title: Game Elements
+---
 
-[◄ Попередня](IndexPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](GameSetupPage.md)
-
-***
-
-* [13 карт чудовиськ](#13-карт-чудовиськ)
-* [6 карт Особливих чудовиськ](#6-карт-особливих-чудовиськ)
-* [4 жетони Героїв](#4-жетони-героїв)
-* [24 жетони спорядження](#24-жетони-спорядження)
-* [1 планшет здоров'я і 1 маркер Дракона](#1-планшет-здоровя-і-1-маркер-дракона)
-* [5 Переможних карток](#5-переможних-карток)
-* [8 карток-підказок](#8-карток-підказок)
+[Check ukrainian version of this page](../ua/ComponentPage.md)
 
 ***
 
-## 13 карт чудовиськ
+[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetupPage.md)
 
-Ці карти є зображеннями чудовиськ яких ви можете додати або перемогти в підземеллі. Кожна карта чудовиська має число що є його силою, а також значок артефакту, який долає це чудовисько.
+***
+
+* [13 Monster cards](#13-monster-cards)
+* [6 Special Monster cards](#6-special-monster-cards)
+* [4 Adventurer tiles](#4-adventurer-tiles)
+* [24 Equipment Tiles](#24-equipment-tiles)
+* [1 Health Point board and 1 Dragon token](#1-health-point-board-and-1-dragon-token)
+* [5 Success cards](#5-success-cards)
+* [8 Player Aids](#8-player-aids)
+
+***
+
+## 13 Monster cards
+
+These cards represent Monsters you can place and face in the Dungeon. Each Monster card has a number that shows its strength and the equipment that can defeat it.
 
 ![monsterCardsImage]
 
 ***
 
-## 6 карт Особливих чудовиськ
+## 6 Special Monster cards
 
-Також є карти Особливих чудовиськ яких ви можете покласти або здолати в підземеллі. Кожна з карт чудовиськ має позначку особливого ефекту, або число що відповідає його силі.
+These cards represent Special Monsters that you can place and face in the Dungeon. Each Special Monster card has an effect or a number that shows its strength.
 
 ![specialMonsterCardsImage]
 
 ***
 
-## 4 жетони Героїв
+## 4 Adventurer tiles
 
-Ці жетони зображають героїв - шукачів пригод, яким доведеться спускатись в підземелля. Вони мають ім’я і число, що показує кількість здоров’я героя.
+These tiles represent the Adventurers that you send into the Dungeon. They have a name and a number of Health Points (HP).
 
 ![heroTile]
 
 ***
 
-## 24 жетони спорядження
+## 24 Equipment Tiles
 
-Ці жетони - обладунки або артефакти які будуть на героєві, коли він увійде в підземелля. Вони мають ім’я та ефект. Деякі з них мають символ ⚡. Цей символ означає, що після застосування предмет має бути скинутий з героя.
+These tiles represent the Equipment worn by the Adventurer that you send into the Dungeon. They have a name and an effect. Certain Equipment tiles have this ⚡ symbol . This means that the Equipment must be discarded after using it in the Dungeon.
 
 ![equipmentTile]
 
 ***
 
-## 1 планшет здоров'я і 1 маркер Дракона
+## 1 Health Point board and 1 Dragon token
 
-За допомогою планшета ви слідкуватимете за кількістю здоров'я вашого героя, поки будете духопелити чудовиськ в підземеллі. Для цього потрібно переміщувати маркер дракона на відповідне число на планшеті.
+This board lets you keep track of your Health Points while you face the Monsters in the Dungeon. To do this, move the Dragon token on the board.
 
 ![healthBoard]
 
 ***
 
-## 5 карток Досягнень
+## 5 Success cards
 
-Цю картку ви отримуєте лише виживши в підземеллі. Коли ви отримуєте таку картку вдруге - ви негайно перемагаєте.
+These cards represent your Success after coming out of the Dungeon alive. When you receive your second Success card, you immediately win the game.
 
 ![successCards]
 
 ***
 
-## 8 карток-підказок
+## 8 Player Aids
 
-На цих картках можна знайти підказки що до сили кожного чудовиська, їх Особливих сил, загальну кількість чудовиськ у грі, а також артефакти, що можуть їх здолати. Є дві окремі категорії карток-підказок: для звичайних і особливих чудовиськ.
+These player aids have a reminder of each Monster’s strength and/or effect, the number of times each Monster is found in the game and the equipment that can defeat it. They are separated in two categories: Monsters and Special Monsters.
 
 ![refCards]
 
 ***
 
-[◄ Попередня](IndexPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](GameSetupPage.md)
+[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetupPage.md)
 
 <!--Image links ref-->
 

@@ -1,53 +1,64 @@
-# Опис особливих чудовиськ
+---
+permalink: /en/wbttd-description-of-special-monsters-page/
+title: Description of Special Monsters
+---
 
-[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
-
-***
-
-* [Фея](#фея)
-* [Помічник](#помічник)
-* [Мімік](#мімік)
-* [Желатиновий Куб](#желатиновий-куб)
-* [Граф](#граф)
-* [Перевертень](#перевертень)
+[Check ukrainian version of this page](../ua/DescriptionOfSpecialMonsters.md)
 
 ***
 
-## Фея
+[◄ Previous](ClarificationsOfEquipmentTilesPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](ReferencesPage.md)
 
-Фея має силу рівну 0 але вважається чудовиськом з парною силою. Вона не має жодних спеціальних ефектів.
+***
+
+* [Fairy](#fairy)
+* [Ally](#ally)
+* [Mimic](#mimic)
+* [Gelatinous Cube](#gelatinous-cube)
+* [The Count](#the-count)
+* [Shapeshifter](#shapeshifter)
+
+***
+
+## Fairy
+
+The Fairy has a strength of 0 and is considered to be an even-strength Monster. She has no effect.
 
 ![fairy]
 
 ***
 
-## Помічник
+## Ally
 
-Помічник не має сили (тому він не рахується за чудовисько ні з парною ні з непарною силою), але він дозволяє вам скинути наступне чудовисько в Підземеллі.
+The Ally has no strength (and is therefore neither even- nor odd-strength), but he allows you to ignore the next Monster in the Dungeon.
 
 ![ally]
 
 ***
 
-## Мімік
+## Mimic
 
-Мімік має силу, що рівна кількості жетонів речей спорядження, які ви все ще маєте у грі. Його сила може бути рівна від 0 (якщо у вас немає жодної речі спорядження) до 6 (якщо у вас при собі усі речі зі спорядження героя)
+The Mimic has a strength equal to the number of Equipment tiles you still have when you face it in the Dungeon. Its strength can vary from 0 if you have no more Equipment to 6 if you have every Equipment tile when you face it.
 
 ![mimic]
 
 ***
 
-## Желатиновий Куб
+## Gelatinous Cube
 
-Желатиновий Куб не має сили (тому він не рахується за чудовисько ні з парною ні з непарною силою), але він змушує вас скинути одну річ зі спорядження на ваш вибір. Якщо у вас не залишилось спорядження - проігноруйте ефект Желатинового Куба. Якщо ви скинули річ, яка дає вам очки здоров'я, одразу втрачаєте ту кількість здоров'я, що вказана на жетоні цього спорядження. Не забудьте перемістити маркер Дракона на планшеті здоров'я на нове значення.
+The Gelatinous Cube has no strength (and is therefore neither even- nor odd-strength), but instead makes you discard an Equipment tile of your choice.
+
+If you have no more Equipment when you face the Gelatinous Cube, ignore it.
+
+If you choose to discard an HP+ Equipment, immediately lose the number of HP indicated by this Equipment. Then move the Dragon token on the HP board to the new total.
 
 ![gelatinouscube]
 
 ***
 
-## Граф
+## The Count
 
-Якщо у вас немає карток Досягнень, Граф перетворюється у Вампіра з силою 4. Проте, якщо у вас є одна картка Досягнення, Граф перестає бути вампіром, і перетворюється на чудовисько з силою рівною 8.
+The Count becomes a Vampire with strength 4 if you don’t have a Success card. However, he loses his Vampire identity and gains a strength of 8 if you already have a Success card.
 
 ![count]
 
@@ -55,20 +66,20 @@
 
 ## Перевертень
 
-Перевертень отримує:
+The Shapeshifter takes on:
 
-* **Силу, рівну його позиції в Підземеллі:** якщо він - четверте чудовисько, яке ви зустріли, його сила рівна 4, але якщо він сьомий - його сила рівна 7, і так далі...
-* **Тип відповідного по силі чудовиська:** якщо він - четверте чудовисько, яке ви зустріли, Перевертень стає Вампіром з силою 4.
+* **Strength equal to its position in the Dungeon:** if it’s the fourth Monster you face, its strength is 4, but if it’s the seventh Monster you face, its strength is 7, and so on.
+* **The identity of the corresponding Monster:** if it’s the fourth Monster you face, the Shapeshifter becomes a Vampire with strength 4.
 
-**Примітка: Якщо ви зустріли Перевертня в Підземеллі після дев'ятого чудовиська, він не перетвориться на жодне з чудовиськ(не матиме типу),але отримає силу рівну своїй позиціїї.**
+**Note: If you face the Shapeshifter after your ninth Monster in the Dungeon, it will take on the strength of its rank in the Dungeon, but will have no identity.**
 
-> Приклад: Ви зустріли Перевертня десятим, тож його сила буде рівною 10, але він залишиться чудовиськом без типу.
+> Example: You face the Shapeshifter as the tenth Monster in the Dungeon, so it has a strength of 10 and no identity.
 
 ![shapeshifter]
 
 ***
 
-[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
+[◄ Previous](ClarificationsOfEquipmentTilesPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](ReferencesPage.md)
 
 ***
 <!--Image links ref-->

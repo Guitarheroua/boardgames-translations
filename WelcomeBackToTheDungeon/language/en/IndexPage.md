@@ -1,4 +1,11 @@
-# Welcome Back to the Dungeon
+---
+permalink: /en/wbttd-main-page/
+title: Welcome Back to the Dungeon
+---
+
+[Check ukrainian version of this page](../ua/IndexPage.md) | [Return to Start Page](../../index.md)
+
+***
 
 ## Rules of play
 
@@ -22,10 +29,10 @@ monsters to the dungeon, remove equipment from the hero, or decide to pass for t
 
 ***
 
-## Розділи
+## Chepters
 
 1. [Main Page](IndexPage.md)
-2. [Game Components](ComponentPage.md)
+2. [Game Elements](ComponentPage.md)
 3. [Game Setup](GameSetupPage.md)
 4. [Gameplay](GamePlayPage.md)
 5. [Clarifications of Equipment Tiles](ClarificationsOfEquipmentTilesPage.md)

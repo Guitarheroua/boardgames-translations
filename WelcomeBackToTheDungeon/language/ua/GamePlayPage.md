@@ -1,9 +1,13 @@
 ---
-permalink: /wbttd-ua-game-play-page/
+permalink: /ua/wbttd-game-play-page/
 title: Ігровий процес
 ---
 
-[◄ Попередня](GameSetupPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
+[Переглянути цю сторінку англійською](../en/GamePlayPage.md)
+
+***
+
+[◄ Попередня](GameSetupPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
 
 ***
 
@@ -22,7 +26,7 @@ title: Ігровий процес
 
 ## Огляд Раунду
 
-Кожен раунд складається з двох фаз:
+Кожен раунд складається з **двох фаз**:
 
 * Фаза Підготовки
 * Фаза Підземелля
@@ -124,7 +128,7 @@ title: Ігровий процес
 
 ***
 
-[◄ Попередня](GameSetupPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
+[◄ Попередня](GameSetupPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ClarificationsOfEquipmentTilesPage.md)
 
 <!--Image links ref-->
 [gameplay01]: ../../resources/img/gameplay01.jpg

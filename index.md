@@ -3,4 +3,6 @@ layout: default
 title: Настільні ігри
 ---
 
-1. [Welcome Back to the Dungeon | З поверненням в Підземелля](WelcomeBackToTheDungeon/WelcomePage.md)
+* Welcome Back to the Dungeon / З поверненням в Підземелля :
+  * [English Rules](WelcomeBackToTheDungeon/language/en/IndexPage.md)
+  * [Правила Українською](WelcomeBackToTheDungeon/language/ua/IndexPage.md)

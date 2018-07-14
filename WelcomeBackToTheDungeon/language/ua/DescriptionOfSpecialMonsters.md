@@ -1,9 +1,13 @@
 ---
-permalink: /wbttd-ua-description-of-special-monsters-page/
+permalink: /ua/wbttd-description-of-special-monsters-page/
 title: Опис особливих чудовиськ
 ---
 
-[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
+[Переглянути цю сторінку англійською](../en/DescriptionOfSpecialMonsters.md)
+
+***
+
+[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
 
 ***
 
@@ -71,7 +75,7 @@ title: Опис особливих чудовиськ
 
 ***
 
-[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
+[◄ Попередня](ClarificationsOfEquipmentTilesPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
 
 ***
 <!--Image links ref-->
