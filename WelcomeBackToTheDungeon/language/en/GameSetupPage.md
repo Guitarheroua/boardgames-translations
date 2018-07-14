@@ -1,58 +1,65 @@
-# Підготовка до гри
+---
+permalink: /en/wbttd-game-setup-page/
+title: Game Setup
+---
 
-[◄ Попередня](ComponentPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
+[Check ukrainian version of this page](../ua/GameSetupPage.md)
 
 ***
 
-## 1. Виберіть або навмання витягніть Героя і покладіть його на центер столу.
+[◄ Previous](ComponentPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlayPage.md)
+
+***
+
+## 1. Choose or randomly draw an Adventurer and place it in the center of the table.
 
 ![heroOnTable]
 
 ***
 
-## 2. Нижче покладіть 6 жетонів спорядження, що відповідають кольору жетона героя
+## 2. Put the six corresponding Equipment tiles under the Adventurer.
 
 ![equipmentOnTable]
 
 ***
 
-## 3. Перемішайте карти з особливими чудовиськами і оберіть **ДВІ** навмання. Карти що залишились покладіть до коробки, вони в цій грі більше не знадобляться.
+## 3. Shuffle the Special Monster cards and randomly choose two. Put the other Special Monster cards into the box, they will not be used during this game.
 
 ![twoSpecialCards]
 
 ***
 
-## 4. Ретельно перемішайте картки чудовиськ разом з двома картами особливих чудовиськ. Розмістіть перемішану колоду долілиць біля жетона героя.
+## 4. Shuffle the Monster cards with the two Special Monster cards, and place them in a facedown deck near sthe Adventurer.
 
 ![monstersDeck]
 
 ***
 
-## 5. Планшет для підрахунку очок здоров'я покладіть під жетонами спорядження. Біля планшету покладіть маркер Дракона.
+## 5. Put the Health Point board below the Equipment tiles and put the Dragon token near sthe board.
 
 ![healthBoard]
 
 ***
 
-## 6. Роздайте кожному гравцю по одній карті-підказці для чудовиськ і спеціальних чудовиськ. Кожен гравець розміщує отримані карти перед собою, білою стороною доверху.
+## 6. Give each player a “Monsters” player aid and a “Special Monsters” player aid that they place in front of themselves, white side up.
 
 ![refCards]
 
 ***
 
-## 7. Оберіть місце для колоди підземелля. (Кожного ходу ви будете класти туди карту чудовиська)
+## 7. Establish a location for the Dungeon pile: This is where you will place the Monster cards each round.
 
 ![dungeonPlace]
 
 ***
 
-## 8. Розмістіть в доступному місці 5 карток Досягнень. Вони знадобляться вам пізніше.
+## 8. Put the 5 Success cards within easy reach, they’ll be used later.
 
 ![successCards]
 
 ***
 
-[◄ Попередня](ComponentPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GamePlayPage.md)
+[◄ Previous](ComponentPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlayPage.md)
 
 <!--Image links ref-->
 [heroOnTable]: ../../resources/img/setup01.jpg

@@ -1,6 +1,10 @@
 # Додаткова інформація про гру
 
-[◄ Попередня](DescriptionOfSpecialMonsters.md) | [🚪 Головна 🚪](IndexPage.md)
+[Check ukrainian version of this page](../ua/ReferencesPage.md)
+
+***
+
+[◄ Previous](DescriptionOfSpecialMonsters.md) | [🚪 Main 🚪](IndexPage.md)
 
 ***
 ## Про видавця

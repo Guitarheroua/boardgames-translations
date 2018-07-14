@@ -3,7 +3,7 @@ permalink: /en/wbttd-components-page/
 title: Game Elements
 ---
 
-[Check ukrainian version of this page](../ua/IndexPage.md)
+[Check ukrainian version of this page](../ua/ComponentPage.md)
 
 ***
 
