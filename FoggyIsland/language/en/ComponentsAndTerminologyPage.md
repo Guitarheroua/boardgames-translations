@@ -1,6 +1,6 @@
 ---
-permalink: /*put-your-custom-url-path-link-here*/
-title: Your Title
+permalink: /en/fi-components/
+title: Game Components And Terminology
 ---
 
 # Game Components And Terminology
@@ -9,7 +9,7 @@ title: Your Title
 
 ***
 
-[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](CharactersDescription.md)
+[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](BasicCharactersDescription.md)
 
 ***
 
@@ -100,7 +100,7 @@ Game phase, that continues until all tiles of the Island Map will be filled with
 
 ***
 
-[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](CharactersDescription.md)
+[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](BasicCharactersDescription.md)
 
 ***
 
