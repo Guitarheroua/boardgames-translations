@@ -17,7 +17,7 @@ title: Basic Characters Description
 
 |Token|Description|
 |-|-|
-|![wolf]|**Builds your [Line][line].** Does not have any special abilities. Brings player 1 victory point.|
+|![wolf]|**Builds your [Line][line].** Does not have any special abilities. Brings 1 victory point to player.|
 
 ***
 
@@ -25,7 +25,7 @@ title: Basic Characters Description
 
 |Token|Description|
 |-|-|
-|![rabbit]|**Breaks your [Line][line] and enemies [Line][line].** Does not bring victory points.|
+|![rabbit]|**Breaks your [Line][line] and/or opponents [Line][line].** Does not bring victory points.|
 
 ***
 
@@ -33,7 +33,7 @@ title: Basic Characters Description
 
 |Token|Description|
 |-|-|
-|![pig]|**Builds your [Line][line].** Brings player 1 victory point. Victory points are doubled in lines, which contains Pig token.|
+|![pig]|**Builds your [Line][line].** Brings 1 victory point to player. Victory points are doubled in lines, which contains Pig token.|
 
 ***
 
@@ -41,7 +41,7 @@ title: Basic Characters Description
 
 |Token|Description|
 |-|-|
-|![rat]|**Enemy's spy.** Builds opponent`s [Line][line]. Brings enemy 1 victory point.|
+|![rat]|**Enemy's spy.** Builds opponent`s [Line][line]. Brings 1 victory point to opponent.|
 
 ***
 
