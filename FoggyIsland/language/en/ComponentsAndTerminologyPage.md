@@ -42,10 +42,10 @@ title: Game Components And Terminology
 ![basicCharactersTokens]
 
 * 18 with blue shield on back side and 18 with red shield on back side:
-  * 9 Wolves Warriors
-  * 4 Rats Spies
-  * 3 Rabbits Princesses
-  * 2 Pigs Traders
+  * 9 [Wolf Warriors](BasicCharactersDescription.md#wolf-warrior)
+  * 4 [Rat Spies](BasicCharactersDescription.md#rat-spy)
+  * 3 [Rabbit Princesses](BasicCharactersDescription.md#rabbit-princess)
+  * 2 [Pig Traders](BasicCharactersDescription.md#pig-trader)
 
 ***
 
@@ -60,17 +60,17 @@ title: Game Components And Terminology
 ![mercenaryCharactersTokens]
 
 * 12 with blue shield on back side and 12 with red shield on back side:
-  * 2 Crows Kings
-  * 1 Moldwarp Digger
-  * 1 Prairie Dog Fairy
-  * 1 Hippo Dancer
-  * 1 Chameleon Traitor
-  * 1 Cat Aristocrat
-  * 1 Fox Pirate
-  * 1 Turtle Viking
-  * 1 Frog Ninja
-  * 1 Mouse Guard
-  * 1 Snake Archer
+  * 2 [Crow Kings](MercenaryCharactersDescription.md#crow-king)
+  * 1 [Moldwarp Digger](MercenaryCharactersDescription.md#moldwarp-digger)
+  * 1 [Prairie Dog Fairy](MercenaryCharactersDescription.md#prairie-dog-fairy)
+  * 1 [Hippo Dancer](MercenaryCharactersDescription.md#hippo-dancer)
+  * 1 [Chameleon Traitor](MercenaryCharactersDescription.md#chameleon-traitor)
+  * 1 [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat)
+  * 1 [Fox Pirate](MercenaryCharactersDescription.md#fox-pirate)
+  * 1 [Turtle Viking](MercenaryCharactersDescription.md#turtle-viking)
+  * 1 [Frog Ninja](MercenaryCharactersDescription.md#frog-ninja)
+  * 1 [Mouse Guard](MercenaryCharactersDescription.md#mouse-guard)
+  * 1 [Snake Archer](MercenaryCharactersDescription.md#snake-archer)
 
 ***
 
