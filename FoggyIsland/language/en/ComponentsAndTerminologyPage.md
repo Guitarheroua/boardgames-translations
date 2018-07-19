@@ -25,7 +25,7 @@ title: Game Components And Terminology
 
 ***
 
-## 3 Fog Card Boards
+## 3 Fog Boards
 
 ![fogg]
 
