@@ -41,7 +41,7 @@ title: Game Components And Terminology
 
 ![basicCharactersTokens]
 
-* 18 with blue shield on back side and 18 with red shield on back side:
+* 18 with the blue shield on the back side and 18 with the red shield on the back side:
   * 9 [Wolf Warriors](BasicCharactersDescription.md#wolf-warrior)
   * 4 [Rat Spies](BasicCharactersDescription.md#rat-spy)
   * 3 [Rabbit Princesses](BasicCharactersDescription.md#rabbit-princess)
@@ -59,7 +59,7 @@ title: Game Components And Terminology
 
 ![mercenaryCharactersTokens]
 
-* 12 with blue shield on back side and 12 with red shield on back side:
+* 12 with the blue shield on the back side and 12 with the red shield on the back side:
   * 2 [Crow Kings](MercenaryCharactersDescription.md#crow-king)
   * 1 [Mole Digger](MercenaryCharactersDescription.md#mole-digger)
   * 1 [Prairie Dog Fairy](MercenaryCharactersDescription.md#prairie-dog-fairy)
