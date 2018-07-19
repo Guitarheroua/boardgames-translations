@@ -61,7 +61,7 @@ title: Game Components And Terminology
 
 * 12 with blue shield on back side and 12 with red shield on back side:
   * 2 [Crow Kings](MercenaryCharactersDescription.md#crow-king)
-  * 1 [Moldwarp Digger](MercenaryCharactersDescription.md#moldwarp-digger)
+  * 1 [Mole Digger](MercenaryCharactersDescription.md#mole-digger)
   * 1 [Prairie Dog Fairy](MercenaryCharactersDescription.md#prairie-dog-fairy)
   * 1 [Hippo Dancer](MercenaryCharactersDescription.md#hippo-dancer)
   * 1 [Chameleon Traitor](MercenaryCharactersDescription.md#chameleon-traitor)

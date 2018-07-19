@@ -89,15 +89,15 @@ title: Mercenary Characters Description
 
 ***
 
-## Moldwarp Digger
+## Mole Digger
 
 |Token|Description|Cost|
 |-|-|-|
-|![moldwarp]|**Enemy's spy. Builds opponent`s [Line][line].** After placing Moldwarp, player should swap it with his or opponents character token on [adjacent tiles][adjacentTile]. Brings 1 victory point to opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
+|![mole]|**Enemy's spy. Builds opponent`s [Line][line].** After placing Mole, player should swap it with his or opponents character token on [adjacent tiles][adjacentTile]. Brings 1 victory point to opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
 
 **Example:**
 
-![descrMoldwarp]
+![descrMole]
 
 ***
 
@@ -143,7 +143,7 @@ title: Mercenary Characters Description
 [snake]: ../../resources/img/mc6.jpg
 [chameleon]: ../../resources/img/mc7.jpg
 [crow]: ../../resources/img/mc8.jpg
-[moldwarp]: ../../resources/img/mc9.jpg
+[mole]: ../../resources/img/mc9.jpg
 [prairieDog]: ../../resources/img/mc10.jpg
 [hippo]: ../../resources/img/mc11.jpg
 
@@ -156,7 +156,7 @@ title: Mercenary Characters Description
 [descrFrog]: ../../resources/img/descr1.jpg
 [descrMouse]: ../../resources/img/descr2.jpg
 [descrSnake]: ../../resources/img/descr3.jpg
-[descrMoldwarp]: ../../resources/img/descr4.jpg
+[descrMole]: ../../resources/img/descr4.jpg
 [descrPrairieDog]: ../../resources/img/descr5.jpg
 [descrHippo]: ../../resources/img/descr6.jpg
 
