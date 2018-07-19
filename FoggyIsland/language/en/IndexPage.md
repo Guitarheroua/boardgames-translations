@@ -29,6 +29,8 @@ For whom is this game? This is a nice family or duel game, that is based on a "T
 1. [Game Components And Terminology](ComponentsAndTerminologyPage.md)
 2. [Basic Characters Description](BasicCharactersDescription.md)
 3. [Mercenary Characters Description](MercenaryCharactersDescription.md)
+4. [Weather Cards Description](WeatherCards.md)
+5. [Game Play](GamePlay.md)
 
 ***
 

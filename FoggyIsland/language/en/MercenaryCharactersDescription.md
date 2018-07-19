@@ -9,7 +9,7 @@ title: Mercenary Characters Description
 
 ***
 
-[◄ Previous](BasicCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](.)
+[◄ Previous](BasicCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](WeatherCards.md)
 
 ***
 
@@ -129,7 +129,7 @@ title: Mercenary Characters Description
 
 ***
 
-[◄ Previous](BasicCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](.)
+[◄ Previous](BasicCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](WeatherCards.md)
 
 ***
 
