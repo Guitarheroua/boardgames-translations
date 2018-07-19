@@ -17,7 +17,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![fox]|**Builds your [Line][line].** Forces player to change his character token on [adjacent tile][adjacentTile] to any character token from his hand. Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
+|![fox]|**Builds your [Line][line].** Forces player to change his character token on [adjacent tiles][adjacentTile] to any character token from his hand. Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
 
 ***
 
@@ -53,7 +53,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![mouse]|**Builds your [Line][line].** After placing Mouse, player may swap it with his or opponents character token on [adjacent tile][adjacentTile].  Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
+|![mouse]|**Builds your [Line][line].** After placing Mouse, player may swap it with his or opponents character token on [adjacent tiles][adjacentTile].  Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
 
 **Example:**
 
@@ -77,7 +77,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![chameleon]|**Builds your or opponent's [Line][line].**  When character token placed on [adjacent tile][adjacentTile] to Chameleon token, he changes his color accordingly. Brings 1 victory point to player or opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
+|![chameleon]|**Builds your or opponent's [Line][line].**  When character token placed on [adjacent tiles][adjacentTile] to Chameleon token, he changes his color accordingly. Brings 1 victory point to player or opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
 
 ***
 
@@ -85,7 +85,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![crow]|**Enemy's spy. Builds opponent`s [Line][line].** Brings 1 victory point to opponent.|[![costRat2]](BasicCharactersDescription.md#rat-spy)|
+|![crow]|**Enemy's spy. Builds opponent`s [Line][line].** Player gets half of victory points rounded down, from line with Crow. Brings 1 victory point to opponent.|[![costRat2]](BasicCharactersDescription.md#rat-spy)|
 
 ***
 
@@ -93,7 +93,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![moldwarp]|**Enemy's spy. Builds opponent`s [Line][line].** After placing Moldwarp, player should swap it with his or opponents character token on [adjacent tile][adjacentTile]. Brings 1 victory point to opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
+|![moldwarp]|**Enemy's spy. Builds opponent`s [Line][line].** After placing Moldwarp, player should swap it with his or opponents character token on [adjacent tiles][adjacentTile]. Brings 1 victory point to opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
 
 **Example:**
 
@@ -105,7 +105,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![prairieDog]|**Breaks your [Line][line] and/or opponents [Line][line].** Does not bring victory points.|[![costRabbit]](BasicCharactersDescription.md#rabbit-princess)|
+|![prairieDog]|**Breaks your [Line][line] and/or opponents [Line][line].** After placing Prairie Dog, player may swap two **any** characters on [adjacent tiles][adjacentTile]. Does not bring victory points.|[![costRabbit]](BasicCharactersDescription.md#rabbit-princess)|
 
 **Example:**
 
@@ -117,7 +117,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![hippo]|**Breaks your [Line][line] and/or opponents [Line][line].** Does not bring victory points.|[![costRabbit]](BasicCharactersDescription.md#rabbit-princess)|
+|![hippo]|**Breaks your [Line][line] and/or opponents [Line][line].** You should put Hippo between two tiles. Till your next turn Hippo occupies this two tiles. Next turn player must move Hippo to one of occupied tiles. After that player put his character token as usually. Does not bring victory points.|[![costRabbit]](BasicCharactersDescription.md#rabbit-princess)|
 
 **Example:**
 
