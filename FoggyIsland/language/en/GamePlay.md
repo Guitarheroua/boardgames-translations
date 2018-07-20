@@ -1,15 +1,15 @@
 ---
-permalink: /en/fi-game-play/
-title: Game Play
+permalink: /en/fi-gameplay/
+title: Gameplay
 ---
 
-# Game Play
+# Gameplay
 
 [translation swich](.)
 
 ***
 
-[◄ Previous](WeatherCards.md) | [🚪 Main 🚪](.) | [Next ►](.)
+[◄ Previous](GameSetup.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameEndAndScoring.md)
 
 ***
 
@@ -17,7 +17,7 @@ title: Game Play
 
 ***
 
-[◄ Previous](WeatherCards.md) | [🚪 Main 🚪](.) | [Next ►](.)
+[◄ Previous](GameSetup.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameEndAndScoring.md)
 
 ***
 

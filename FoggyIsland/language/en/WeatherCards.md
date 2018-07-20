@@ -31,7 +31,7 @@ Entire Island Map is available for players. All character tokens should be place
 
 ## Foggy Weather Card
 
-The rules for Foggy Weather Card is similar to [Cloudy Weather](#cloudy-weather-card) Card rules. The only exception is that all character tokens should be placed face down. Player may place [mercenary characters](MercenaryCharactersDescription.md) face up, to use their special abilities. If mercenary character is placed face down its ability is ignored. Players not allowed to check face down characters on the Island Map.
+The rules for Foggy Weather Card is similar to [Cloudy Weather Card](#cloudy-weather-card) rules. The only exception is that all character tokens should be placed face down. Player may place [mercenary characters](MercenaryCharactersDescription.md) face up, to use their special abilities. If mercenary character is placed face down its ability is ignored. Players not allowed to check face down characters on the Island Map.
 
 ![foggy]
 
