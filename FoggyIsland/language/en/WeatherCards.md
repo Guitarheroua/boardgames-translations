@@ -9,7 +9,7 @@ title: Weather Cards Description
 
 ***
 
-[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►]GameSetup.md)
+[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetup.md)
 
 ***
 
