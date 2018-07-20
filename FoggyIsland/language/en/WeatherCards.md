@@ -9,7 +9,7 @@ title: Weather Cards Description
 
 ***
 
-[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
+[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►]GameSetup.md)
 
 ***
 
@@ -37,7 +37,7 @@ The rules for Foggy Weather Card is similar to [Cloudy Weather Card](#cloudy-wea
 
 ***
 
-[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
+[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetup.md)
 
 ***
 

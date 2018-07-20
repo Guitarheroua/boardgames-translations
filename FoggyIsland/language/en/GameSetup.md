@@ -3,7 +3,7 @@ permalink: /en/fi-game-setup/
 title: Game Setup
 ---
 
-# Game Play
+# Game Setup
 
 [translation swich](.)
 
