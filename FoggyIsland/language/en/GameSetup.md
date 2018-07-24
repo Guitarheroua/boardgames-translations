@@ -39,6 +39,12 @@ title: Game Setup
 
 ### 10. Place chosen weather card on spot for card in "Weather and Mercenary Board" and apply it effect described in [weather cards page](WeatherCards.md)
 
+## Extended Game Set: With Mercenary Characters
+
+> Note: The Weather card also included, when you play with Mercenary Characters.
+
+### 11. Each player gets pile of [mercenary characters tokens](MercenaryCharactersDescription.md) with similar shields color on the back. (With red shields for one player, with blue - for another.) and put this token to the "Weather and Mercenary Board" on a spot with color that match tokens shields color
+
 ***
 
 [◄ Previous](WeatherCards.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
