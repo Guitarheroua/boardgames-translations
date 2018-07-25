@@ -5,11 +5,11 @@ title: Basic Characters Description
 
 # Basic Characters Description
 
-[translation swich](.)
+[Check ukrainian version of this page](../ua/BasicCharactersDescription.md) | [Return to Start Page](../../../index.md)
 
 ***
 
-[◄ Previous](ComponentsAndTerminologyPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](MercenaryCharactersDescription.md)
+[◄ Previous](GameEndAndScoring.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](MercenaryCharactersDescription.md)
 
 ***
 
@@ -45,7 +45,7 @@ title: Basic Characters Description
 
 ***
 
-[◄ Previous](ComponentsAndTerminologyPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](MercenaryCharactersDescription.md)
+[◄ Previous](GameEndAndScoring.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](MercenaryCharactersDescription.md)
 
 ***
 

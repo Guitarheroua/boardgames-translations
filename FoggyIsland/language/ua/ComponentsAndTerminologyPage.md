@@ -5,11 +5,11 @@ title: Game Components And Terminology
 
 # Game Components And Terminology
 
-[translation swich](.)
+[Check ukrainian version of this page](../ua/ComponentsAndTerminologyPage.md) | [Return to Start Page](../../../index.md)
 
 ***
 
-[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](BasicCharactersDescription.md)
+[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetup.md)
 
 ***
 
@@ -100,7 +100,7 @@ Game phase, that continues until all tiles of the Island Map will be filled with
 
 ***
 
-[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](BasicCharactersDescription.md)
+[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetup.md)
 
 ***
 

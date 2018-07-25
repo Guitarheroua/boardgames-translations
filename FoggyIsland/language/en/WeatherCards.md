@@ -5,11 +5,11 @@ title: Weather Cards Description
 
 # Weather Cards Description
 
-[translation swich](.)
+[Check ukrainian version of this page](../ua/WeatherCards.md) | [Return to Start Page](../../../index.md)
 
 ***
 
-[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetup.md)
+[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md)
 
 ***
 
@@ -37,7 +37,7 @@ The rules for Foggy Weather Card is similar to [Cloudy Weather Card](#cloudy-wea
 
 ***
 
-[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetup.md)
+[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md)
 
 ***
 

@@ -27,12 +27,12 @@ This is a nice family or duel game, that is based on a "Tic-Tac-Toe" mechanic. I
 ## Chapters
 
 1. [Game Components And Terminology](ComponentsAndTerminologyPage.md)
-2. [Basic Characters Description](BasicCharactersDescription.md)
-3. [Mercenary Characters Description](MercenaryCharactersDescription.md)
-4. [Weather Cards Description](WeatherCards.md)
-5. [Game Setup](GameSetup.md)
-6. [Gameplay](GamePlay.md)
-7. [Game End And Scoring](GameEndAndScoring.md)
+2. [Game Setup](GameSetup.md)
+3. [Game Play](GamePlay.md)
+4. [Game End And Scoring](GameEndAndScoring.md)
+5. [Basic Characters Description](BasicCharactersDescription.md)
+6. [Mercenary Characters Description](MercenaryCharactersDescription.md)
+7. [Weather Cards Description](WeatherCards.md)
 
 ***
 

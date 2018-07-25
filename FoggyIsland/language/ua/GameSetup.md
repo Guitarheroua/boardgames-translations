@@ -5,11 +5,11 @@ title: Game Setup
 
 # Game Setup
 
-[translation swich](.)
+[Check ukrainian version of this page](../ua/GameSetup.md) | [Return to Start Page](../../../index.md)
 
 ***
 
-[◄ Previous](WeatherCards.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
+[◄ Previous](ComponentsAndTerminologyPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
 
 ***
 
@@ -95,7 +95,7 @@ title: Game Setup
 
 ***
 
-[◄ Previous](WeatherCards.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
+[◄ Previous](ComponentsAndTerminologyPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
 
 ***
 

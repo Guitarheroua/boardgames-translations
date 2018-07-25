@@ -3,9 +3,9 @@ permalink: /en/fi-gameplay/
 title: Gameplay
 ---
 
-# Gameplay
+# Game Play
 
-[translation swich](.)
+[Check ukrainian version of this page](../ua/GamePlay.md) | [Return to Start Page](../../../index.md)
 
 ***
 
