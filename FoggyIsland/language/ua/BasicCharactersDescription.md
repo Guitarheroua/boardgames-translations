@@ -1,0 +1,61 @@
+---
+permalink: /en/fi-basic-characters/
+title: Basic Characters Description
+---
+
+# Basic Characters Description
+
+[translation swich](.)
+
+***
+
+[◄ Previous](ComponentsAndTerminologyPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](MercenaryCharactersDescription.md)
+
+***
+
+## Wolf Warrior
+
+|Token|Description|
+|-|-|
+|![wolf]|**Builds your [Line][line].** Does not have any special abilities. Brings 1 victory point to player.|
+
+***
+
+## Rabbit Princess
+
+|Token|Description|
+|-|-|
+|![rabbit]|**Breaks your [Line][line] and/or opponents [Line][line].** Does not bring victory points.|
+
+***
+
+## Pig Trader
+
+|Token|Description|
+|-|-|
+|![pig]|**Builds your [Line][line].** Brings 1 victory point to player. Victory points are doubled in lines, which contains Pig token.|
+
+***
+
+## Rat Spy
+
+|Token|Description|
+|-|-|
+|![rat]|**Enemy's spy.** Builds opponent`s [Line][line]. Brings 1 victory point to opponent.|
+
+***
+
+[◄ Previous](ComponentsAndTerminologyPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](MercenaryCharactersDescription.md)
+
+***
+
+<!--Image links ref-->
+
+[wolf]: ../../resources/img/bc1.jpg
+[rabbit]: ../../resources/img/bc3.jpg
+[pig]: ../../resources/img/bc2.jpg
+[rat]: ../../resources/img/bc4.jpg
+
+<!--Web links ref-->
+
+[line]: ComponentsAndTerminologyPage.md#the-line
