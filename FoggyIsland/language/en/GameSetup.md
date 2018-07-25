@@ -45,6 +45,10 @@ title: Game Setup
 
 ### 11. Each player gets pile of [mercenary characters tokens](MercenaryCharactersDescription.md) with similar shields color on the back. (With red shields for one player, with blue - for another.) and put this token to the "Weather and Mercenary Board" on a spot with color that match tokens shields color
 
+### 12. Put all coins in one pile near "Weather and Mercenary Board"
+
+You are ready to start!
+
 ***
 
 [◄ Previous](WeatherCards.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
