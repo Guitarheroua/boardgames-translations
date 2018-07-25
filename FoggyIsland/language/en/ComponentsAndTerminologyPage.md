@@ -86,6 +86,12 @@ Adjacent Tiles in the game are tiles, that locate side by side horizontally and 
 
 ***
 
+### Free Tile
+
+Tile on "Island Map" that does not contain character token.
+
+***
+
 ### The Line
 
 The Line of 3 or more character tokens, that locate side by side horizontally, vertically or diagonally. The Line of tokens, that breaks by one or more white tokens (Princesses Rabbits) or enemy tokens does not consider as a Line.
@@ -96,7 +102,7 @@ The Line of 3 or more character tokens, that locate side by side horizontally, v
 
 ## Round
 
-Game phase, that continues until all tiles of the Island Map will be filled with character tokens.
+Game phase, that continues until all tiles of the "Island Map" will be filled with character tokens.
 
 ***
 
