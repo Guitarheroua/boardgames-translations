@@ -90,9 +90,13 @@ Use all rules and setup, that described in ["Basic Game"](#basic-game) and ["Gam
 
 ## Team Game
 
+--- In Progress ---
+
 ***
 
 ## Quick Game
+
+--- In Progress ---
 
 ***
 
