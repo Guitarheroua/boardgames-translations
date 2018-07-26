@@ -30,14 +30,12 @@ Player scores all horizontal, vertical and diagonal [lines](ComponentsAndTermino
 |5|7|
 |6|10|
 
-[Pig Trader](BasicCharactersDescription.md#pig-trader), [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat) and [Crow King](MercenaryCharactersDescription.md#crow-king)
-
 ### Character scoring clarification
 
-* If character token builds couple lines, it scores in each of this lines
+* If character token builds a couple lines, it scores in each of this lines
 * If 2 [Pig Traders](BasicCharactersDescription.md#pig-trader) builds one line, victory points are doubled (ignore one Pig ability).
-* If [Pig Trader](BasicCharactersDescription.md#pig-trader) and [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat) builds one line, victory points are tripled (ignore Pig ability).
-* If [Pig Trader](BasicCharactersDescription.md#pig-trader), [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat) and [Crow King](MercenaryCharactersDescription.md#crow-king) builds one line, use Cat and Pig abilities first, and then Crow ability.
+* If [Pig Trader](BasicCharactersDescription.md#pig-trader) and [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat) build one line, victory points are tripled (ignore Pig ability).
+* If [Pig Trader](BasicCharactersDescription.md#pig-trader), [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat), and [Crow King](MercenaryCharactersDescription.md#crow-king) build one line, use Cat and Pig abilities first, and then Crow ability.
 
 ***
 

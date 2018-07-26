@@ -23,8 +23,8 @@ title: Game Play
 
 ![gp1]
 
-2. Player choses one token from hand and places it to any [free tile][freeTile] on the "Island Map". 
-    > Note: Player should try to build [line][line] from his characters tokens on the "Island Map" and block lines of his opponent.
+2. Player chooses one token from hand and places it to any [free tile][freeTile] on the "Island Map". 
+    > Note: Player should try to build a [line][line] from his characters tokens on the "Island Map" and block lines of his opponent.
 
 ![gp2]
 
@@ -45,7 +45,7 @@ title: Game Play
 3. Players note their score somewhere.
 4. Players remove their character tokens from the "Island Map", and form the character tokens piles
 5. Players choose 5 character tokens and shuffle their piles.
-6. Round starts again. Second player become first in this round.
+6. Round starts again. Second player becomes first in this round.
 
 > Note: Game lasts 2 rounds. The winner of the game is the player who scores more victory points.
 
@@ -57,14 +57,14 @@ Use all rules and setup, that described in ["Basic Game"](#basic-game). Addition
 
 ### Additional turn rules
 
-* When current active card is [Sunny Weather](WeatherCards.md#sunny-weather-card), turn should follow by basic rules.
-* When current active card is [Cloudy Weather](WeatherCards.md#cloudy-weather-card) or [Foggy Weather](WeatherCards.md#foggy-weather-card), at the end of the turn, player, who occupied last tile on a opened part, should remove any of Fog Boards from the "Island Map". Next player continue his turn on opened part of the map as usual.
+* When the current active card is a [Sunny Weather](WeatherCards.md#sunny-weather-card), the turn should follow by basic rules.
+* When the current active card is a [Cloudy Weather](WeatherCards.md#cloudy-weather-card) or a [Foggy Weather](WeatherCards.md#foggy-weather-card), at the end of the turn, player, who occupied the last tile on an opened part, should remove any of Fog Boards from the "Island Map". Next player continues his turn on the opened part of the map as usual.
   
 ![gp5]
 
 ### Additional round rule
 
-At the beginning of each round, second player takes 2 top cards from the deck and chooses one from them. Other card returns to the bottom of the weather deck. Player applies it effect described in [weather cards page](WeatherCards.md). This is active weather for this round.
+At the beginning of each round, the second player takes 2 top cards from the deck and chooses one from them. Other card returns to the bottom of the weather deck. Player applies it effect described in [weather cards page](WeatherCards.md). This is the active weather for this round.
 
 ***
 
@@ -75,16 +75,16 @@ Use all rules and setup, that described in ["Basic Game"](#basic-game) and ["Gam
 ### Clarification about characters
 
 1. Players should apply ability of mercenary character when placing token face up (happened on Sunny or Cloudy weather).
-2. Players cannot apply ability of mercenary character when placing token face down (happened on Foggy weather). Exceptions are [Pig Trader](BasicCharactersDescription.md#pig-trader), [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat) and [Crow King](MercenaryCharactersDescription.md#crow-king), their abilities works as usual.
+2. Players cannot apply ability of mercenary character when placing token face down (happened on Foggy weather). Exceptions are [Pig Trader](BasicCharactersDescription.md#pig-trader), [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat), and [Crow King](MercenaryCharactersDescription.md#crow-king), their abilities work as usual.
 
 ### Additional round rules
 
-1. After scoring points, players gets coins equal to number of victory points.
-2. Players may hire mercenary character, exchanging basic character and pay needed cost. (Costs described on ["Mercenary Characters Description"](MercenaryCharactersDescription.md) page).
-3. Players adds hired mercenary characters to their character piles.
+1. After scoring points, players get coins equal to the number of victory points.
+2. Players may hire mercenary character, exchanging basic character and pay a needed cost. (Costs described in ["Mercenary Characters Description"](MercenaryCharactersDescription.md) page).
+3. Players add hired mercenary characters to their character piles.
     > Note: The number of character tokens in player pile should always be equal 18, that's why players must exchange their basic character tokens to mercenary character tokens.
 
-> Note: Game lasts 4 rounds. The winner of the game is the player who scores more coins. If there is a tie, players count cost of all hired mercenary characters. If still a tie, players should play additional round.
+> Note: Game lasts 4 rounds. The winner of the game is the player who scores more coins. If there is a tie, players count the cost of all hired mercenary characters. If still a tie, players should play an additional round.
 
 ***
 
