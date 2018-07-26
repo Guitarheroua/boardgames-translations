@@ -69,13 +69,13 @@ title: Game Setup
 
 ***
 
-10.  Place chosen weather card on "Weather and Mercenary Board" and apply it effect described in [weather cards page](WeatherCards.md)
+10.  Place chosen weather card on "Weather and Mercenary Board" and apply it effect described in [weather cards page](WeatherCards.md). This is your active weather for this round.
 
 ![gs9]
 
 ***
 
-## Extended Game Set: With Mercenary Characters
+## Extended Game Setup: With Mercenary Characters
 
 > Note: The Weather Cards rules are also applied, when you play with Mercenary Characters.
 
