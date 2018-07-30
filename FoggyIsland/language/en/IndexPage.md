@@ -33,6 +33,7 @@ This is a nice family or duel game, that is based on a "Tic-Tac-Toe" mechanic. I
 5. [Basic Characters Description](BasicCharactersDescription.md)
 6. [Mercenary Characters Description](MercenaryCharactersDescription.md)
 7. [Weather Cards Description](WeatherCards.md)
+8. [Additional game information](ReferencesPage.md)
 
 ***
 

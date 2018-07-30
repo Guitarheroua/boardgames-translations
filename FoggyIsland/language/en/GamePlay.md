@@ -13,7 +13,7 @@ title: Game Play
 
 ***
 
-1. [Basic Game](#basic-game])
+1. [Basic Game](#basic-game)
 2. [Game with Weather Cards](#game-with-weather-cards)
 3. [Game with Mercenary Characters](#game-with-mercenary-characters)
 4. [Team Game Variant](#team-game-variant)
