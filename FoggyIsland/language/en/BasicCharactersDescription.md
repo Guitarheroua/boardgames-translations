@@ -5,7 +5,7 @@ title: Basic Characters Description
 
 # Basic Characters Description
 
-[Check ukrainian version of this page](../ua/BasicCharactersDescription.md) | [Return to Start Page](../../../index.md)
+[Check ukrainian version of this page](../ua/BasicCharactersDescription.md)
 
 ***
 

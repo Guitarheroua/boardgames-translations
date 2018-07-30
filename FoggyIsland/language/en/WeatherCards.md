@@ -5,7 +5,7 @@ title: Weather Cards Description
 
 # Weather Cards Description
 
-[Check ukrainian version of this page](../ua/WeatherCards.md) | [Return to Start Page](../../../index.md)
+[Check ukrainian version of this page](../ua/WeatherCards.md)
 
 ***
 

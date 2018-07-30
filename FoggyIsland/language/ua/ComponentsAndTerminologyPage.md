@@ -1,106 +1,112 @@
 ---
-permalink: /en/fi-components/
-title: Game Components And Terminology
+permalink: /ua/fi-components/
+title: Компоненти і Терміни Гри
 ---
 
-# Game Components And Terminology
+# Компоненти і Терміни Гри
 
-[Check ukrainian version of this page](../ua/ComponentsAndTerminologyPage.md) | [Return to Start Page](../../../index.md)
-
-***
-
-[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetup.md)
+[Переглянути цю сторінку англійською](../en/ComponentsAndTerminologyPage.md) 
 
 ***
 
-## 1 Island Map (6x6 Tiles)
+[◄ Попередня](IndexPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GameSetup.md)
+
+***
+
+## 1 Карта острова (6x6 клітинок)
 
 ![map]
 
 ***
 
-## 1 Weather and Mercenary Board
+## 1 Поле Погоди та Найманців
 
 ![board]
 
 ***
 
-## 3 Fog Boards
+## 3 Планшети Мороку
 
 ![fogg]
 
 ***
 
-## 8 Weather Cards
+## 8 Карток Погоди
 
 ![weatherCards]
 
 ***
 
-## 36 Basic Character Tokens
+## 36 Жетонів стартових персонажів
 
 ![basicCharactersTokens]
 
-* 18 with the blue shield on the back side and 18 with the red shield on the back side:
-  * 9 [Wolf Warriors](BasicCharactersDescription.md#wolf-warrior)
-  * 4 [Rat Spies](BasicCharactersDescription.md#rat-spy)
-  * 3 [Rabbit Princesses](BasicCharactersDescription.md#rabbit-princess)
-  * 2 [Pig Traders](BasicCharactersDescription.md#pig-trader)
+* 18 жетонів зі щитами синього та червоного кольору:
+  * 9 [Вовків](BasicCharactersDescription.md#wolf-warrior)
+  * 4 [Щурі](BasicCharactersDescription.md#rat-spy)
+  * 3 [Зайці](BasicCharactersDescription.md#rabbit-princess)
+  * 2 [Свині](BasicCharactersDescription.md#pig-trader)
 
 ***
 
-## 50 Coins with 1, 5, 10 value
+## 50 монет номіналом 1, 5, 10
 
 ![coins]
 
 ***
 
-## 24 Mercenary Character Tokens
+## 24 Жетони персонажів "Найманці"
 
 ![mercenaryCharactersTokens]
 
-* 12 with the blue shield on the back side and 12 with the red shield on the back side:
-  * 2 [Crow Kings](MercenaryCharactersDescription.md#crow-king)
-  * 1 [Mole Digger](MercenaryCharactersDescription.md#mole-digger)
-  * 1 [Prairie Dog Fairy](MercenaryCharactersDescription.md#prairie-dog-fairy)
-  * 1 [Hippo Dancer](MercenaryCharactersDescription.md#hippo-dancer)
-  * 1 [Chameleon Traitor](MercenaryCharactersDescription.md#chameleon-traitor)
-  * 1 [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat)
-  * 1 [Fox Pirate](MercenaryCharactersDescription.md#fox-pirate)
-  * 1 [Turtle Viking](MercenaryCharactersDescription.md#turtle-viking)
-  * 1 [Frog Ninja](MercenaryCharactersDescription.md#frog-ninja)
-  * 1 [Mouse Guard](MercenaryCharactersDescription.md#mouse-guard)
-  * 1 [Snake Archer](MercenaryCharactersDescription.md#snake-archer)
+* 12 жетонів зі щитами синього та червоного кольору:
+  * 2 [Ворони](MercenaryCharactersDescription.md#crow-king)
+  * 1 [Кріт](MercenaryCharactersDescription.md#mole-digger)
+  * 1 [Собачка-фея](MercenaryCharactersDescription.md#prairie-dog-fairy)
+  * 1 [Бегемот](MercenaryCharactersDescription.md#hippo-dancer)
+  * 1 [Хамелеон](MercenaryCharactersDescription.md#chameleon-traitor)
+  * 1 [Кіт](MercenaryCharactersDescription.md#cat-aristocrat)
+  * 1 [Лисиця](MercenaryCharactersDescription.md#fox-pirate)
+  * 1 [Черепаха](MercenaryCharactersDescription.md#turtle-viking)
+  * 1 [Жаба](MercenaryCharactersDescription.md#frog-ninja)
+  * 1 [Миша](MercenaryCharactersDescription.md#mouse-guard)
+  * 1 [Змія](MercenaryCharactersDescription.md#snake-archer)
 
 ***
 
-## Game Terminology
+## Терміни у грі
 
-### Adjacent Tiles
+### Сусідні клітинки
 
-Adjacent Tiles in the game are tiles, that locate side by side horizontally and vertically (but not diagonally). 
+Сусідніми вважаються клітинки, що розташовані поруч у лініях по вертикалі і горизонталі. Клітинки, що розташовані поруч у лініях по діагоналі не вважаються сусідніми.
 
-> Example: Adjacent tiles marked with red shields on the picture
+> Приклад: Сусідні клітинки позначено червоними щитами на малюнку
 
 ![adjacentTiles]
 
 ***
 
-### The Line
+### Вільна клітинка
 
-The Line of 3 or more character tokens, that locate side by side horizontally, vertically or diagonally. The Line of tokens, that breaks by one or more white tokens (Princesses Rabbits) or enemy tokens does not consider as a Line.
+Клітинка на карті острова, на якій немає жетона персонажа.
+
+***
+
+### Лінія
+
+Ряд жетонів, не менше трьох, які розміщенні по горизонталі, вертикалі або діагоналі. Ряд жетонів, який перервано білим жетоном (наприклад Зайцем) або жетоном суперника не вважається лінією.
 
 ![lines]
 
 ***
 
-## Round
+## Раунд
 
-Game phase, that continues until all tiles of the Island Map will be filled with character tokens.
+Етап гри, триває поки все ігрове поле не буде заповнене жетонами персонажів.
 
 ***
 
-[◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameSetup.md)
+[◄ Попередня](IndexPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GameSetup.md)
 
 ***
 

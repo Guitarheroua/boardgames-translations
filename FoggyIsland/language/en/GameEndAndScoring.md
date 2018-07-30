@@ -5,7 +5,7 @@ title: Game End And Scoring
 
 # Game End And Scoring
 
-[Check ukrainian version of this page](../ua/GameEndAndScoring.md) | [Return to Start Page](../../../index.md)
+[Check ukrainian version of this page](../ua/GameEndAndScoring.md)
 
 ***
 

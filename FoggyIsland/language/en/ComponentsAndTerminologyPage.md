@@ -5,7 +5,7 @@ title: Game Components And Terminology
 
 # Game Components And Terminology
 
-[Check ukrainian version of this page](../ua/ComponentsAndTerminologyPage.md) | [Return to Start Page](../../../index.md)
+[Check ukrainian version of this page](../ua/ComponentsAndTerminologyPage.md)
 
 ***
 

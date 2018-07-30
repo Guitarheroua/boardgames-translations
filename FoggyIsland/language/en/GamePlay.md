@@ -5,7 +5,7 @@ title: Game Play
 
 # Game Play
 
-[Check ukrainian version of this page](../ua/GamePlay.md) | [Return to Start Page](../../../index.md)
+[Check ukrainian version of this page](../ua/GamePlay.md)
 
 ***
 

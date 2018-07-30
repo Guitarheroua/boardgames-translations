@@ -1,15 +1,15 @@
 ---
-permalink: /en/fi-ref-page/
-title: Aditional game information
+permalink: /ua/fi-ref-page/
+title: Додаткова Інформація про Гру
 ---
 
-# Aditional game information
+# Додаткова Інформація про Гру
 
-[Check ukrainian version of this page](../ua/ReferencesPage.md)
+[Переглянути цю сторінку англійською](../en/ReferencesPage.md)
 
 ***
 
-[◄ Previous](WeatherCards.md) | [🚪 Main 🚪](IndexPage.md)
+[◄ Попередня](WeatherCards.md) | [🚪 Головна 🚪](IndexPage.md)
 
 ***
 

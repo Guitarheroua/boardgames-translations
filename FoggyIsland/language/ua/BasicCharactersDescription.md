@@ -1,15 +1,15 @@
 ---
-permalink: /en/fi-basic-characters/
-title: Basic Characters Description
+permalink: /ua/fi-basic-characters/
+title: Опис Стартових Персонажів
 ---
 
-# Basic Characters Description
+# Опис Стартових Персонажів
 
-[Check ukrainian version of this page](../ua/BasicCharactersDescription.md) | [Return to Start Page](../../../index.md)
+[Переглянути цю сторінку англійською](../en/BasicCharactersDescription.md)
 
 ***
 
-[◄ Previous](GameEndAndScoring.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](MercenaryCharactersDescription.md)
+[◄ Попередня](GameEndAndScoring.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](MercenaryCharactersDescription.md)
 
 ***
 
@@ -45,7 +45,7 @@ title: Basic Characters Description
 
 ***
 
-[◄ Previous](GameEndAndScoring.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](MercenaryCharactersDescription.md)
+[◄ Попередня](GameEndAndScoring.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](MercenaryCharactersDescription.md)
 
 ***
 

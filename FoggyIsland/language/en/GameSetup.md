@@ -5,7 +5,7 @@ title: Game Setup
 
 # Game Setup
 
-[Check ukrainian version of this page](../ua/GameSetup.md) | [Return to Start Page](../../../index.md)
+[Check ukrainian version of this page](../ua/GameSetup.md)
 
 ***
 

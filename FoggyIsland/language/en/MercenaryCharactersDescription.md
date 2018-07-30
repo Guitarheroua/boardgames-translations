@@ -5,7 +5,7 @@ title: Mercenary Characters Description
 
 # Mercenary Characters Description
 
-[Check ukrainian version of this page](../ua/MercenaryCharactersDescription.md) | [Return to Start Page](../../../index.md)
+[Check ukrainian version of this page](../ua/MercenaryCharactersDescription.md)
 
 ***
 

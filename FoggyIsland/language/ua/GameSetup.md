@@ -1,15 +1,15 @@
 ---
-permalink: /en/fi-game-setup/
-title: Game Setup
+permalink: /ua/fi-game-setup/
+title: Підготовка до Гри
 ---
 
-# Game Setup
+# Підготовка до Гри
 
-[Check ukrainian version of this page](../ua/GameSetup.md) | [Return to Start Page](../../../index.md)
+[Переглянути цю сторінку англійською](../en/GameSetup.md)
 
 ***
 
-[◄ Previous](ComponentsAndTerminologyPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
+[◄ Попередня](ComponentsAndTerminologyPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GamePlay.md)
 
 ***
 
@@ -69,13 +69,13 @@ title: Game Setup
 
 ***
 
-10.  Place chosen weather card on "Weather and Mercenary Board" and apply it effect described in [weather cards page](WeatherCards.md)
+10.  Place chosen weather card on "Weather and Mercenary Board" and apply it effect described in [weather cards page](WeatherCards.md). This is your active weather for this round.
 
 ![gs9]
 
 ***
 
-## Extended Game Set: With Mercenary Characters
+## Extended Game Setup: With Mercenary Characters
 
 > Note: The Weather Cards rules are also applied, when you play with Mercenary Characters.
 
@@ -95,7 +95,7 @@ title: Game Setup
 
 ***
 
-[◄ Previous](ComponentsAndTerminologyPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
+[◄ Попередня](ComponentsAndTerminologyPage.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](GamePlay.md)
 
 ***
 

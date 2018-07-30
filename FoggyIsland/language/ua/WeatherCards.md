@@ -1,15 +1,15 @@
 ---
-permalink: /en/fi-weather-cards/
-title: Weather Cards Description
+permalink: /ua/fi-weather-cards/
+title: Опис Карт Погоди
 ---
 
-# Weather Cards Description
+# Опис Карт Погоди
 
-[Check ukrainian version of this page](../ua/WeatherCards.md) | [Return to Start Page](../../../index.md)
+[Переглянути цю сторінку англійською](../en/WeatherCards.md)
 
 ***
 
-[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md)
+[◄ Попередня](MercenaryCharactersDescription.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
 
 ***
 
@@ -37,7 +37,7 @@ The rules for Foggy Weather Card is similar to [Cloudy Weather Card](#cloudy-wea
 
 ***
 
-[◄ Previous](MercenaryCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md)
+[◄ Попередня](MercenaryCharactersDescription.md) | [🚪 Головна 🚪](IndexPage.md) | [Наступна ►](ReferencesPage.md)
 
 ***
 

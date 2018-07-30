@@ -1,16 +1,16 @@
 ---
 permalink: /ua/fi-main/
-title: Foggy Island
+title: Туманний Острів
 ---
 
-# Foggy Island
+# Туманний Острів
 
-[Check ukrainian version of this page](../en/IndexPage.md) | [Return to Start Page](../../../index.md)
+[Переглянути цю сторінку англійською](../en/IndexPage.md) | [Повернутись на Початкову сторінку](../../../index.md)
 
 
-## Rules of play
+## Правила гри
 
-> Original game rules for ["Foggy Island"][gamePage] from ["TAKAMAKA"][TAKAMAKA] company presented as Markdown.
+> Переклад англійською оригінальних правил гри ["Туманний Острів"][gamePage] від компанії ["TAKAMAKA"][TAKAMAKA]. Виключно для ознайомлення. Неофіційний переклад.
 
 ***
 
@@ -18,21 +18,23 @@ title: Foggy Island
 
 ***
 
-Foggy Island is the fantasy world full of adventures and surprises.
+Фантастичний світ "Туманного острова" наповнений пригодами, інтригами та несподіванками! 
 
-The race for power was never so interesting and exciting.
+Ще ніколи боротьба за владу не була такою цікавою і азартною одночасно. 
 
-This is a nice family or duel game, that is based on a "Tic-Tac-Toe" mechanic. It gives the possibility to show logical thinking and strategic skills. Each player's army consists of 18 characters which are used to create lines that bring victory points. But beware of spies that are sneaking everywhere and helping your opponent. Let's start the Adventure!
+Для кого ця гра? Це чудовий варіант сімейної чи дуельної гри на основі простих і всім відомих правил “хрестиків-нуликів” збагачений новими можливостями застосувати свою логіку, ерудицію та стратегічне мислення. 
+Армія кожного гравця складається з вісімнадцяти персонажів, які, стаючи в ряди, приносять переможні бали. Однак остерігайтесь Шпигунів - вони шастають усюди та допомагають супернику! Вперед на пошуки пригод!
 
 ## Chapters
 
-1. [Game Components And Terminology](ComponentsAndTerminologyPage.md)
-2. [Game Setup](GameSetup.md)
-3. [Game Play](GamePlay.md)
-4. [Game End And Scoring](GameEndAndScoring.md)
-5. [Basic Characters Description](BasicCharactersDescription.md)
-6. [Mercenary Characters Description](MercenaryCharactersDescription.md)
-7. [Weather Cards Description](WeatherCards.md)
+1. [Компоненти і Терміни Гри](ComponentsAndTerminologyPage.md)
+2. [Підготовка до Гри](GameSetup.md)
+3. [Ігровий Процес](GamePlay.md)
+4. [Кінець Гри і Підрахунок Балів](GameEndAndScoring.md)
+5. [Опис Стартових Персонажів](BasicCharactersDescription.md)
+6. [Опис Персонажів "Найманці"](MercenaryCharactersDescription.md)
+7. [Опис Карт Погоди](WeatherCards.md)
+8. [Додаткова Інформація про Гру](ReferencesPage.md)
 
 ***
 
