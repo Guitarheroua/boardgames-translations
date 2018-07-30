@@ -1,11 +1,11 @@
 ---
-permalink: /en/fi-main/
+permalink: /ua/fi-main/
 title: Foggy Island
 ---
 
 # Foggy Island
 
-[Check ukrainian version of this page](../ua/IndexPage.md) | [Return to Start Page](../../../index.md)
+[Check ukrainian version of this page](../en/IndexPage.md) | [Return to Start Page](../../../index.md)
 
 
 ## Rules of play
