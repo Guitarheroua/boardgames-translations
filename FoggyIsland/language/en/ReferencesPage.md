@@ -1,9 +1,9 @@
 ---
 permalink: /en/fi-ref-page/
-title: Aditional game information
+title: Additional game information
 ---
 
-# Aditional game information
+# Additional game information
 
 [Check ukrainian version of this page](../ua/ReferencesPage.md)
 
