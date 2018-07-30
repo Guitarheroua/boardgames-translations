@@ -27,34 +27,34 @@ title: Game Play
 
 ### Turn overview
 
-1. Player always should have 5 character tokens at the beginning of his turn.
+* Player always should have 5 character tokens at the beginning of his turn.
    > Note: Player may have characters, with a background color of his opponent's characters. Try to use them carefully.
 
 ![gp1]
 
-1. Player chooses one token from hand and places it to any [free tile][freeTile] on the "Island Map". 
+* Player chooses one token from hand and places it to any [free tile][freeTile] on the "Island Map". 
     > Note: Player should try to build a [line][line] from his characters tokens on the "Island Map" and block lines of his opponent.
 
 ![gp2]
 
-3. Player takes one token from  the top of his character tokens pile.
+* Player takes one token from  the top of his character tokens pile.
     > Note: Player cannot have more than 5 tokens in his hand.
 
 ![gp3]
 
-4. Turn goes to the next player.
+* Turn goes to the next player.
 
 ### The End of the Round
 
-1. The round ends, when no [free tiles][freeTile] are left on the "Island Map".
+* The round ends, when no [free tiles][freeTile] are left on the "Island Map".
 
 ![gp4]
 
-2. After the end of the round players score their victory points. (See ["Game End And Scoring"](GameEndAndScoring.md))
-3. Players note their score somewhere.
-4. Players remove their character tokens from the "Island Map", and form the character tokens piles
-5. Players choose 5 character tokens and shuffle their piles.
-6. Round starts again. Second player becomes first in this round.
+* After the end of the round players score their victory points. (See ["Game End And Scoring"](GameEndAndScoring.md))
+* Players note their score somewhere.
+* Players remove their character tokens from the "Island Map", and form the character tokens piles
+* Players choose 5 character tokens and shuffle their piles.
+* Round starts again. Second player becomes first in this round.
 
 > Note: Game lasts 2 rounds. The winner of the game is the player who scores more victory points.
 
