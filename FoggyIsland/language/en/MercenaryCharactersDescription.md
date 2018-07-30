@@ -125,10 +125,6 @@ title: Mercenary Characters Description
 
 ***
 
-**Note: All characters token with white background cannot be moved by any of Mercenary character's effect. They do not bring any points to players.**
-
-***
-
 [◄ Previous](BasicCharactersDescription.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](WeatherCards.md)
 
 ***

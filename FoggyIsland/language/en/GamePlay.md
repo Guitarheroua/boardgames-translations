@@ -13,6 +13,14 @@ title: Game Play
 
 ***
 
+1. [Basic Game](#basic-game])
+2. [Game with Weather Cards](#game-with-weather-cards)
+3. [Game with Mercenary Characters](#game-with-mercenary-characters)
+4. [Team Game Variant](#team-game-variant)
+5. [Quick Game Variant](#quick-game-variant)
+
+***
+
 ## Basic Game
 
 > Note: For this game use ["Basic Game Setup"](GameSetup.md#basic-game-setup)
@@ -20,10 +28,11 @@ title: Game Play
 ### Turn overview
 
 1. Player always should have 5 character tokens at the beginning of his turn.
+   > Note: Player may have characters, with a background color of his opponent's characters. Try to use them carefully.
 
 ![gp1]
 
-2. Player chooses one token from hand and places it to any [free tile][freeTile] on the "Island Map". 
+1. Player chooses one token from hand and places it to any [free tile][freeTile] on the "Island Map". 
     > Note: Player should try to build a [line][line] from his characters tokens on the "Island Map" and block lines of his opponent.
 
 ![gp2]
@@ -76,6 +85,7 @@ Use all rules and setup, that described in ["Basic Game"](#basic-game) and ["Gam
 
 1. Players should apply ability of mercenary character when placing token face up (happened on Sunny or Cloudy weather).
 2. Players cannot apply ability of mercenary character when placing token face down (happened on Foggy weather). Exceptions are [Pig Trader](BasicCharactersDescription.md#pig-trader), [Cat Aristocrat](MercenaryCharactersDescription.md#cat-aristocrat), and [Crow King](MercenaryCharactersDescription.md#crow-king), their abilities work as usual.
+   > **Note: All characters token with white background cannot be moved by any of Mercenary character's effect. They do not bring any points to players.**
 
 ### Additional round rules
 
@@ -88,15 +98,43 @@ Use all rules and setup, that described in ["Basic Game"](#basic-game) and ["Gam
 
 ***
 
-## Team Game
+## Team Game Variant
 
---- In Progress ---
+This is variant of the game for  2 teams (2 players in each team).
+
+Use all rules and setup, that described in ["Game with Mercenary Characters"](#game-with-mercenary-characters). In this variant players should choose one weather for entire game. In this variant only [Sunny Weather](WeatherCards.md#sunny-weather-card) is possible.
+
+### Additional Setup
+
+In a team divide 18 character pile between 2 players (9 character for each player in a team).
+
+### Additional turn rules for ["Basic Game"](#basic-game)
+
+1. Player should takes character tokens only from his own pile. It is not allowed to take characters from teammate pile.
+2. Players from one team should not discuss their tactics or give advices for each other.
+3. Player from one team should not have turn immediately after his teammate.
+  
+### Additional turn rules for ["Game with Mercenary Characters"](#game-with-mercenary-characters)
+
+1. Players from one team have common pile of coins.
+2. Only one player from each team may be responsible for hiring mercenary characters. Those players cannot discuss, which character to hire, with their teammates.
+3. If team has coins lefts after hiring, other teammates may hire additional mercenary characters.
+4. Players from team shuffle all hired mercenary characters and dived pile between players.
 
 ***
 
-## Quick Game
+## Quick Game Variant
 
---- In Progress ---
+Use all rules and setup, that described in ["Game with Mercenary Characters"](#game-with-mercenary-characters). In this variant players should choose one weather for entire game.
+
+> Note: Game lasts 2 rounds in this variant.
+
+### Additional game setup for quick game
+
+1. Players get 80 coins each at the beginning of the game.
+2. Players can buy Mercenary characters for this coins.
+3. All coins that left, should be returned to coins general pile.
+4. Play game by ["Game with Mercenary Characters"](#game-with-mercenary-characters) rules, but use the weather, that was chosen at the beginning of the game.  
 
 ***
 
