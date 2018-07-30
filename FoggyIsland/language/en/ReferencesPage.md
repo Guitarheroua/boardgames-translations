@@ -23,7 +23,6 @@ title: Aditional game information
 
 * **Designers:** [Roman Zadorozhnyy](https://boardgamegeek.com/user/PressStartUA)
 * **Artist:** Nazar Ponik
-* **Project Manager:** Virginie Gilson
 
 ***
 
