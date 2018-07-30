@@ -41,7 +41,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![frog]|**Builds your [Line][line].** Each turn player may move Frog to any empty [adjacent tile][adjacentTile], before placing new character token. Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
+|![frog]|**Builds your [Line][line].** Each turn player may move Frog to any empty [adjacent tile][adjacentTile], before placing new character token. Brings 1 victory point to player(*See possible variants on the example below*).|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
 
 **Example:**
 
@@ -53,7 +53,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![mouse]|**Builds your [Line][line].** After placing Mouse, player may swap it with his or opponents character token on [adjacent tiles][adjacentTile].  Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
+|![mouse]|**Builds your [Line][line].** After placing Mouse, player may swap it with his or opponents character token on [adjacent tiles][adjacentTile](*See possible variants on the example below*).  Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
 
 **Example:**
 
@@ -93,7 +93,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![mole]|**Enemy's spy. Builds opponent`s [Line][line].** After placing Mole, player should swap it with his or opponents character token on [adjacent tiles][adjacentTile]. Brings 1 victory point to opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
+|![mole]|**Enemy's spy. Builds opponent`s [Line][line].** After placing Mole, player should swap it with his or opponents character token on [adjacent tiles][adjacentTile](*See possible variants on the example below*). Brings 1 victory point to opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
 
 **Example:**
 
