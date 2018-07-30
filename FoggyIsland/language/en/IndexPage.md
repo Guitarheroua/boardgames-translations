@@ -10,7 +10,7 @@ title: Foggy Island
 
 ## Rules of play
 
-> Original game rules for ["Foggy Island"][gamePage] from ["TAKAMAKA"][TAKAMAKA] company presented as Markdown.
+> Non official rules for game ["Foggy Island"][gamePage] from ["TAKAMAKA"][TAKAMAKA] company presented as Markdown.
 
 ***
 
