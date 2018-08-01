@@ -30,13 +30,12 @@ title: З поверненням в Підземелля
 
 ## Розділи
 
-1. [Головна сторінка](IndexPage.md)
-2. [Компоненти гри](ComponentPage.md)
-3. [Підготовка до гри](GameSetupPage.md)
-4. [Ігровий процес](GamePlayPage.md)
-5. [Уточнення до жетонів спорядження](ClarificationsOfEquipmentTilesPage.md)
-6. [Опис особливих чудовиськ](DescriptionOfSpecialMonsters.md)
-7. [Додаткова інформація про гру](ReferencesPage.md)
+1. [Компоненти гри](ComponentPage.md)
+2. [Підготовка до гри](GameSetupPage.md)
+3. [Ігровий процес](GamePlayPage.md)
+4. [Уточнення до жетонів спорядження](ClarificationsOfEquipmentTilesPage.md)
+5. [Опис особливих чудовиськ](DescriptionOfSpecialMonsters.md)
+6. [Додаткова інформація про гру](ReferencesPage.md)
 
 ***
 
