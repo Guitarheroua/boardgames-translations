@@ -12,12 +12,12 @@ title: Game Play
 [◄ Previous](GameSetup.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameEndAndScoring.md)
 
 ***
-
-1. [Basic Game](#basic-game)
-2. [Game with Weather Cards](#game-with-weather-cards)
-3. [Game with Mercenary Characters](#game-with-mercenary-characters)
-4. [Team Game Variant](#team-game-variant)
-5. [Quick Game Variant](#quick-game-variant)
+- [Game Setup](#game-play)
+    - [Basic Game](#basic-game)
+    - [Game with Weather Cards](#game-with-weather-cards)
+    - [Game with Mercenary Characters](#game-with-mercenary-characters)
+    - [Team Game Variant](#team-game-variant)
+    - [Quick Game Variant](#quick-game-variant)
 
 ***
 

@@ -12,6 +12,12 @@ title: Game Setup
 [◄ Previous](ComponentsAndTerminologyPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GamePlay.md)
 
 ***
+- [Game Setup](#game-setup)
+    - [Basic Game Setup](#basic-game-setup)
+    - [Extended Game Setup: With Weather Cards](#extended-game-setup-with-weather-cards)
+    - [Extended Game Setup: With Mercenary Characters](#extended-game-setup-with-mercenary-characters)
+
+***
 
 ## Basic Game Setup
 

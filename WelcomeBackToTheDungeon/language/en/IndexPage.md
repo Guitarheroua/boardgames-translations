@@ -31,13 +31,12 @@ monsters to the dungeon, remove equipment from the hero, or decide to pass for t
 
 ## Chepters
 
-1. [Main Page](IndexPage.md)
-2. [Game Elements](ComponentPage.md)
-3. [Game Setup](GameSetupPage.md)
-4. [Gameplay](GamePlayPage.md)
-5. [Clarifications of Equipment Tiles](ClarificationsOfEquipmentTilesPage.md)
-6. [Description of Special Monsters](DescriptionOfSpecialMonsters.md)
-7. [Aditional game information](ReferencesPage.md)
+1. [Game Elements](ComponentPage.md)
+2. [Game Setup](GameSetupPage.md)
+3. [Gameplay](GamePlayPage.md)
+4. [Clarifications of Equipment Tiles](ClarificationsOfEquipmentTilesPage.md)
+5. [Description of Special Monsters](DescriptionOfSpecialMonsters.md)
+6. [Additional game information](ReferencesPage.md)
 
 ***
 

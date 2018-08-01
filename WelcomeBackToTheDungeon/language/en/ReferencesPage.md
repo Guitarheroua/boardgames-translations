@@ -1,6 +1,6 @@
 ---
 permalink: /en/wbttd-ref-page/
-title: Aditional game information
+title: Additional game information
 ---
 
 [Check ukrainian version of this page](../ua/ReferencesPage.md)
@@ -10,6 +10,7 @@ title: Aditional game information
 [◄ Previous](DescriptionOfSpecialMonsters.md) | [🚪 Main 🚪](IndexPage.md)
 
 ***
+
 ## About Publisher
 
 * [IELLO Games webpage](http://www.iellogames.com/)
