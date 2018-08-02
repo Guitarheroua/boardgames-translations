@@ -9,7 +9,7 @@ title: Welcome Back to the Dungeon
 
 ## Rules of play
 
-> Original [game rules][rules] for ["WELCOME BACK TO THE DUNGEON"][gamePage] from ["IELLO"][ielloPage] company presented as Markdown.
+> Unofficial Ukrainian translation of original  [game rules][rules] for ["WELCOME BACK TO THE DUNGEON"][gamePage] from ["IELLO"][ielloPage] company presented as Markdown.
 
 ***
 
