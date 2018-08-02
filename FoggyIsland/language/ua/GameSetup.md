@@ -13,83 +13,90 @@ title: Підготовка до Гри
 
 ***
 
-## Basic Game Setup
+- [Підготовка до Гри](#%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B4%D0%BE-%D0%B3%D1%80%D0%B8)
+    - [Підгототовка до Простої Гри](#%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B4%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%97-%D0%B3%D1%80%D0%B8)
+    - [Підготовка до гри з Катками Погоди](#%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B4%D0%BE-%D0%B3%D1%80%D0%B8-%D0%B7-%D0%BA%D0%B0%D1%82%D0%BA%D0%B0%D0%BC%D0%B8-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8)
+    - [Підготовка до гри з жетонами "нацманців"](#%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B4%D0%BE-%D0%B3%D1%80%D0%B8-%D0%B7-%D0%B6%D0%B5%D1%82%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8-%22%D0%BD%D0%B0%D1%86%D0%BC%D0%B0%D0%BD%D1%86%D1%96%D0%B2%22)
 
-1. Put "Island Map" in the center of the table
+***
+
+## Підгототовка до Простої Гри
+
+* Розкладіть Карту Острова на центрі столу
 
 ![gs1]
 
 ***
 
-2. Each player gets a pile of tokens with similar shields color on the back. (With red shields for one player, with blue - for another.)
+* Кожен гравець отримує усі жетони з однаковим кольором щита. (З червоним щитом для одного гравця, з синім - для іншого)
 
 ![gs2]
 
 ***
 
-3. Each player should divide his pile of tokens for two smaller piles: [basic characters](BasicCharactersDescription.md) (18 tokens) and [mercenary characters](MercenaryCharactersDescription.md) (12 tokens)
+* Гравці повинні розділити свої жетони на [стартових персонажів](BasicCharactersDescription.md) (18 жетонів) і [персонажів "найманців"](MercenaryCharactersDescription.md)(12 жетонів).
 
-> Note: If you play Basic Game, you do not need [mercenary characters tokens](MercenaryCharactersDescription.md). Return them back to the box.
+    > Примітка: Для простої гри не потрібні жетони [персонажів "найманців"](MercenaryCharactersDescription.md). Їх можна повернути до коробки.
 
 ![gs3] ![gs4]
 
 ***
 
-4. Take 5 tokens from the pile with [basic characters](BasicCharactersDescription.md). Do not show tokens to your opponent
+* Оберіть 5 жетонів з стосу [стартових персонажів](BasicCharactersDescription.md). Не показуйте обрані жетони супернику.
 
 ![gs5]
 
 ***
 
-5. Carefully shuffle rest of the pile and put it near you face down
+* Ретельно перемішайте жетони що залишились і покладіть їх долілиць біля себе.
 
 ***
 
-6. Choose the first player, who was on a trip recently or won previous game
+* Першим ходить гравець, який нещодавно повернувся з подорожі або переміг у попередній грі.
 
 ***
 
-## Extended Game Setup: With Weather Cards
+## Підготовка до гри з Катками Погоди
 
-7. Place "Weather and Mercenary Board" near "Island Map"
+* Покладіть "Поле Погоди та Найманців" біля "Карти Острова"
 
 ![gs6]
 
 ***
 
-8. Shuffle weather cards and put them near "Weather and Mercenary Board"
+* Перемішайте "Картки Погоди" і покладіть колоду біля "Поля Погоди та Найманців"
 
 ![gs7]
 
 ***
 
-9. The Second player takes 2 top cards from the deck and chooses one from them. Other card returns to the bottom of the weather deck
+* Гравець, який ходить другим, бере 2 верхні картки з колоди і обирає одну з них. Інша карта повертається під низ колоди.
 
 ![gs8]
 
 ***
 
-10.  Place chosen weather card on "Weather and Mercenary Board" and apply it effect described in [weather cards page](WeatherCards.md). This is your active weather for this round.
+* Гравець кладе обрану картку погоди на "Поле Погоди та Найманців" і застосовує властивість погоди. (усі властивості описані на сторінці ["Картки Погоди"](WeatherCards.md)). Обрана погода діє до кінця раунду.
 
 ![gs9]
 
 ***
 
-## Extended Game Setup: With Mercenary Characters
+## Підготовка до гри з жетонами "нацманців"
 
-> Note: The Weather Cards rules are also applied, when you play with Mercenary Characters.
+> Примітка: Правила гри з картками погоди застосовуються у цьому варіанті гри
 
-11.  Each player gets a pile of [mercenary characters tokens](MercenaryCharactersDescription.md) with similar shields color on the back. (With red shields for one player, with blue for another.) and put these tokens to the "Weather and Mercenary Board"
+* Кожен гравець отримує стос жетонів ["найманців"](MercenaryCharactersDescription.md) з однаковим кольором щита. (З червоним щитом для одного гравця, з синім - для іншого). Гравці кладуть отримані жетони на "Поле Погоди та Найманців".
 
 ![gs10]
 
 ***
 
-12. Put all coins in one pile near "Weather and Mercenary Board"
+* Покладіть всі монети біля "Поля Погоди та Найманців"
 
 ![gs11]
 
-13. You are ready to start!
+* Усе готово щоб розпочинати гру!
 
 ![gs12]
 
