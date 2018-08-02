@@ -12,12 +12,22 @@ title: Game Play
 [◄ Previous](GameSetup.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameEndAndScoring.md)
 
 ***
-- [Game Setup](#game-play)
+- [Game Play](#game-play)
     - [Basic Game](#basic-game)
+        - [Turn overview](#turn-overview)
+        - [The End of the Round](#the-end-of-the-round)
     - [Game with Weather Cards](#game-with-weather-cards)
+        - [Additional turn rules](#additional-turn-rules)
+        - [Additional round rule](#additional-round-rule)
     - [Game with Mercenary Characters](#game-with-mercenary-characters)
+        - [Clarification about characters](#clarification-about-characters)
+        - [Additional round rules](#additional-round-rules)
     - [Team Game Variant](#team-game-variant)
+        - [Additional Setup](#additional-setup)
+        - [Additional turn rules for "Basic Game"](#additional-turn-rules-for-%22basic-game%22)
+        - [Additional turn rules for "Game with Mercenary Characters"](#additional-turn-rules-for-%22game-with-mercenary-characters%22)
     - [Quick Game Variant](#quick-game-variant)
+        - [Additional game setup for quick game](#additional-game-setup-for-quick-game)
 
 ***
 
