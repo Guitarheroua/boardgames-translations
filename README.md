@@ -1,5 +1,7 @@
 # Board Games Translations
 
+https://guitarheroua.github.io/boardgames-translations/
+
 Here you can find unofficial translations for board games rules. All translations will be for English or Ukrainian games from [my personal collection](https://www.boardgamegeek.com/collection/user/guitarheroua?columns=title%7Cthumbnail%7Crating%7Cbggrating&own=1&ff=1), that do not have official translations of rules. Do not hastate, and correct me, my mistakes, or share some ideas.
 
 How to [create an issue](https://help.github.com/articles/creating-an-issue/), and leave your comment.
