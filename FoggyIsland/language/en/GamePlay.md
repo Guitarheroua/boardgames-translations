@@ -42,23 +42,33 @@ title: Game Play
 
 ![gp1]
 
+***
+
 * Player chooses one token from hand and places it to any [free tile][freeTile] on the "Island Map". 
     > Note: Player should try to build a [line][line] from his characters tokens on the "Island Map" and block lines of his opponent.
 
 ![gp2]
+
+***
 
 * Player takes one token from  the top of his character tokens pile.
     > Note: Player cannot have more than 5 tokens in his hand.
 
 ![gp3]
 
+***
+
 * Turn goes to the next player.
+
+***
 
 ### The End of the Round
 
 * The round ends, when no [free tiles][freeTile] are left on the "Island Map".
 
 ![gp4]
+
+***
 
 * After the end of the round players score their victory points. (See ["Game End And Scoring"](GameEndAndScoring.md))
 * Players note their score somewhere.
@@ -80,6 +90,8 @@ Use all rules and setup, that described in ["Basic Game"](#basic-game). Addition
 * When the current active card is a [Cloudy Weather](WeatherCards.md#cloudy-weather-card) or a [Foggy Weather](WeatherCards.md#foggy-weather-card), at the end of the turn, player, who occupied the last tile on an opened part, should remove any of Fog Boards from the "Island Map". Next player continues his turn on the opened part of the map as usual.
   
 ![gp5]
+
+***
 
 ### Additional round rule
 
