@@ -17,7 +17,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![fox]|**Builds your [Line][line].** Forces player to change his character token on [adjacent tiles][adjacentTile] to any character token from his hand. Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
+|![fox]|**Builds your [Line][line].** Forces player to change his character token on [adjacent tiles][adjacentTile] to any character token from his hand.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
 
 ***
 
@@ -25,7 +25,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![turtle]|**Builds your [Line][line].** Gives additional action to place character token for player and his opponent. Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
+|![turtle]|**Builds your [Line][line].** Gives additional action to place character token for player and his opponent.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
 
 ***
 
@@ -33,7 +33,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![cat]|**Builds your [Line][line].** Victory points are triplet in lines, which contains Cat token. Brings 1 victory point to player.|[![costPig]](BasicCharactersDescription.md#pig-trader)|
+|![cat]|**Builds your [Line][line].** Victory points are triplet in lines, which contains Cat token.|[![costPig]](BasicCharactersDescription.md#pig-trader)|
 
 ***
 
@@ -41,7 +41,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![frog]|**Builds your [Line][line].** Each turn player may move Frog to any empty [adjacent tile][adjacentTile], before placing new character token. Brings 1 victory point to player(*See possible variants on the example below*).|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
+|![frog]|**Builds your [Line][line].** Each turn player may move Frog to any empty [adjacent tile][adjacentTile], before placing new character token.(*See possible variants on the example below*).|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
 
 **Example:**
 
@@ -53,7 +53,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![mouse]|**Builds your [Line][line].** After placing Mouse, player may swap it with his or opponents character token on [adjacent tiles][adjacentTile](*See possible variants on the example below*).  Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
+|![mouse]|**Builds your [Line][line].** After placing Mouse, player may swap it with his or opponents character token on [adjacent tiles][adjacentTile](*See possible variants on the example below*).|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
 
 **Example:**
 
@@ -65,7 +65,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![snake]|**Builds your [Line][line].**  After placing, opponents should change character token on your choice from Map to any character token from his hand (*check the example of tokens, that can be changed below*). Brings 1 victory point to player.|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
+|![snake]|**Builds your [Line][line].**  After placing, opponents should change character token on your choice from Map to any character token from his hand (*check the example of tokens, that can be changed below*).|[![costWolf]](BasicCharactersDescription.md#wolf-warrior)|
 
 **Example:**
 
@@ -77,7 +77,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![chameleon]|**Builds your or opponent's [Line][line].**  When character token placed on [adjacent tiles][adjacentTile] to Chameleon token, he changes his color accordingly. Brings 1 victory point to player or opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
+|![chameleon]|**Builds your or opponent's [Line][line].**  When character token placed on [adjacent tiles][adjacentTile] to Chameleon token, he changes his color accordingly.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
 
 ***
 
@@ -85,7 +85,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![crow]|**Enemy's spy. Builds opponent`s [Line][line].** Player gets half of victory points rounded down, from line with Crow. Brings 1 victory point to opponent.|[![costRat2]](BasicCharactersDescription.md#rat-spy)|
+|![crow]|**Enemy's spy. Builds opponent`s [Line][line].** Player gets half of victory points rounded down, from line with Crow.|[![costRat2]](BasicCharactersDescription.md#rat-spy)|
 
 ***
 
@@ -93,7 +93,7 @@ title: Mercenary Characters Description
 
 |Token|Description|Cost|
 |-|-|-|
-|![mole]|**Enemy's spy. Builds opponent`s [Line][line].** After placing Mole, player should swap it with his or opponents character token on [adjacent tiles][adjacentTile](*See possible variants on the example below*). Brings 1 victory point to opponent.|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
+|![mole]|**Enemy's spy. Builds opponent`s [Line][line].** After placing Mole, player should swap it with his or opponents character token on [adjacent tiles][adjacentTile](*See possible variants on the example below*).|[![costRat1]](BasicCharactersDescription.md#rat-spy)|
 
 **Example:**
 
