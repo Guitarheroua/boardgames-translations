@@ -11,3 +11,11 @@ How to [create an issue](https://help.github.com/articles/creating-an-issue/), a
 Тут ви знайдете неофіційні переклади правил настільних ігор. Всі переклади будуть до ігор англійською або українською, які я маю у [своїй домашній колекції](https://www.boardgamegeek.com/collection/user/guitarheroua?columns=title%7Cthumbnail%7Crating%7Cbggrating&own=1&ff=1), які не мають офіційної локалізації правил. Не соромтесь коментувати ляпи, помилки, чи ділитись ідеями.
 
 Як [створити нове зауваження](https://help.github.com/articles/creating-an-issue/), і залишити там свій коментар.
+
+***
+
+Ресурси, що допомагають при перекладі українською:
+
+* [Всесвітній словник української мови](https://uk.worldwidedictionary.org)
+* [Словотвір](https://slovotvir.org.ua)
+* [Cловники української мови](http://sum.in.ua/)
