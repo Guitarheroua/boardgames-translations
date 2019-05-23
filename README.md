@@ -20,4 +20,4 @@ How to [create an issue](https://help.github.com/articles/creating-an-issue/), a
 * [Словотвір](https://slovotvir.org.ua)
 * [Cловники української мови](http://sum.in.ua/)
 
-[BGGCollectionLink]: https://boardgamegeek.com/collection/user/guitarheroua?own=1&subtype=boardgame&ff=1&columns=rank%7Ctitle%7Cthumbnail&excludesubtype=boardgameexpansion&sort=rank&sortdir=asc
+[BGGCollectionLink]: https://boardgamegeek.com/collection/user/guitarheroua?gallery=large&sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cversion%7Crank%7Cnumvoters%7Ccomment%7Ccommands&geekranks=Board+Game+Rank&excludesubtype=boardgameexpansion&own=1&objecttype=thing&ff=1&subtype=boardgame
