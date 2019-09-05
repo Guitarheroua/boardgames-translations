@@ -7,7 +7,6 @@ title: Foggy Island
 
 [Check ukrainian version of this page](../ua/IndexPage.md) | [Return to Start Page](../../../index.md)
 
-
 ## Rules of play
 
 > Non official rules for game ["Foggy Island"][gamePage] from ["TAKAMAKA"][TAKAMAKA] company presented as Markdown.
@@ -40,7 +39,6 @@ This is a nice family or duel game, that is based on a "Tic-Tac-Toe" mechanic. I
 <!--Image links ref-->
 
 [cover]: ../../resources/img/boxCover.jpg
-
 
 <!--Web links ref-->
 

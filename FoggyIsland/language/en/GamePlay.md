@@ -12,22 +12,23 @@ title: Game Play
 [◄ Previous](GameSetup.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](GameEndAndScoring.md)
 
 ***
+
 - [Game Play](#game-play)
-    - [Basic Game](#basic-game)
-        - [Turn overview](#turn-overview)
-        - [The End of the Round](#the-end-of-the-round)
-    - [Game with Weather Cards](#game-with-weather-cards)
-        - [Additional turn rules](#additional-turn-rules)
-        - [Additional round rule](#additional-round-rule)
-    - [Game with Mercenary Characters](#game-with-mercenary-characters)
-        - [Clarification about characters](#clarification-about-characters)
-        - [Additional round rules](#additional-round-rules)
-    - [Team Game Variant](#team-game-variant)
-        - [Additional Setup](#additional-setup)
-        - [Additional turn rules for "Basic Game"](#additional-turn-rules-for-%22basic-game%22)
-        - [Additional turn rules for "Game with Mercenary Characters"](#additional-turn-rules-for-%22game-with-mercenary-characters%22)
-    - [Quick Game Variant](#quick-game-variant)
-        - [Additional game setup for quick game](#additional-game-setup-for-quick-game)
+  - [Basic Game](#basic-game)
+    - [Turn overview](#turn-overview)
+    - [The End of the Round](#the-end-of-the-round)
+  - [Game with Weather Cards](#game-with-weather-cards)
+    - [Additional turn rules](#additional-turn-rules)
+    - [Additional round rule](#additional-round-rule)
+  - [Game with Mercenary Characters](#game-with-mercenary-characters)
+    - [Clarification about characters](#clarification-about-characters)
+    - [Additional round rules](#additional-round-rules)
+  - [Team Game Variant](#team-game-variant)
+    - [Additional Setup](#additional-setup)
+    - [Additional turn rules for "Basic Game"](#additional-turn-rules-for-basic-game)
+    - [Additional turn rules for "Game with Mercenary Characters"](#additional-turn-rules-for-game-with-mercenary-characters)
+  - [Quick Game Variant](#quick-game-variant)
+    - [Additional game setup for quick game](#additional-game-setup-for-quick-game)
 
 ***
 
@@ -37,44 +38,44 @@ title: Game Play
 
 ### Turn overview
 
-* Player always should have 5 character tokens at the beginning of his turn.
+- Player always should have 5 character tokens at the beginning of his turn.
    > Note: Player may have characters, with a background color of his opponent's characters. Try to use them carefully.
 
 ![gp1]
 
 ***
 
-* Player chooses one token from hand and places it to any [free tile][freeTile] on the "Island Map". 
+- Player chooses one token from hand and places it to any [free tile][freeTile] on the "Island Map".
     > Note: Player should try to build a [line][line] from his characters tokens on the "Island Map" and block lines of his opponent.
 
 ![gp2]
 
 ***
 
-* Player takes one token from  the top of his character tokens pile.
+- Player takes one token from  the top of his character tokens pile.
     > Note: Player cannot have more than 5 tokens in his hand.
 
 ![gp3]
 
 ***
 
-* Turn goes to the next player.
+- Turn goes to the next player.
 
 ***
 
 ### The End of the Round
 
-* The round ends, when no [free tiles][freeTile] are left on the "Island Map".
+- The round ends, when no [free tiles][freeTile] are left on the "Island Map".
 
 ![gp4]
 
 ***
 
-* After the end of the round players score their victory points. (See ["Game End And Scoring"](GameEndAndScoring.md))
-* Players note their score somewhere.
-* Players remove their character tokens from the "Island Map", and form the character tokens piles
-* Players choose 5 character tokens and shuffle their piles.
-* Round starts again. Second player becomes first in this round.
+- After the end of the round players score their victory points. (See ["Game End And Scoring"](GameEndAndScoring.md))
+- Players note their score somewhere.
+- Players remove their character tokens from the "Island Map", and form the character tokens piles
+- Players choose 5 character tokens and shuffle their piles.
+- Round starts again. Second player becomes first in this round.
 
 > Note: Game lasts 2 rounds. The winner of the game is the player who scores more victory points.
 
@@ -86,8 +87,8 @@ Use all rules and setup, that described in ["Basic Game"](#basic-game). Addition
 
 ### Additional turn rules
 
-* When the current active card is a [Sunny Weather](WeatherCards.md#sunny-weather-card), the turn should follow by basic rules.
-* When the current active card is a [Cloudy Weather](WeatherCards.md#cloudy-weather-card) or a [Foggy Weather](WeatherCards.md#foggy-weather-card), at the end of the turn, player, who occupied the last tile on an opened part, should remove any of Fog Boards from the "Island Map". Next player continues his turn on the opened part of the map as usual.
+- When the current active card is a [Sunny Weather](WeatherCards.md#sunny-weather-card), the turn should follow by basic rules.
+- When the current active card is a [Cloudy Weather](WeatherCards.md#cloudy-weather-card) or a [Foggy Weather](WeatherCards.md#foggy-weather-card), at the end of the turn, player, who occupied the last tile on an opened part, should remove any of Fog Boards from the "Island Map". Next player continues his turn on the opened part of the map as usual.
   
 ![gp5]
 

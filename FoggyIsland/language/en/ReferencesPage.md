@@ -13,7 +13,7 @@ title: Additional game information
 
 ***
 
-# About Publisher
+## About Publisher
 
 * [TAKAMAKA Games webpage](http://www.takamaka.com.ua/)
 * [Email Address: bitakamaka@gmail.com](mailto:bitakamaka@gmail.com)
