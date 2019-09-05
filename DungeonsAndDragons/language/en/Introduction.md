@@ -2,6 +2,7 @@
 permalink: /en/d-and-d-basic-rules-main-page/
 title: Introduction
 ---
+
 # Introduction
 
 [Check ukrainian version of this page](../ua/Introduction.md)
@@ -9,7 +10,6 @@ title: Introduction
 ***
 
 [◄ Previous](IndexPage.md) | [🚪 Main 🚪](IndexPage.md) | [Next ►](Part1CreatingACharacter.md)
-
 
 ***
 
@@ -30,20 +30,20 @@ title: Introduction
 
 The Dungeons & Dragons roleplaying game is about storytelling in worlds of swords and sorcery. It shares elements with childhood games of make-believe. Like those games, D&D is driven by imagination. It’s about picturing the towering castle beneath the stormy night sky and imagining how a fantasy adventurer might react to the challenges that scene presents.
 
-> * **Dungeon Master (DM):** After passing through the craggy peaks, the road takes a sudden turn to the east and Castle Ravenloft towers before you. Crumbling towers of stone keep a silent watch over the approach. They look like abandoned guardhouses. Beyond these, a wide chasm gapes, disappearing into the deep fog below. A lowered drawbridge spans the chasm, leading to an
+> - **Dungeon Master (DM):** After passing through the craggy peaks, the road takes a sudden turn to the east and Castle Ravenloft towers before you. Crumbling towers of stone keep a silent watch over the approach. They look like abandoned guardhouses. Beyond these, a wide chasm gapes, disappearing into the deep fog below. A lowered drawbridge spans the chasm, leading to an
 arched entrance to the castle courtyard. The chains of the drawbridge creak in the wind, their rust-eaten iron straining with the weight. From atop the high strong walls, stone gargoyles stare at you from hollow sockets and grin hideously. A rotting wooden portcullis, green with growth, hangs in the entry tunnel. Beyond this, the main doors of Castle Ravenloft stand open, a rich warm light spilling into the courtyard.
-> * **Phillip (playing Gareth):** I want to look at the gargoyles. I have a feeling they’re not just statues.
-> * **Amy (playing Riva):** The drawbridge looks precarious? I want to see how sturdy it is. Do I think we can cross it, or is it going to collapse under our weight?
+> - **Phillip (playing Gareth):** I want to look at the gargoyles. I have a feeling they’re not just statues.
+> - **Amy (playing Riva):** The drawbridge looks precarious? I want to see how sturdy it is. Do I think we can cross it, or is it going to collapse under our weight?
 
 Unlike a game of make-believe, D&D gives structure to the stories, a way of determining the consequences of the adventurers’ action. Players roll dice to resolve whether their attacks hit or miss or whether their adventurers can scale a cliff, roll away from the strike of a magical lightning bolt, or pull off some other dangerous task. Anything is possible, but the dice make some outcomes more probable than others.
 
-> * **Dungeon Master (DM):** OK, one at a time. Phillip, you’re looking at the gargoyles?
-> * **Phillip:** Yeah. Is there any hint they might be creatures and not decorations?
-> * **DM:** Make an Intelligence check.
-> * **Phillip:** Does my Investigation skill apply?
-> * **DM:** Sure!
-> * **Phillip (rolling a d20):** Ugh. Seven.
-> * **DM:** They look like decorations to you. And Amy, Riva is checking out the drawbridge?
+> - **Dungeon Master (DM):** OK, one at a time. Phillip, you’re looking at the gargoyles?
+> - **Phillip:** Yeah. Is there any hint they might be creatures and not decorations?
+> - **DM:** Make an Intelligence check.
+> - **Phillip:** Does my Investigation skill apply?
+> - **DM:** Sure!
+> - **Phillip (rolling a d20):** Ugh. Seven.
+> - **DM:** They look like decorations to you. And Amy, Riva is checking out the drawbridge?
 
 In the Dungeons & Dragons game, each player creates an adventurer (also called a character) and teams up with other adventurers (played by friends). Working together, the group might explore a dark dungeon, a ruined city, a haunted castle, a lost temple deep in a jungle, or a lava-filled cavern beneath a mysterious mountain. The adventurers can solve puzzles, talk with other characters, battle fantastic monsters, and discover fabulous magic items and other treasure.
 
