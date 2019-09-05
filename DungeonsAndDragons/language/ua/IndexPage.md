@@ -45,7 +45,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 
 Available for download at DungeonsandDragons.com
 
-## Chepters
+## Parts
 
 1. [Introduction](Introduction.md)
 2. [Part 1: Creating A Character](Part1CreatingACharacter.md)
