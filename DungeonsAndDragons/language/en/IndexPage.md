@@ -1,15 +1,9 @@
 ---
-permalink: /en/wbttd-main-page/
-title: Welcome Back to the Dungeon
+permalink: /en/d-and-d-basic-rules-main-page/
+title: D&D Basic Rules
 ---
 
 [Check ukrainian version of this page](../ua/IndexPage.md) | [Return to Start Page](../../../index.md)
-
-***
-
-## Rules of play
-
-> Unofficial Ukrainian translation of original  [game rules][rules] for ["WELCOME BACK TO THE DUNGEON"][gamePage] from ["IELLO"][ielloPage] company presented as Markdown.
 
 ***
 
@@ -17,35 +11,43 @@ title: Welcome Back to the Dungeon
 
 ***
 
-*The sun is shining in the Abysmal Woods where you’re strolling without a care in the world, your weapon at your belt, dreams of adventure in your head. On your path, you stop before a damaged dungeon door. It seems that great battles took place here, a sure sign of coveted treasure inside. You recognize this dungeon from the ballads sung in your village! However, you’re not the only one who wants to enter, despite the warnings left around the entrance by the previous adventurers. Will you muster your courage to break open the door or will you
-let your opponents brave the monsters found inside? Let the adventure begin!*
+## D&D Basic Rules, Version 1.0, Released November 2018
 
-***
+### Credits
 
-## Overview and Goal of the Game
+Lead Designers: Jeremy Crawford, Mike Mearls, Christopher Perkins
 
-**Welcome Back to the Dungeon** plays over several rounds during which one hero enters the dungeon with a set of equipment. Each turn, add
-monsters to the dungeon, remove equipment from the hero, or decide to pass for the round. The last person in the bidding must enter the dungeon and face all the monsters put inside during the round, with what little equipment the adventurer has left. Successfully traverse two Dungeons to win the game, or be the last player left in the game after the other players are eliminated.
+Design Team: James Wyatt, Rodney Thompson, Robert J.Schwalb, Peter Lee, Steve Townshend, Bruce R. Cordell
 
-***
+Managing Editor: Jeremy Crawford
 
-## Chepters
+Editing Team: Chris Sims, Michele Carter, Scott Fitzgerald Gray, Kim Mohan
 
-1. [Game Elements](ComponentPage.md)
-2. [Game Setup](GameSetupPage.md)
-3. [Gameplay](GamePlayPage.md)
-4. [Clarifications of Equipment Tiles](ClarificationsOfEquipmentTilesPage.md)
-5. [Description of Special Monsters](DescriptionOfSpecialMonsters.md)
-6. [Additional game information](ReferencesPage.md)
+Graphic Designers: Bree Heiss, Emi Tanji
 
-***
+Interior Illustrator: Jaime Jones, Richard Whitters
+
+Additional Contributors: Matt Sernett, Chris Dupuis, Tom LaPille, Chris Tulach, Miranda Horner, Jennifer Clarke Wilkes, Steve Winter, Chris Youngs, Ben Petrisor, Tom Olsen
+
+Producer: Greg Bilsland
+
+Project Management: Neil Shinkle, Kim Graham, John Hay
+
+Brand and Marketing: Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, Laura Tommervik, Kim Lundstrom, Trevor Kidd
+
+Based on the original D&D game created by E. Gary Gygax and Dave Arneson, with Brian Blume, Rob Kuntz, James Ward, and Don Kaye
+
+Drawing from further development by J. Eric Holmes, Tom Moldvay, Frank Mentzer, Aaron Allston, Harold Johnson, David “Zeb” Cook, Ed Greenwood, Keith Baker, Tracy Hickman, Margaret Weis, Douglas Niles, Jeff Grubb, Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bill Slavicsek, Andy Collins, and Rob Heinsoo
+
+Playtesting provided by
+over 175,000 fans of D&D. Thank you!
+
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast. ©2018 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK.
+
+Available for download at DungeonsandDragons.com
 
 <!--Web links ref-->
-[rules]: https://boardgamegeek.com/file/download/u3ynbdvllh/WelcomeBackToTheDungeon_EN_Rules.pdf
-
-[gamePage]: http://www.iellogames.com/Welcome_Back_to_the_Dungeon.html
-
-[ielloPage]: http://www.iellogames.com/index.html
 
 <!--Image links ref-->
-[cover]: ../../resources/img/cover.JPG
+
+[cover]: ../../resources/img/cover.jpg

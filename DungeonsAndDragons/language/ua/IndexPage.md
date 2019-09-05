@@ -1,15 +1,9 @@
 ---
-permalink: /ua/wbttd-main-page/
-title: З поверненням в Підземелля
+permalink: /ua/d-and-d-basic-rules-main-page/
+title: D&D Basic Rules
 ---
 
 [Переглянути цю сторінку англійською](../en/IndexPage.md) | [Повернутись на Початкову сторінку](../../../index.md)
-
-***
-
-## Правила гри
-
-> Переклад українською оригінальних [правил гри][rules] ["WELCOME BACK TO THE DUNGEON"][gamePage] від  компанії ["IELLO"][ielloPage]. Виключно для ознайомлення. Неофіційний переклад.
 
 ***
 
@@ -17,34 +11,43 @@ title: З поверненням в Підземелля
 
 ***
 
-*У Жахолісі сяяло сонечко, де - ти, безтурботний, ліниво бродив побрязкуючи зброєю на поясі. Голова була забита думками про пригоди.
-Та ось, ти надибав розтрощені двері до підземелля. Схоже, що тут пройшло чимало легендарних боїв, і, імовірно, що десь тут захований чималий скарб. Саме про це підземелля співали кобзарі в твоєму селі! Не зважаючи на застороги, що були повсюди, ти був не єдиним сміливцем, з тих хто хотів би випробувати долю в підземеллі. Чи наважишся ти хоробро виламати двері і увійти, чи даси перемогти чудовиськ своїм опонентам? Поїхали, до пригод!*
+## D&D Basic Rules, Version 1.0, Released November 2018
 
-***
+### Credits
 
-## Швидкий огляд і цілі гри
+Lead Designers: Jeremy Crawford, Mike Mearls, Christopher Perkins
 
-**“З поверненням в підземелля”** триває декілька раундів протягом яких один з героїв спускається в підземелля маючи при собі обладунки та артефакти. Кожного раунду додавайте чудовисько в підземелля, зніміть обладунок чи артефакт з героя або просто пропустіть хід і дочекайтесь наступного раунду. Останній хто НЕ пропустив хід, повинен спуститись у підземелля і битись з усіма чудовиськами, яких поклали у підземелля цього раунду, з обладунком і артефактами, що залишились. Успішно пройдіть підземелля два рази щоб здобути перемогу, або станьте останнім, хто залишився у грі, коли всі інші гравці були переможені.
+Design Team: James Wyatt, Rodney Thompson, Robert J.Schwalb, Peter Lee, Steve Townshend, Bruce R. Cordell
 
-***
+Managing Editor: Jeremy Crawford
 
-## Розділи
+Editing Team: Chris Sims, Michele Carter, Scott Fitzgerald Gray, Kim Mohan
 
-1. [Компоненти гри](ComponentPage.md)
-2. [Підготовка до гри](GameSetupPage.md)
-3. [Ігровий процес](GamePlayPage.md)
-4. [Уточнення до жетонів спорядження](ClarificationsOfEquipmentTilesPage.md)
-5. [Опис особливих чудовиськ](DescriptionOfSpecialMonsters.md)
-6. [Додаткова інформація про гру](ReferencesPage.md)
+Graphic Designers: Bree Heiss, Emi Tanji
 
-***
+Interior Illustrator: Jaime Jones, Richard Whitters
+
+Additional Contributors: Matt Sernett, Chris Dupuis, Tom LaPille, Chris Tulach, Miranda Horner, Jennifer Clarke Wilkes, Steve Winter, Chris Youngs, Ben Petrisor, Tom Olsen
+
+Producer: Greg Bilsland
+
+Project Management: Neil Shinkle, Kim Graham, John Hay
+
+Brand and Marketing: Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, Laura Tommervik, Kim Lundstrom, Trevor Kidd
+
+Based on the original D&D game created by E. Gary Gygax and Dave Arneson, with Brian Blume, Rob Kuntz, James Ward, and Don Kaye
+
+Drawing from further development by J. Eric Holmes, Tom Moldvay, Frank Mentzer, Aaron Allston, Harold Johnson, David “Zeb” Cook, Ed Greenwood, Keith Baker, Tracy Hickman, Margaret Weis, Douglas Niles, Jeff Grubb, Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bill Slavicsek, Andy Collins, and Rob Heinsoo
+
+Playtesting provided by
+over 175,000 fans of D&D. Thank you!
+
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast. ©2018 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK.
+
+Available for download at DungeonsandDragons.com
 
 <!--Web links ref-->
-[rules]: https://boardgamegeek.com/file/download/u3ynbdvllh/WelcomeBackToTheDungeon_EN_Rules.pdf
-
-[gamePage]: http://www.iellogames.com/Welcome_Back_to_the_Dungeon.html
-
-[ielloPage]: http://www.iellogames.com/index.html
 
 <!--Image links ref-->
-[cover]: ../../resources/img/cover.JPG
+
+[cover]: ../../resources/img/cover.jpg
