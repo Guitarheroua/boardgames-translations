@@ -13,6 +13,28 @@ title: Chapter 1 Step-by-Step Characters
 
 ***
 
+- [Chapter 1: Step-by-Step Characters](#chapter-1-step-by-step-characters)
+  - [1. Choose a Race](#1-choose-a-race)
+  - [2. Choose a Class](#2-choose-a-class)
+    - [Level](#level)
+    - [Hit Points and Hit Dice](#hit-points-and-hit-dice)
+    - [Proficiency Bonus](#proficiency-bonus)
+  - [3. Determine Ability Scores](#3-determine-ability-scores)
+    - [Ability Scores and Modifiers](#ability-scores-and-modifiers)
+    - [Ability Score Summary](#ability-score-summary)
+    - [Variant: Customizing Ability Scores](#variant-customizing-ability-scores)
+  - [4. Describe Your Character](#4-describe-your-character)
+    - [Your Character’s Abilities](#your-characters-abilities)
+  - [5. Choose Equipment](#5-choose-equipment)
+    - [Armor Class](#armor-class)
+    - [Weapons](#weapons)
+  - [6. Come Together](#6-come-together)
+  - [Beyond 1st Level](#beyond-1st-level)
+    - [Tiers of Play](#tiers-of-play)
+    - [Character Advancement](#character-advancement)
+
+***
+
 Your first step in playing an adventurer in the Dungeons & Dragons game is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a race (such as human or halfling) and a class (such as fighter or wizard). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the Dungeons & Dragons world.
 
 Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking rogue, a fervent cleric, or a flamboyant wizard. Or you might be more interested in an unconventional character, such as a brawny rogue who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like fantasy fiction featuring dwarves or elves? Try building a character of one of those races. Do you want your character to be the toughest adventurer at the table? Consider the fighter class. If you don’t know where else to begin, take a look at the illustrations in this book to see what catches your interest.
