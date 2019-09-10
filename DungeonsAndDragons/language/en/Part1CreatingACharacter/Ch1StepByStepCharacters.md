@@ -9,7 +9,7 @@ title: Chapter 1 Step-by-Step Characters
 
 ***
 
-[◄ Previous](../Part1CreatingACharacter.md) | [🚪 Main 🚪](../IndexPage.md) | [Next ►](Part1CreatingACharacter/Ch2Races.md)
+[◄ Previous](../Part1CreatingACharacter.md) | [🚪 Main 🚪](../IndexPage.md) | [Next ►](Ch2Races.md)
 
 ***
 
@@ -71,7 +71,7 @@ On your character sheet, record all the features that your class gives you at 1s
 
 ### Level
 
-Typically, a character starts at 1st level and advances in level by adventuring and gaining **experience points** (XP). A 1st-level character is inexperienced in the adventuring world, although he or she might have been a soldier or a pirate and done dangerous things before. 
+Typically, a character starts at 1st level and advances in level by adventuring and gaining **experience points** (XP). A 1st-level character is inexperienced in the adventuring world, although he or she might have been a soldier or a pirate and done dangerous things before.
 
 Starting off at 1st level marks your character’s entry into the adventuring life. If you’re already familiar with the game, or if you are joining an existing D&D campaign, your DM might decide to have you begin at a higher level, on the assumption that your character has already survived a few harrowing adventures.
 
@@ -343,7 +343,7 @@ At the fourth tier (levels 17–20), characters achieve the pinnacle of their cl
 
 ***
 
-[◄ Previous](../Part1CreatingACharacter.md) | [🚪 Main 🚪](../IndexPage.md) | [Next ►](Part1CreatingACharacter/Ch2Races.md)
+[◄ Previous](../Part1CreatingACharacter.md) | [🚪 Main 🚪](../IndexPage.md) | [Next ►](Ch2Races.md)
 
 <!--Image links ref-->
 
