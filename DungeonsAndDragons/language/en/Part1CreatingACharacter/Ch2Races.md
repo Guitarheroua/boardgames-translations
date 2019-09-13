@@ -52,6 +52,21 @@ title: Chapter 2 Races
       - [Lightfoot](#lightfoot)
       - [Stout](#stout)
   - [Human](#human)
+    - [A Broad Spectrum](#a-broad-spectrum)
+    - [Variety in All Things](#variety-in-all-things)
+    - [Lasting Institutions](#lasting-institutions)
+    - [Exemplars of Ambition](#exemplars-of-ambition)
+    - [Human Names and Ethnicities](#human-names-and-ethnicities)
+      - [Calishite](#calishite)
+      - [Chondathan](#chondathan)
+      - [Damaran](#damaran)
+      - [Illuskan](#illuskan)
+      - [Mulan](#mulan)
+      - [Rashemi](#rashemi)
+      - [Shou](#shou)
+      - [Tethyrian](#tethyrian)
+      - [Turami](#turami)
+    - [Human Traits](#human-traits)
 
 ***
 
@@ -275,7 +290,7 @@ swordplay or magic to their children.
 
 > **Haughty but Gracious**
 >  
-> Although they can be haughty, elves are generally gracious even to those who fall short of their high expectations— which is most non-elves. Still, they can find good in just about anyone.
+> Although they can be haughty, elves are generally gracious even to those who fall short of their high expectations - which is most non-elves. Still, they can find good in just about anyone.
 >  
 > **Dwarves.**“Dwarves are dull, clumsy oafs. But what they lack in humor, sophistication, and manners, they make up in valor. And I must admit, their best smiths produce art that approaches elven quality.”
 >  
@@ -460,236 +475,127 @@ As a stout halfling, you’re hardier than average and have some resistance to p
 
 ## Human
 
-These were the stories of a restless people who
-long ago took to the seas and rivers in longboats, first to
-pillage and terrorize, then to settle. Yet there was an energy,
-a love of adventure, that sang from every page. Long into the
-night Liriel read, lighting candle after precious candle.
-She’d never given much thought to humans, but these sto-
-ries fascinated her. In these yellowed pages were tales of bold
-heroes, strange and fierce animals, mighty primitive gods, and
-a magic that was part and fabric of that distant land.
-—Elaine Cunningham, Daughter of the Drow
-In the reckonings of most worlds, humans are the young-
-est of the common races, late to arrive on the world scene
-and short-lived in comparison to dwarves, elves, and
-dragons. Perhaps it is because of their shorter lives that
-they strive to achieve as much as they can in the years
-they are given. Or maybe they feel they have something
-to prove to the elder races, and that’s why they build their
-mighty empires on the foundation of conquest and trade.
-Whatever drives them, humans are the innovators, the
-achievers, and the pioneers of the worlds.
-A Broad Spectrum
-With their penchant for migration and conquest, humans
-are more physically diverse than other common races.
-There is no typical human. An individual can stand from
-5 feet to a little over 6 feet tall and weigh from 125 to 250
-pounds. Human skin shades range from nearly black
-to very pale, and hair colors from black to blond (curly,
-kinky, or straight); males might sport facial hair that is
-sparse or thick. A lot of humans have a dash of nonhu-
-man blood, revealing hints of elf, orc, or other lineages.
-Humans reach adulthood in their late teens and rarely
-live even a single century.
-Variety in All Things
-Humans are the most adaptable and ambitious people
-among the common races. They have widely varying
-tastes, morals, and customs in the many different lands
-where they have settled. When they settle, though, they
-stay: they build cities to last for the ages, and great king-
-doms that can persist for long centuries. An individual
-human might have a relatively short life span, but a hu-
-man nation or culture preserves traditions with origins
-far beyond the reach of any single human’s memory. They
-live fully in the present—making them well suited to the
-adventuring life—but also plan for the future, striving to
-leave a lasting legacy. Individually and as a group, hu-
-mans are adaptable opportunists, and they stay alert to
-changing political and social dynamics.
-Lasting Institutions
-Where a single elf or dwarf might take on the responsi-
-bility of guarding a special location or a powerful secret,
-humans found sacred orders and institutions for such
-purposes. While dwarf clans and halfling elders pass on
-the ancient traditions to each new generation, human
-temples, governments, libraries, and codes of law fix
-their traditions in the bedrock of history. Humans dream
-of immortality, but (except for those few who seek un-
-death or divine ascension to escape death’s clutches) they
-achieve it by ensuring that they will be remembered when
-they are gone.
-Although some humans can be xenophobic, in general
-their societies are inclusive. Human lands welcome large
-numbers of nonhumans compared to the proportion of
-humans who live in nonhuman lands.
-Exemplars of Ambition
-Humans who seek adventure are the most daring and
-ambitious members of a daring and ambitious race. They
-seek to earn glory in the eyes of their fellows by amassing
-power, wealth, and fame. More than other people, hu-
-mans champion causes rather than territories or groups.
-Human Names and Ethnicities
-Having so much more variety than other cultures, hu-
-mans as a whole have no typical names. Some human
-parents give their children names from other languages,
-such as Dwarvish or Elvish (pronounced more or less
-correctly), but most parents give names that are linked to
-their region’s culture or to the naming traditions of their
-ancestors.
-The material culture and physical characteristics of
-humans can change wildly from region to region. In
-the Forgotten Realms, for example, the clothing, archi-
-tecture, cuisine, music, and literature are different in
-the northwestern lands of the Silver Marches than in
-distant Turmish or Impiltur to the east—and even more
-distinctive in far-off Kara-Tur. Human physical character-
-istics, though, vary according to the ancient migrations
-of the earliest humans, so that the humans of the Silver
-Marches have every possible variation of coloration
-and features.
-In the Forgotten Realms, nine human ethnic groups
-are widely recognized, though over a dozen others are
-Everyone’s Second-Best Friends
-Just as readily as they mix with each other, humans mingle
-with members of other races. They get along with almost
-everyone, though they might not be close to many. Humans
-serve as ambassadors, diplomats, magistrates, merchants,
-and functionaries of all kinds.
-Dwarves. “They’re stout folk, stalwart friends, and true to
-their word. Their greed for gold is their downfall, though.”
-Elves. “It’s best not to wander into elven woods. They
-don’t like intruders, and you’ll as likely be bewitched as
-peppered with arrows. Still, if an elf can get past that
-damned racial pride and actually treat you like an equal, you
-can learn a lot from them.”
-Halflings. “It’s hard to beat a meal in a halfling home,
-as long as you don’t crack your head on the ceiling—good
-food and good stories in front of a nice, warm fire. If
-halflings had a shred of ambition, they might really amount
-to something.”
-found in more localized areas of Faerûn. These groups,
-and the typical names of their members, can be used as
-inspiration no matter which world your human is in.
-Calishite
-Shorter and slighter in build than most other humans,
-Calishites have dusky brown skin, hair, and eyes. They’re
-found primarily in southwest Faerûn.
-Calishite Names: (Male) Aseir, Bardeid, Haseid,
-Khemed, Mehmen, Sudeiman, Zasheir; (female)
-Atala, Ceidil, Hama, Jasmal, Meilil, Seipora, Yasheira,
-Zasheida; (surnames) Basha, Dumein, Jassan, Khalid,
-Mostana, Pashar, Rein
-Chondathan
-Chondathans are slender, tawny-skinned folk with brown
-hair that ranges from almost blond to almost black.
-Most are tall and have green or brown eyes, but these
-traits are hardly universal. Humans of Chondathan
-descent dominate the central lands of Faerûn, around
-the Inner Sea.
-Chondathan Names: (Male) Darvin, Dorn, Evendur,
-Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd;
-(female) Arveene, Esvele, Jhessail, Kerri, Lureene, Miri,
-Rowan, Shandri, Tessele; (surnames) Amblecrown,
-Buckman, Dundragon, Evenwood, Greycastle, Tallstag
-Damaran
-Found primarily in the northwest of Faerûn, Damarans
-are of moderate height and build, with skin hues ranging
-from tawny to fair. Their hair is usually brown or black,
-and their eye color varies widely, though brown is
-most common.
-Damaran Names: (Male) Bor, Fodel, Glar, Grigor, Igan,
-Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra,
-Kara, Katernin, Mara, Natali, Olma, Tana, Zora;
-(surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk,
-Nemetsk, Shemov, Starag
-Illuskan
-Illuskans are tall, fair-skinned folk with blue or steely gray
-eyes. Most have raven-black hair, but those who inhabit the
-extreme northwest have blond, red, or light brown hair.
-Illuskan Names: (Male) Ander, Blath, Bran, Frath, Geth,
-Lander, Luth, Malcer, Stor, Taman, Urth; (female)
-Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey,
-Westra; (surnames) Brightwood, Helder, Hornraven,
-Lackman, Stormwind, Windrivver
-Mulan
-Dominant in the eastern and southeastern shores of the
-Inner Sea, the Mulan are generally tall, slim, and amber-
-skinned, with eyes of hazel or brown. Their hair ranges
-from black to dark brown, but in the lands where the
-Mulan are most prominent, nobles and many other Mulan
-shave off all their hair.
-Mulan Names: (Male) Aoth, Bareris, Ehput-Ki, Kethoth,
-Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female)
-Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola,
-Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim,
-Hahpet, Nathandem, Sepret, Uuthrakt
-Rashemi
-Most often found east of the Inner Sea and often
-intermingled with the Mulan, Rashemis tend to be short,
-stout, and muscular. They usually have dusky skin, dark
-eyes, and thick black hair.
-Rashemi Names: (Male) Borivik, Faurgar, Jandar,
-Kanithar, Madislak, Ralmevik, Shaumar, Vladislak;
-(female) Fyevarra, Hulmarra, Immith, Imzel,
-Navarra, Shevarra, Tammith, Yuldra; (surnames)
-Chergoba, Dyernina, Iltazyara, Murnyethara,
-Stayanoga, Ulmokina
-Shou
-The Shou are the most numerous and powerful ethnic
-group in Kara-Tur, far to the east of Faerûn. They are
-yellowish-bronze in hue, with black hair and dark
-eyes. Shou surnames are usually presented before
-the given name.
-Shou Names: (Male) An, Chen, Chi, Fai, Jiang, Jun, Lian,
-Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao,
-Jia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang,
-Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
-Tethyrian
-Widespread along the entire Sword Coast at the west-
-ern edge of Faerûn, Tethyrians are of medium build
-and height, with dusky skin that tends to grow fairer the
-farther north they dwell. Their hair and eye color varies
-widely, but brown hair and blue eyes are the most com-
-mon. Tethyrians primarily use Chondathan names.
-Turami
-Native to the southern shore of the Inner Sea, the
-Turami people are generally tall and muscular, with dark
-mahogany skin, curly black hair, and dark eyes.
-Turami Names: (Male) Anton, Diero, Marcon, Pieron,
-Rimardo, Romero, Salazar, Umbero; (female) Balama,
-Dona, Faila, Jalana, Luisa, Marta, Quara, Selise,
-Vonda; (surnames) Agosto, Astorio, Calabra, Domine,
-Falone, Marivaldi, Pisacar, Ramondo
-Human Traits
-It’s hard to make generalizations about humans, but your
-human character has these traits.
-Ability Score Increase. Your ability scores each in-
-crease by 1.
-Age. Humans reach adulthood in their late teens and
-live less than a century.
-Alignment. Humans tend toward no particular align-
-ment. The best and the worst are found among them.
-Size. Humans vary widely in height and build, from
-barely 5 feet to well over 6 feet tall. Regardless of your
-position in that range, your size is Medium.
-Speed. Your base walking speed is 30 feet.
-Languages. You can speak, read, and write Common
-and one extra language of your choice. Humans typically
-learn the languages of other peoples they deal with,
-including obscure dialects. They are fond of sprinkling
-their speech with words borrowed from other tongues:
-Orc curses, Elvish musical expressions, Dwarvish mili-
-tary phrases, and so on.
-Variant Human Traits
-If your campaign uses the optional feat rules from chapter 6
-of the Player’s Handbook, your Dungeon Master might allow
-these variant traits, all of which replace the human’s Ability
-Score Increase trait.
-Ability Score Increase. Two different ability scores of your
-choice increase by 1.
-Skills. You gain proficiency in one skill of your choice.
-Feat. You gain one feat of your choice.
+> These were the stories of a restless people who long ago took to the seas and rivers in longboats, first to pillage and terrorize, then to settle. Yet there was an energy, a love of adventure, that sang from every page. Long into the night Liriel read, lighting candle after precious candle.
+>  
+> She’d never given much thought to humans, but these stories fascinated her. In these yellowed pages were tales of bold heroes, strange and fierce animals, mighty primitive gods, and a magic that was part and fabric of that distant land.
+>  
+> -Elaine Cunningham, Daughter of the Drow
+
+In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that’s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+
+### A Broad Spectrum
+
+With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
+
+### Variety in All Things
+
+Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. They live fully in the present - making them well suited to the adventuring life - but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
+
+### Lasting Institutions
+
+Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death’s clutches) they achieve it by ensuring that they will be remembered when they are gone.
+
+Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
+
+### Exemplars of Ambition
+
+Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
+
+### Human Names and Ethnicities
+
+Having so much more variety than other cultures, humans as a whole have no typical names. Some human parents give their children names from other languages, such as Dwarvish or Elvish (pronounced more or less correctly), but most parents give names that are linked to their region’s culture or to the naming traditions of their ancestors.
+
+The material culture and physical characteristics of humans can change wildly from region to region. In the Forgotten Realms, for example, the clothing, architecture, cuisine, music, and literature are different in the northwestern lands of the Silver Marches than in distant Turmish or Impiltur to the east - and even more distinctive in far-off Kara-Tur. Human physical characteristics, though, vary according to the ancient migrations of the earliest humans, so that the humans of the Silver Marches have every possible variation of coloration and features.
+
+In the Forgotten Realms, nine human ethnic groups are widely recognized, though over a dozen others are found in more localized areas of Faerûn. These groups,and the typical names of their members, can be used as inspiration no matter which world your human is in.
+
+> **Everyone’s Second-Best Friends**
+>  
+> Just as readily as they mix with each other, humans mingle with members of other races. They get along with almost everyone, though they might not be close to many. Humans serve as ambassadors, diplomats, magistrates, merchants, and functionaries of all kinds.
+>  
+> **Dwarves.** “They’re stout folk, stalwart friends, and true to their word. Their greed for gold is their downfall, though.”
+>  
+> **Elves.** “It’s best not to wander into elven woods. They don’t like intruders, and you’ll as likely be bewitched as peppered with arrows. Still, if an elf can get past that damned racial pride and actually treat you like an equal, you can learn a lot from them.”
+>  
+> **Halflings.** “It’s hard to beat a meal in a halfling home, as long as you don’t crack your head on the ceiling - good food and good stories in front of a nice, warm fire. If halflings had a shred of ambition, they might really amount to something.”
+
+#### Calishite
+
+Shorter and slighter in build than most other humans, Calishites have dusky brown skin, hair, and eyes. They’re found primarily in southwest Faerûn.
+
+**Calishite Names:** (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, Jasmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, Jassan, Khalid, Mostana, Pashar, Rein
+
+#### Chondathan
+
+Chondathans are slender, tawny-skinned folk with brown hair that ranges from almost blond to almost black. Most are tall and have green or brown eyes, but these traits are hardly universal. Humans of Chondathan descent dominate the central lands of Faerûn, around the Inner Sea.
+
+**Chondathan Names:** (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Jhessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
+
+#### Damaran
+
+Found primarily in the northwest of Faerûn, Damarans are of moderate height and build, with skin hues ranging from tawny to fair. Their hair is usually brown or black, and their eye color varies widely, though brown is most common.
+
+**Damaran Names:** (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
+
+#### Illuskan
+
+Illuskans are tall, fair-skinned folk with blue or steely gray eyes. Most have raven-black hair, but those who inhabit the extreme northwest have blond, red, or light brown hair.
+
+**Illuskan Names:** (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
+
+#### Mulan
+
+Dominant in the eastern and southeastern shores of the Inner Sea, the Mulan are generally tall, slim, and amberskinned, with eyes of hazel or brown. Their hair ranges from black to dark brown, but in the lands where the Mulan are most prominent, nobles and many other Mulan shave off all their hair.
+
+**Mulan Names:** (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
+
+#### Rashemi
+
+Most often found east of the Inner Sea and often intermingled with the Mulan, Rashemis tend to be short, stout, and muscular. They usually have dusky skin, dark eyes, and thick black hair.
+
+**Rashemi Names:** (Male) Borivik, Faurgar, Jandar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
+
+#### Shou
+
+The Shou are the most numerous and powerful ethnic group in Kara-Tur, far to the east of Faerûn. They are yellowish-bronze in hue, with black hair and dark eyes. Shou surnames are usually presented before the given name.
+
+**Shou Names:** (Male) An, Chen, Chi, Fai, Jiang, Jun, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Jia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
+
+#### Tethyrian
+
+Widespread along the entire Sword Coast at the western edge of Faerûn, Tethyrians are of medium build and height, with dusky skin that tends to grow fairer the farther north they dwell. Their hair and eye color varies widely, but brown hair and blue eyes are the most common. Tethyrians primarily use Chondathan names.
+
+#### Turami
+
+Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
+
+**Turami Names:** (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, Jalana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
+
+### Human Traits
+
+It’s hard to make generalizations about humans, but your human character has these traits.
+
+**Ability Score Increase.** Your ability scores each increase by 1.
+
+**Age.** Humans reach adulthood in their late teens and live less than a century.
+
+**Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them.
+
+**Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+
+**Speed.** Your base walking speed is 30 feet.
+
+**Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+
+> **Variant Human Traits**
+>  
+> If your campaign uses the optional feat rules from chapter 6 of the *Player’s Handbook*, your Dungeon Master might allow these variant traits, all of which replace the human’s Ability Score Increase trait.
+>  
+> **Ability Score Increase.** Two different ability scores of your choice increase by 1.
+>  
+> **Skills.** You gain proficiency in one skill of your choice.
+>  
+> **Feat.** You gain one feat of your choice.
 
 ![p1_c2_1]
 
