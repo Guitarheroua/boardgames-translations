@@ -599,8 +599,6 @@ It’s hard to make generalizations about humans, but your human character has t
 
 ![p1_c2_1]
 
-<!-- END HUMAN -->
-
 ***
 
 [◄ Previous](Ch1StepByStepCharacters.md) | [🚪 Main 🚪](../IndexPage.md) | [Next ►](Ch3Classes.md)
