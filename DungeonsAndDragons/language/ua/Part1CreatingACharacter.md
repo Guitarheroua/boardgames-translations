@@ -15,7 +15,7 @@ title: Частина 1 Створення Персонажа
 
 ![p1_cover]
 
-## Chapters
+## Розділи
 
 1. [Розділ 1: Поетапне Створення Персонажа](Part1CreatingACharacter/Ch1StepByStepCharacters.md)
 2. [Розділ 2: Раси](Part1CreatingACharacter/Ch2Races.md)
