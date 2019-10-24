@@ -1,6 +1,6 @@
 ---
 permalink: /ua/d-and-d-basic-rules-main-page/
-title: D&D Basic Rules
+title: D&D Базові правила
 ---
 
 [Переглянути цю сторінку англійською](../en/IndexPage.md) | [Повернутись на Початкову сторінку](../../../index.md)
@@ -9,7 +9,7 @@ title: D&D Basic Rules
 
 ![cover]
 
-## Parts
+## Частини
 
 1. [Вступ](Introduction.md)
 2. [Частина 1: Створення Персонажа](Part1CreatingACharacter.md)
