@@ -1,9 +1,9 @@
 ---
 permalink: /ua/d-and-d-basic-rules-ch1-step-by-step-characters/
-title: Chapter 1 Step-by-Step Characters
+title: Розділ 1 Поетапне Створення Персонажа
 ---
 
-# Chapter 1: Step-by-Step Characters
+# Розділ 1: Поетапне Створення Персонажа
 
 [Переглянути цю сторінку англійською](../../en/Part1CreatingACharacter/Ch1StepByStepCharacters.md)
 
@@ -13,329 +13,331 @@ title: Chapter 1 Step-by-Step Characters
 
 ***
 
-- [Chapter 1: Step-by-Step Characters](#chapter-1-step-by-step-characters)
-  - [1. Choose a Race](#1-choose-a-race)
-  - [2. Choose a Class](#2-choose-a-class)
-    - [Level](#level)
-    - [Hit Points and Hit Dice](#hit-points-and-hit-dice)
-    - [Proficiency Bonus](#proficiency-bonus)
-  - [3. Determine Ability Scores](#3-determine-ability-scores)
-    - [Ability Scores and Modifiers](#ability-scores-and-modifiers)
-    - [Ability Score Summary](#ability-score-summary)
-    - [Variant: Customizing Ability Scores](#variant-customizing-ability-scores)
-  - [4. Describe Your Character](#4-describe-your-character)
-    - [Your Character’s Abilities](#your-characters-abilities)
-  - [5. Choose Equipment](#5-choose-equipment)
-    - [Armor Class](#armor-class)
-    - [Weapons](#weapons)
-  - [6. Come Together](#6-come-together)
-  - [Beyond 1st Level](#beyond-1st-level)
-    - [Tiers of Play](#tiers-of-play)
-    - [Character Advancement](#character-advancement)
+- [Розділ 1: Поетапне Створення Персонажа](#Розділ-1-Поетапне-Створення-Персонажа)
+  - [1. Вибери Расу](#1-Вибери-Расу)
+  - [2. Вибери Клас](#2-Вибери-Клас)
+    - [Рівень](#Рівень)
+    - [Здоров’я та Кубик Здоров’я](#Здоровя-та-Кубик-Здоровя)
+    - [Бонус Майстерності](#Бонус-Майстерності)
+  - [3. Визнач Показники Характеристик](#3-Визнач-Показники-Характеристик)
+    - [Показники Та Модифікатори Характеристик](#Показники-Та-Модифікатори-Характеристик)
+    - [Короткий Опис Характеристик](#Короткий-Опис-Характеристик)
+    - [Варіант: Купівля Показників](#Варіант-Купівля-Показників)
+  - [4. Опиши Свого Персонажа](#4-Опиши-Свого-Персонажа)
+    - [Характеристики Твого Персонажа](#Характеристики-Твого-Персонажа)
+  - [5. Вибери Спорядження](#5-Вибери-Спорядження)
+    - [Клас Обладунку](#Клас-Обладунку)
+    - [Зброя](#Зброя)
+  - [6. Зберіться Разом](#6-Зберіться-Разом)
+  - [Після 1 Рівня](#Після-1-Рівня)
+    - [Категорії Гри](#Категорії-Гри)
+    - [Розвиток Персонажа](#Розвиток-Персонажа)
 
 ***
 
-Your first step in playing an adventurer in the Dungeons & Dragons game is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a race (such as human or halfling) and a class (such as fighter or wizard). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the Dungeons & Dragons world.
+Твоїм першим кроком перед початком гри D&D стане створення власного героя. Твій персонаж - це комбінація ігрових статистик, рольових прийомів та твоєї власної уяви. Ти обираєш расу (таку як людина або напіврослик) та клас (як, наприклад, боєць або чарівник). Тобі також потрібно вигадати особистість, зовнішність та передісторію свого героя. Після цього він стане твоїм уособленням, аватаром у світі D&D.
 
-Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking rogue, a fervent cleric, or a flamboyant wizard. Or you might be more interested in an unconventional character, such as a brawny rogue who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like fantasy fiction featuring dwarves or elves? Try building a character of one of those races. Do you want your character to be the toughest adventurer at the table? Consider the fighter class. If you don’t know where else to begin, take a look at the illustrations in this book to see what catches your interest.
+Перед тим як ти заглибишся у вивчення 1 етапу для створення персонажа, подумай про те, яким шукачем пригод ти хочеш грати. Ти можеш бути ким завгодно: відважним бійцем, моторним спритником, вмілим жерцем або ексцентричним чарівником. Чи може ти зацікавлений у створенні нестандартного героя, такого як агресивний спритник, який любить рукопашний бій, або влучний стрілець, який відстрілює супротивників здалеку? Тобі подобаються твори фентезі за участю двергів та ельфів? Спробуй створити персонажа однієї з цих рас! Хочеш, щоб твій персонаж був найстійкішим героєм за ігровим столом? Спробуй клас «варвар» або «паладин». Якщо ти не знаєш, з чого почати, поглянь на ілюстрації в цій книзі. Можливо вони допоможуть запалити твій інтерес.
 
-Once you have a character in mind, follow these steps in order, making decisions that reflect the character you want. Your conception of your character might evolve with each choice you make. What’s important is that you come to the table with a character you’re excited to play.
+Після того, як ти уявив собі свого персонажа, слідуй за вказівками, поданими нижче, приймаючи рішення, які будуть відображати натуру створюваного персонажа. Твоє уявлення про персонажа може еволюціювати з кожним зробленим вибором. Важливо те, щоб ти сів за стіл саме з тим персонажем, яким тобі хочеться грати.
 
-Throughout this chapter, we use the term **character sheet** to mean whatever you use to track your character, whether it’s a formal character sheet (like the one at the end of these rules), some form of digital record, or a piece of notebook paper. An official D&D character sheet is a fine place to start until you know what information you need and how you use it during the game.  
+У цьому розділі термін **лист персонажа** використовується для позначення того, де ти відмічатимеш усе, що стосується опису твого персонажа, незалежно від того, чи це офіційний лист (наведений в кінці цієї книги), різновид цифрових записів або ж це просто аркуш в клітинку. Офіційний лист персонажа D&D ідеально підходить для старту, доки ти не дізнаєшся, яка саме інформація тобі потрібна і як нею користуватись під час гри.  
 
-> **Building Bruenor**
+> **Створення Бренора**
 >  
-> Each step of character creation includes an example of that step, with a player named Bob building his dwarf character, Bruenor.
+> Кожен етап створення персонажа включає приклад, в якому гравець на ім’я Боб створює свого власного персонажа - дверга Бренора.
 
-## 1. Choose a Race
+## 1. Вибери Расу
 
-Every character belongs to a race, one of the many intelligent humanoid species in the D&D world. The most common player character races are dwarves, elves, halflings, and humans. Some races also have subraces, such as mountain dwarf or wood elf. Chapter 2 provides more information about these races.
+Кожен персонаж належить до однієї з безлічі розумних гуманоїдних рас світів D&D. Найбільш поширеними расами ігрових персонажів є дверги, ельфи, напіврослики та люди. Деякі раси поділяються на підвиди, наприклад, дверги бувають «гірськими», а ельфи «лісовими». Розділ 2 наводить більше інформації про ці, а також інші менш поширені раси.
 
-The race you choose contributes to your character’s identity in an important way, by establishing a general appearance and the natural talents gained from culture and ancestry. Your character’s race grants particular racial traits, such as special senses, proficiency with certain weapons or tools, proficiency in one or more skills, or the ability to use minor spells. These traits sometimes dovetail with the capabilities of certain classes (see step 2). For example, the racial traits of lightfoot halflings make them exceptional rogues, and high elves tend to be powerful wizards. Sometimes playing against type can be fun, too. Halfling paladins and mountain dwarf wizards, for example, can be unusual but memorable characters.
+Раса, яку ти обрав, надає індивідуальність твоєму персонажу, визначаючи характерну зовнішність і вроджені таланти, отримані через культуру та походження. Раса твого персонажа дарує тобі певні **расові особливості**, такі як: особливі чуття, володіння кількома видами зброї або інструментами, володіння однією або кількома навичками, а також здатність виконувати найпростіші заклинання. Ці особливості іноді добре поєднуються з уміннями деяких класів (див. 2 етап). Наприклад, расові особливості легконогих напівросликів роблять їх винятковими спритниками, а вищі ельфи, як правило, стають могутніми чарівниками. Іноді не слідувати за шаблонами теж буває весело. Наприклад, напів-орк паладин або гірський дверг чарівник хоч і виглядають незвично, але здатні стати не менш цікавими героями.
 
-Your race also increases one or more of your ability scores, which you determine in step 3. Note these increases and remember to apply them later.
+Твоя раса також підвищує один або одразу декілька показників твоїх характеристик, які ти визначиш під час 3 етапу. Запиши ці підвищення і не забудь врахувати їх пізніше.
 
-Record the traits granted by your race on your character sheet. Be sure to note your starting languages and your base speed as well.
+Відзнач усі свої расові особливості на листі персонажа. Також обов’язково вкажи там свої початкові мови та базову швидкість.
 
->**Building Bruenor, Step 1**
+>**Створення Бренора, Етап 1**
 >  
-> Bob is sitting down to create his character. He decides that a gruff mountain dwarf fits the character he wants to play. He notes all the racial traits of dwarves on his character sheet, including his speed of 25 feet and the languages he knows: Common and Dwarvish.
+> Боб взявся за створення персонажа. Він вирішує, що гірський дверг - саме той персонаж, яким він хоче грати. Він записує всі особливості раси двергів у свій лист персонажа, включаючи його базову швидкість, яка становить 5 метрів, та мови, які він знає: загальну та двергську.
 
-## 2. Choose a Class
+## 2. Вибери Клас
 
-Every adventurer is a member of a class. Class broadly describes a character’s vocation, what special talents he or she possesses, and the tactics he or she is most likely to employ when exploring a dungeon, fighting monsters, or engaging in a tense negotiation. The character classes are described in chapter 3.
+Кожен шукач пригод - представник якого-небудь класу. В цілому, клас описує покликання персонажа, таланти, якими він володіє, і тактики, до яких він найчастіше вдається, коли досліджує підземелля, бореться з монстрами або бере участь в напружених переговорах. Класи персонажів описані в розділі 3.
 
-Your character receives a number of benefits from your choice of class. Many of these benefits are **class features** - capabilities (including spellcasting) that set your character apart from members of other classes. You also gain a number of **proficiencies**: armor, weapons, skills, saving throws, and sometimes tools. Your proficiencies define many of the things your character can do particularly well, from using certain weapons to telling a convincing lie.
+Твій персонаж отримує низку переваг від обраного тобою класу. Більшість цих переваг є **класовими уміннями** - властивостями (включаючи уміння виконувати заклинання), які відрізняють твого персонажа від представників інших класів. Ти також отримуєш перелік **володінь** (вміння ефективно використовувати) обладунками, зброєю, навичками, кидками рятунку та, іноді, інструментами. Твої володіння визначають те, що твій персонаж може робити краще за інших: застосовувати в бою певні види зброї або ж переконливо брехати.
 
-On your character sheet, record all the features that your class gives you at 1st level.
+На своєму листі персонажа запиши всі уміння, якими володіє твій клас на 1 рівні.
 
-### Level
+### Рівень
 
-Typically, a character starts at 1st level and advances in level by adventuring and gaining **experience points** (XP). A 1st-level character is inexperienced in the adventuring world, although he or she might have been a soldier or a pirate and done dangerous things before. 
+Новий персонаж починає з 1 рівня та досягає вищих рівнів, завершуючи пригоди й отримуючи **Досвід**. Персонаж 1 рівня вважається недосвідченим, навіть якщо раніше він уже вів небезпечне життя.
 
-Starting off at 1st level marks your character’s entry into the adventuring life. If you’re already familiar with the game, or if you are joining an existing D&D campaign, your DM might decide to have you begin at a higher level, on the assumption that your character has already survived a few harrowing adventures.
+1 рівень означає для твого персонажа вступ в життя шукача пригод. Якщо ти вже знайомий з грою, або якщо ти приєднуєшся до довготривалої кампанії, твій Майстер може вирішити, що ти стартуєш з більш високим рівнем, припускаючи, що твій персонаж вже пережив декілька небезпечних пригод.
 
-Record your level on your character sheet. If you’re starting at a higher level, record the additional elements your class gives you for your levels past 1st. Also record your experience points. A 1st-level character has 0 XP. A higher-level character typically begins with the minimum amount of XP required to reach that level (see “Beyond 1st Level” later in this chapter).
+Відзнач свій рівень на листі персонажа. Якщо ти починаєш не з 1 рівня, запиши додаткові уміння, які надає тобі твій клас. Також запиши свій поточний Досвід. У персонажа 1 рівня 0 Досвіду. Персонаж більш високого рівня, як правило, починає з мінімальним значенням Досвіду, необхідним для досягнення цього рівня (див. «Після 1 рівня» далі в цьому розділі).
 
-### Hit Points and Hit Dice
+### Здоров’я та Кубик Здоров’я
 
-Your character’s hit points define how tough your character is in combat and other dangerous situations. Your hit points are determined by your Hit Dice (short for Hit Point Dice).
+Здоров’я (скорочено від «очки здоров’я») твого персонажа визначає, наскільки стійким є твій персонаж в бою та інших небезпечних ситуаціях. Твоє здоров’я напряму залежить від твого Кубика Здоров’я.
 
-At 1st level, your character has 1 Hit Die, and the die type is determined by your class. You start with hit points equal to the highest roll of that die, as indicated in your class description. (You also add your Constitution modifier, which you’ll determine in step 3.) This is also your **hit point maximum**.
+На 1 рівні у твого персонажа є 1 Кубик Здоров’я, а твій клас визначає, якого виду буде цей кубик. Ти починаєш гру з кількістю здоров’я, яка дорівнює найбільшому можливому результату кидка твого Кубика Здоров’я, як це зазначено в описі твого класу. (Ти також додаєш сюди модифікатор твоєї Статури, який визначиш на 3 етапі). Це число також буде твоїм **максимумом здоров’я**.
 
-Record your character’s hit points on your character sheet. Also record the type of Hit Die your character uses and the number of Hit Dice you have. After you rest, you can spend Hit Dice to regain hit points (see “Resting” in chapter 8).
+Запиши кількість здоров’я твого персонажа на листі персонажа. Також запиши кількість та вид Кубиків Здоров’я, якими володіє твій персонаж. Під час відпочинку ти зможеш використовувати Кубики Здоров’я для відновлення свого здоров’я (див. «Відпочинок» в розділі 8).
 
-### Proficiency Bonus
+### Бонус Майстерності
 
-The table that appears in your class description shows your proficiency bonus, which is +2 for a 1st-level character. Your proficiency bonus applies to many of the numbers you’ll be recording on your character sheet:
+В таблиці, яка знаходиться в описі кожного класу, вказаний бонус майстерності. Для персонажа 1 рівня цей бонус дорівнює +2. Твій бонус майстерності додається до таких чисел (запиши їх у свій лист персонажа):
 
-- Attack rolls using weapons you’re proficient with
-- Attack rolls with spells you cast
-- Ability checks using skills you’re proficient in
-- Ability checks using tools you’re proficient with
-- Saving throws you’re proficient in
-- Saving throw DCs for spells you cast (explained in each
-spellcasting class)
+- Кидків атак при використанні зброї, якою ти володієш
+- Кидків атак заклинаннями, які ти виконуєш
+- Перевірок характеристик при використанні навичок, якими ти володієш
+- Перевірок характеристик, під час яких ти використовуєш інструменти, якими володієш
+- Кидків рятунку, якими ти володієш
+- СК кидків рятунку від заклинань, які ти виконуєш (пояснюється окремо для кожного класу, який дарує уміння виконувати заклинання)
 
-Your class determines your weapon proficiencies, your saving throw proficiencies, and some of your skill and tool proficiencies. (Skills are described in chapter 7, tools in chapter 5.) Your background gives you additional skill and tool proficiencies, and some races give you more proficiencies. Be sure to note all of these proficiencies, as well as your proficiency bonus, on your character sheet.
+Твій клас визначає, якою зброєю, кидками рятунку, навичками та інструментами ти володієш (навички описані в розділі 7, а інструменти - в розділі 5). Твоя передісторія, як і певнірасові особливості, також можуть надавати тобі певні володіння. Обов’язково запиши у свій лист персонажа усе, чим ти володієш, а також відзнач свій бонус майстерності.
 
-Your proficiency bonus can’t be added to a single die roll or other number more than once. Occasionally, your proficiency bonus might be modified (doubled or halved, for example) before you apply it. If a circumstance suggests that your proficiency bonus applies more than once to the same roll or that it should be multiplied more than once, you nevertheless add it only once, multiply it only once, and halve it only once.
+Бонус майстерності не можна додавати до одного кидка кубика або іншого числа більше, ніж один раз. Іноді твій бонус майстерності може змінюватись (збільшуватись або зменшуватись вдвічі), перед тим, як його буде додано до кидка. Якщо обставини допускають, що твій бонус майстерності повинен бути доданий, помножений або зменшений для одного і того ж кидка більше, як один раз, все ж таки додай його тільки один раз, або помнож або зменши удвічі тільки один раз
 
-> **Building Bruenor, Step 2**
+> **Створення Бренора, Етап 2**
 >  
-> Bob imagines Bruenor charging into battle with an axe, one horn on his helmet broken off. He makes Bruenor a fighter and notes the fighter’s proficiencies and 1st-level class features on his character sheet. As a 1st-level fighter, Bruenor has 1 Hit Die—a d10— and starts with hit points equal to 10 + his Constitution modifier. Bob notes this, and will record the final number after he determines Bruenor’s Constitution score (see step 3). Bob also notes the proficiency bonus for a 1stlevel character, which is +2.
+> Боб уявляє собі Бренора, який мчить в битву з сокирою в руці. Один ріг на його шоломі надламаний. Він вибирає для Бренора клас «боєць» і відмічає, чим той володіє, а також записує класові уміння бійця 1 рівня у свій лист персонажа. Будучи бійцем 1 рівня, Бренор має один Кубик Здоров’я - к10, та починає гру з кількістю здоров’я, рівній 10 + його модифікатор Статури. Боб відзначає, щоб записати підсумкове число після того, як визначить показник Статури Бренора (див. етап 3). Боб також записує бонус майстерності персонажа 1 рівня, який дорівнює +2.
 >
-> **Quick Build**
+> **Швидке Створення**
 >  
-> *Each class description in chapter 3 includes a section offering suggestions to quickly build a character of that class, including how to assign your highest ability scores, a background suitable to the class, and starting spells.*
+> *Опис кожного класу в розділі 3 включає в себе параграф, який описує варіанти швидкого створення персонажа цього класу, включаючи розподіл показників характеристик та передісторію, яка найбільше підходить для цього класу, а також рекомендації що до початкових заклинань.*
 
-## 3. Determine Ability Scores
+## 3. Визнач Показники Характеристик
 
-Much of what your character does in the game depends on his or her six abilities: **Strength**, **Dexterity**, **Constitution**, **Intelligence**, **Wisdom**, and **Charisma**. Each ability has a score, which is a number you record on your character sheet.
+Багато з того, що твій персонаж здатен зробити в грі, залежить від його шести характеристик: **Сила**, **Вправність**, **Статура**, **Інтелект**, **Мудрість** і **Харизма**. Кожна характеристика виражена показником - числом, яке ти записуєш на листі свого персонажа.
 
-The six abilities and their use in the game are described in chapter 7. The Ability Score Summary table provides a quick reference for what qualities are measured by each ability, what races increases which abilities, and what classes consider each ability particu larly important.
+Шість характеристик та їхнє використання в грі описується в розділі 7. Таблиця «Короткий опис характеристик» містить стислу інформацію про те, які якості уособлює кожна характеристика, перелічує расові бонуси характеристик та вказує, яка саме характеристика важлива для відповідного класу.
 
-You generate your character’s six **ability scores** ran domly. Roll four 6-sided dice and record the total of the highest three dice on a piece of scratch paper. Do this five more times, so that you have six numbers. If you want to save time or don’t like the idea of randomly determining ability scores, you can use the following scores instead: 15, 14, 13, 12, 10, 8.
+Ти випадковим чином генеруєш **шість показників характеристик**. Для цього кинь чотири 6-гранних кубики (4к6) та запиши суму трьох найвищих результатів на листочку паперу. Повтори цю саму дію ще п’ять разів, щоб у результаті ти отримав шість чисел. Якщо хочеш заощадити час, або тобі не подобається ідея випадковості, можеш натомість використовувати наступні числа: 15, 14, 13, 12, 10, 8.
 
-Now take your six numbers and write each number beside one of your character’s six abilities to assign scores to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Afterward, make any changes to your ability scores as a result of your race choice.
+Тепер розподіли ці числа для шести характеристик, цим самим призначивши показники для Сили, Вправності, Статури, Інтелекту, Мудрості та Харизми. Після цього, додай до отриманих чисел бонуси, які надає вибрана тобою раса і запиши підсумкові значення у свій лист персонажа.
 
-After assigning your ability scores, determine your **ability modifiers** using the Ability Scores and Modifiers table. To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the result by 2 (round down). Write the modifier next to each of your scores.
+Після призначення показників характеристик потрібно визначити **модифікатори характеристик**, використовуючи таблицю «Показники та модифікатори характеристик». Для визначення модифікатора характеристики без звернення до таблиці відніми від показника характеристики число 10 і розділи результат на 2, округляючи до меншого цілого числа. Запиши модифікатори біля показників відповідних характеристик.
 
-> **Building Bruenor, Step 3**
+> **Створення Бренора, Етап 3**
 >  
-> Bob decides to use the standard set of scores (15, 14, 13, 12, 10, 8) for Bruenor’s abilities. Since he’s a fighter, he puts his highest score, 15, in Strength. His next-highest, 14, goes in Constitution. Bruenor might be a brash fighter, but Bob decides he wants the dwarf to be older, wiser, and a good leader, so he puts decent scores in Wisdom and Charisma. After applying his racial benefits (increasing Bruenor’s Constitution by 2 and his Strength by 2), Bruenor’s ability scores and modifiers look like this: Strength 17 (+3), Dexterity 10 (+0), Constitution 16 (+3), Intelligence 8 (–1), Wisdom 13 (+1), Charisma 12 (+1). Bob fills in Bruenor’s final hit points: 10 + his Constitution modifier of +3, for a total of 13 hit points.
+> Боб вирішує використовувати стандартний набір показників (15, 14, 13, 12, 10, 8) для характеристик Бренора. Оскільки Бренор - боєць, Боб призначає найвищий показник, 15, Силі. Наступний показник, 14, він призначає Статурі. Бренор може бути відчайдушним бійцем, але Боб хоче, щоб його дверг був старшим, мудрішим, а також був хорошим лідером, тому він призначає наступні показники для Мудрості та Харизмі. Після додавання расових бонусів (збільшення Статури та Сили на 2), показники характеристик Бренора та модифікатори його характеристик виглядають так: Сила: 17 (+3), Вправність: 10 (+0), Статура: 16 (+3), Інтелект: 8 (-1), Мудрість: 13 (+1), Харизма: 12 (+1). Боб записує підсумкове значення здоров’я Бренора: 10 + його модифікатор Статури (який дорівнює +3), тобто в сумі 13 здоров’я.
 
-### Ability Scores and Modifiers
+### Показники Та Модифікатори Характеристик
 
-| Score | Modifier |
-| :---- | :------: |
-| 1     |    −5    |
-| 2–3   |    −4    |
-| 4–5   |    −3    |
-| 6–7   |    −2    |
-| 8–9   |    −1    |
-| 0–11  |    +0    |
-| 2–13  |    +1    |
-| 4–15  |    +2    |
-| 16–17 |    +3    |
-| 18–19 |    +4    |
-| 20–21 |    +5    |
-| 22–23 |    +6    |
-| 24–25 |    +7    |
-| 26–27 |    +8    |
-| 28–29 |    +9    |
-| 30    |   +10    |
+| Показник | Модифікатор |
+| :------: | :---------: |
+|    1     |     −5      |
+|   2–3    |     −4      |
+|   4–5    |     −3      |
+|   6–7    |     −2      |
+|   8–9    |     −1      |
+|   0–11   |     +0      |
+|   2–13   |     +1      |
+|   4–15   |     +2      |
+|  16–17   |     +3      |
+|  18–19   |     +4      |
+|  20–21   |     +5      |
+|  22–23   |     +6      |
+|  24–25   |     +7      |
+|  26–27   |     +8      |
+|  28–29   |     +9      |
+|    30    |     +10     |
 
-### Ability Score Summary
+### Короткий Опис Характеристик
 
-| **Strength**                                  |       |
-| :-------------------------------------------- | :---: |
-| *Measures:* Natural athleticism, bodily power |       |
-| *Important for:* Fighter                      |       |
-| *Racial Increases:*                           |       |
-| Mountain dwarf (+2)                           |       |
-| Human (+1)                                    |       |
+| **Сила**                                          |       |
+| :------------------------------------------------ | :---: |
+| *Вимірює:* Природний атлетизм, грубу фізичну силу |       |
+| *Важлива для:* Бійця                              |       |
+| *Расовий бонус:*                                  |       |
+| Дверг, гірський (+2)                              |       |
+| Людина (+1)                                       |       |
 
-| **Dexterity**                                          |            |
-| :----------------------------------------------------- | :--------: |
-| *Measures:* Physical agility, reflexes, balance, poise |            |
-| *Important for:* Rogue                                 |            |
-| *Racial Increases:*                                    |            |
-| Elf (+2)                                               | Human (+1) |
-| Halfling (+2)                                          |            |
+| **Вправність**                            |             |
+| :---------------------------------------- | :---------: |
+| *Вимірює:* Моторність, реакцію, рівновагу |             |
+| *Важлива для:* Спритника                  |             |
+| *Расовий бонус:*                          |             |
+| Ельф (+2)                                 | Людина (+1) |
+| Напіврослик (+2)                          |             |
 
-| **Constitution**                         |       |
-| :--------------------------------------- | :---: |
-| *Measures:* Health, stamina, vital force |       |
-| *Important for:* Everyone                |       |
-| *Racial Increases:*                      |       |
-| Dwarf (+2)                               |       |
-| Stout halfling (+1)                      |       |
-| Human (+1)                               |       |
+| **Статура**                                     |       |
+| :---------------------------------------------- | :---: |
+| *Вимірює:* Здоров’я, витривалість, життєву силу |       |
+| *Важлива для:* Всіх класів                      |       |
+| *Расовий бонус:                                 |       |
+| *                                               |       |
+| Дверг (+2)                                      |       |
+| Напіврослик, кремезний (+1)                     |       |
+| Людина (+1)                                     |       |
 
-| **Intelligence**                                                |       |
-| :-------------------------------------------------------------- | :---: |
-| *Measures:* Mental acuity, information recall, analytical skill |       |
-| *Important for:* Wizard                                         |       |
-| *Racial Increases:*                                             |       |
-| High elf (+1)                                                   |       |
-| Human (+1)                                                      |       |
+| **Інтелект**                                             |       |
+| :------------------------------------------------------- | :---: |
+| *Вимірює:* Ясність розуму, пам’ять, аналітичні здібності |       |
+| *Важлива для:* Чарівника                                 |       |
+| *Расовий бонус:*                                         |       |
+| Ельф, вищий (+1)                                         |       |
+| Людина (+1)                                              |       |
 
-| **Wisdom**                                |            |
-| :---------------------------------------- | :--------: |
-| *Measures:* Awareness, intuition, insight |            |
-| *Important for:* Cleric                   |            |
-| *Racial Increases:*                       |            |
-| Hill dwarf (+1)                           | Human (+1) |
-| Wood elf (+1)                             |            |
+| **Мудрість**                                                 |             |
+| :----------------------------------------------------------- | :---------: |
+| *Вимірює:* Досвідченість, інтуїцію, розуміння свого оточення |             |
+| *Важлива для:* Друїда, жерця                                 |             |
+| *Расовий бонус:*                                             |             |
+| Дверг, пагорбний (+1)                                        | Людина (+1) |
+| Ельф, лісовий (+1)                                           |             |
 
-| **Charisma**                                       |            |
-| :------------------------------------------------- | :--------: |
-| *Measures:* Confidence, eloquence, leadership      |            |
-| *Important for:* Leaders and diplomatic characters |            |
-| *Racial Increases:*                                |            |
-| Lightfoot halfling (+1)                            | Human (+1) |
+| **Харизма**                                      |             |
+| :----------------------------------------------- | :---------: |
+| *Вимірює:* Впевненість, красномовство, лідерство |             |
+| *Важлива для:* Leaders and diplomatic characters |             |
+| *Расовий бонус:*                                 |             |
+| Напіврослик, легконогий (+1)                     | Людина (+1) |
 
-### Variant: Customizing Ability Scores
+### Варіант: Купівля Показників
 
-At your Dungeon Master’s option, you can use this variant for determining your ability scores. The method described here allows you to build a character with a set of ability scores you choose individually.
+Якщо Майстер дозволить, ти можеш використовувати цей варіант при визначенні показників своїх характеристик. Метод, описаний тут, дозволяє створити персонажа з більш індивідуальним набором показників характеристик.
 
-You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Cost table. For example, a score of 14 costs 7 points. Using this method, 15 is the highest ability score you can end up with, before applying racial increases. You can’t have a score lower than 8.
+Ти отримуєш 27 одиниць, за які «купуєш» відповідні показники характеристик. Ціна кожного показника приведена в таблиці «Купівля показників характеристик». Наприклад, показник 14 коштує 7 одиниць. Використовуючи цей метод (перед тим, як ти застосуєш расові бонуси), найвищий показник, який ти можеш отримати, буде 15. При цьому показник характеристики не може бути нижчим за 8.
 
-This method of determining ability scores enables you to create a set of three high numbers and three low ones (15, 15, 15, 8, 8, 8), a set of numbers that are above average and nearly equal (13, 13, 13, 12, 12, 12), or any set of numbers between those extremes.
+Цей метод визначення характеристик дозволяє створити набір з трьох високих і трьох низьких показників (15, 15, 15, 8, 8, 8), або набір більш-менш середніх показників (13, 13, 13, 12, 12, 12), або будь-який інший набір показників у цих межах.
 
-| Score | Cost  |
-| :---- | :---: |
-| 8     |   0   |
-| 9     |   1   |
-| 10    |   2   |
-| 11    |   3   |
-| 12    |   4   |
-| 13    |   5   |
-| 14    |   7   |
-| 15    |   9   |
+| **Показник** | **Ціна** |
+| :----------- | :------: |
+| 8            |    0     |
+| 9            |    1     |
+| 10           |    2     |
+| 11           |    3     |
+| 12           |    4     |
+| 13           |    5     |
+| 14           |    7     |
+| 15           |    9     |
 
-## 4. Describe Your Character
+## 4. Опиши Свого Персонажа
 
-Once you know the basic game aspects of your character, it’s time to flesh him or her out as a person. Your character needs a name. Spend a few minutes thinking about what he or she looks like and how he or she behaves in general terms.
+Після того, як ти ознайомився з основними ігровими параметрами свого персонажа, настав час охарактеризувати його, як особистість. Твоєму персонажу необхідне ім’я. Подумай кілька хвилин, розмірковуючи про те, як він або вона виглядає, і як, в загальних рисах, поводиться.
 
-Using the information in chapter 4, you can flesh out your character’s physical appearance and personality traits. Choose your character’s **alignment** (the moral compass that guides his or her decisions) and **ideals**. Chapter 4 also helps you identify the things your character holds most dear, called **bonds**, and the **flaws** that could one day undermine him or her.
+Використовуючи інформацію з розділу 4, ти можеш визначити фізичний вигляд та особисті якості твого персонажа. Також вкажи його **світогляд** (моральний компас, який керує його рішеннями) та відзнач його особисті **ідеали**. Розділ 4 також допоможе тобі визначити речі, найбільш дорогі твоєму персонажу, які звуться **прив’язаностями**, а також охарактеризувати його **слабкості**, які одного дня можуть йому нашкодити.
 
-Your character’s **background** describes where he or she came from, his or her original occupation, and the character’s place in the D&D world. Your DM might offer additional backgrounds beyond the ones included in chapter 4, and might be willing to work with you to craft a background that’s a more precise fit for your character concept.
+**Передісторія** твого персонажа описує його батьківщину, попередню спеціальність та місце персонажа у світі, в якому розгортається пригода. Твій Майстер може запропонувати додаткові передісторії крім тих, які перелічені в розділі 4. Передісторія також може бути допрацьована або змінена, щоб точніше підходити під концепцію твого персонажа.
 
-A background gives your character a background feature (a general benefit) and proficiency in two skills, and it might also give you additional languages or proficiency with certain kinds of tools. Record this information, along with the personality information you develop, on your character sheet.
+Передісторія дає твоєму персонажу **уміння передісторії** та володіння двома навичками, а також може дарувати знання додаткових мов або володіння певними видами інструментів. Запиши цю інформацію разом з даними про особистість, яку ти розробив, у свій лист персонажа.
 
-### Your Character’s Abilities
+### Характеристики Твого Персонажа
 
-Take your character’s ability scores and race into account as you flesh out his or her appearance and personality. A very strong character with low Intelligence might think and behave very differently from a very smart character with low Strength.
+Коли вигадуєш зовнішність і особистість свого персонажа, зверни увагу на показники його характеристик та расу. Дуже сильний персонаж з низьким Інтелектом буде думати і вести себе зовсім інакше, ніж дуже розумний персонаж з низькою Силою.
 
-For example, high Strength usually corresponds with a burly or athletic body, while a character with low Strength might be scrawny or plump.
+Наприклад, високий показник Сили зазвичай вказує на міцне або атлетичне тіло, в той час як персонаж з низьким показником Сили може бути худим або огрядним.
 
-A character with high Dexterity is probably lithe and slim, while a character with low Dexterity might be either gangly and awkward or heavy and thick-fingered.
+Персонаж з високим показником Вправності, ймовірно, буде гнучким і струнким, в той час як персонаж з низькою Вправністю може бути або довготелесим і незграбним, або важким, з товстими, як сардельки, пальцями.
 
-A character with high Constitution usually looks healthy, with bright eyes and abundant energy. A character with low Constitution might be sickly or frail.
+Персонаж з високим показником Статури зазвичай виглядає здоровим і повним сил, тоді як персонаж з низьким показником Статури скоріш за все буде мати хворобливий або кволий вигляд.
 
-A character with high Intelligence might be highly inquisitive and studious, while a character with low Intelligence might speak simply or easily forget details.
+Персонаж з високим показником Інтелекту може бути допитливим і старанним учнем, в той час як персонаж із заниженим Інтелектом може мати примітивну манери спілкування та буде легко забувати подробиці.
 
-A character with high Wisdom has good judgment, empathy, and a general awareness of what’s going on.
+Персонаж з високою Мудрістю проявляє розсудливість, співпереживання і має гарне уявлення про навколишній світ.
 
-A character with low Wisdom might be absent-minded, foolhardy, or oblivious.
+Персонаж з низьким показником Мудрості може бути розсіяним або забудькуватим.
 
-A character with high Charisma exudes confidence, which is usually mixed with a graceful or intimidating presence. A character with a low Charisma might come across as abrasive, inarticulate, or timid.
+Герой з високим показником Харизми випромінює впевненість у собі, природну привабливість та лідерські якості, тоді як героя з низьким показником Харизми можуть сприймати як дратівливого, сором’язливого або боязкого.
 
-> **Building Bruenor, Step 4**
+> **Створення Бренора, Етап 4**
 >  
-> Bob fills in some of Bruenor’s basic details: his name, his sex (male), his height and weight, and his alignment (lawful good). His high Strength and Constitution suggest a healthy, athletic body, and his low Intelligence suggests a degree of forgetfulness.
+> Боб відзначає деякі загальні риси Бренора: його ім’я, його стать (чоловіча), зріст, вагу та світогляд (законно добрий). Його висока Сила і Статура передбачають здорове і атлетичне тіло, а його низький Інтелект вказує на певний рівень забудькуватості.
 >  
-> Bob decides that Bruenor comes from a noble line, but his clan was expelled from its homeland when Bruenor was very young. He grew up working as a smith in the remote villages of Icewind Dale. But Bruenor has a heroic destiny—to reclaim his homeland—so Bob chooses the folk hero background for his dwarf. He notes the proficiencies and special feature this background gives him.
+> Боб вирішує, що Бренор походить зі знатного роду, але його клан був вигнаний з рідних земель, коли Бренор був дуже молодий. Він виріс, працюючи ковалем у віддалених поселеннях Долини Крижаного Вітру. Але на Бренора чекає доля героя: він повинен повернути свою батьківщину, тож Боб вибирає передісторію народного героя для свого дверга. Він записує усі володіння та уміння, які дає йому ця передісторія.
 >  
-> Bob has a pretty clear picture of Bruenor’s personality in mind, so he skips the personality traits suggested in the folk hero background, noting instead that Bruenor is a caring, sensitive dwarf who genuinely loves his friends and allies, but he hides this soft heart behind a gruff, snarling demeanor. He chooses the ideal of fairness from the list in his background, noting that Bruenor believes that no one is above the law.
+> У Боба є досить чітке уявлення про особистість Бренора, тому він пропускає особисті якості, запропоновані в описі передісторії народного героя, відзначаючи замість цього, що Бренор турботливий, чутливий дверг, який щиро любить своїх друзів і союзників, хоч і приховує своє м’яке серце за грубою, буркотливою манерою поведінки. Він вибирає ідеал справедливості зі списку своєї передісторії, відзначаючи, що Бренор вважає, що ніхто не може бути вище закону.
 >  
-> Given his history, Bruenor’s bond is obvious: he aspires to someday reclaim Mithral Hall, his homeland, from the shadow dragon that drove the dwarves out. His flaw is tied to his caring, sensitive nature—he has a soft spot for orphans and wayward souls, leading him to show mercy even when it might not be warranted.
+> З передісторії стає очевидною прив’язаність Бренора: він прагне відібрати назад Міфриловий Зал - свою батьківщину - з лап тіньового дракона, який вигнав звідти двергів. Його слабкість пов’язана з його турботливою, чутливою натурою - він прихильний до сиріт і заблудлих душ, які викликають в нього жаль навіть тоді, коли це може йому нашкодити.
 
-## 5. Choose Equipment
+## 5. Вибери Спорядження
 
-Your class and background determine your character’s **starting equipment**, including weapons, armor, and other adventuring gear. Record this equipment on your character sheet. All such items are detailed in chapter 5, “Equipment.“
+Твій клас та передісторія визначають **початкове спорядження** твого персонажа, яке включає зброю, обладунок та інше оснащення шукача пригод. Запиши усе це спорядження у свій лист персонажа. Усі ці предмети детально описані в розділі 5.
 
-Instead of taking the gear given to you by your class and background, you can purchase your starting equipment. You have a number of **gold pieces** (gp) to spend based on your class, as shown in chapter 5. Extensive lists of equipment, with prices, also appear in that chapter. If you wish, you can also have one trinket at no cost (see the Trinkets table at the end of chapter 5).
+Замість того, щоб брати спорядження, наведене в описі класу та надається передісторією, ти можеш купити своє початкове спорядження. Тобі даються **золоті монети** (зм), кількість яких залежить від твого класу, як це описано в розділі 5, де також наведені списки спорядження з цінами. Якщо маєш бажання, можеш безкоштовно обрати для себе одну дрібничку (див. таблицю «Дрібнички» в кінці розділу 5).
 
-Your Strength score limits the amount of gear you can carry. Try not to purchase equipment with a total weight (in pounds) exceeding your Strength score times 15. Chapter 7 has more information on carrying capacity.
+Твій показник Сили обмежує кількість спорядження, яке ти можеш носити з собою. Намагайся не купувати спорядження загальною вагою (в кілограмах) більшою за твій показник Сили в 4 рази. Розділ 7 містить більше інформації про наслідки перевантаження.
 
-### Armor Class
+### Клас Обладунку
 
-Your **Armor Class** (AC) represents how well your character avoids being wounded in battle. Things that contribute to your AC include the armor you wear, the shield you carry, and your Dexterity modifier. Not all characters wear armor or carry shields, however.
+Твій **Клас Обладунку** (скорочено **КО**) визначає, наскільки добре твій персонаж уникає поранень в бою. На КО впливає одягнений обладунок, щит в руці та твій модифікатор Вправності. Однак не всі персонажі носять обладунки і щити.
 
-Without armor or a shield, your character’s AC equals 10 + his or her Dexterity modifier. If your character wears armor, carries a shield, or both, calculate your AC using the rules in chapter 5. Record your AC on your character sheet.
+Без обладунку і щита КО твого персонажа дорівнює 10 + твій модифікатор Вправності. Якщо ж твій персонаж носить обладунок, споряджений щитом, або користується і тим, і іншим, розрахуй свій КО, використовуючи правила розділу 5. Відзнач свій КО на своєму листі персонажа.
 
-Your character needs to be proficient with armor and shields to wear and use them effectively, and your armor and shield proficiencies are determined by your class. There are drawbacks to wearing armor or carrying a shield if you lack the required proficiency, as explained in chapter 5.
+Щоб ефективно використовувати обладунок та щит, твій персонаж повинен ними володіти. Саме твій клас надає тоді володіння певними обладунками і щитами. При використанні обладунків і щитів, якими ти не володієш, накладаються певні штрафи, як це описано в розділі 5.
 
-Some spells and class features give you a different way to calculate your AC. If you have multiple features that give you different ways to calculate your AC, you choose which one to use.
+Деякі заклинання і класові уміння дозволяють розраховувати твій КО іншим способом. Якщо у тебе є декілька варіантів розрахунку свого КО, ти мусиш обрати, який саме з них буде використовуватись в грі.
 
-### Weapons
+### Зброя
 
-For each weapon your character wields, calculate the modifier you use when you attack with the weapon and the damage you deal when you hit. When you make an attack with a weapon, you roll a d20 and add your proficiency bonus (but only if you are proficient with the weapon) and the appropriate ability modifier.
+Для кожної зброї, якою б’ється твій персонаж, розрахуй модифікатор, який ти будеш використовувати під час атаки та нанесенні ушкоджень, котрі вона завдасть при попаданні.
 
-- For attacks with **melee weapons**, use your Strength modifier for attack and damage rolls. A weapon that has the finesse property, such as a rapier, can use your Dexterity modifier instead.
-- For attacks with **ranged weapons**, use your Dexterity modifier for attack and damage rolls. A melee weapon that has the thrown property, such as a handaxe, can use your Strength modifier instead.
+Щоразу, коли ти атакуєш зброєю, кинь к20 та додай до результату свій бонус майстерності (при умові, що ти володієш цією зброєю), а також модифікатор відповідної характеристики:
 
-> **Building Bruenor, Step 5**
+- При здійсненні кидка атаки та нанесенні ушкоджень **рукопашною зброєю** додавай свій модифікатор Сили. Зброя з властивістю «фехтувальна», така як рапіра, може використовувати твій модифікатор Вправності, а не Сили.
+- При здійсненні кидка атаки та нанесенні ушкоджень **далекобійною зброєю** додавай свій модифікатор Вправності. Рукопашна зброя з властивістю «метальна», така як ручна сокира, може використовувати твій модифікатор Сили, а не Вправності.
+
+> **Створення Бренора, Крок 5**
 >  
-> Bob writes down the starting equipment from the fighter class and the folk hero background. His starting equipment includes chain mail and a shield, which combine to give Bruenor an Armor Class of 18.
+> Боб записує початкове спорядження, яке отримав від класу бійця і передісторії «народний герой». Воно включає в себе кольчугу і щит, які в поєднанні дають Бренору Клас Обладунку 18.
 >  
-> For Bruenor’s weapons, Bob chooses a battleaxe and two handaxes. His battleaxe is a melee weapon, so Bruenor uses his Strength modifier for his attacks and damage. His attack bonus is his Strength modifier (+3) plus his proficiency bonus (+2), for a total of +5. The battleaxe deals 1d8 slashing damage, and Bruenor adds his Strength modifier to the damage when he hits, for a total of 1d8 + 3 slashing damage. When throwing a handaxe, Bruenor has the same attack bonus (handaxes, as thrown weapons, use Strength for attacks and damage), and the weapon deals 1d6 + 3 slashing damage when it hits.
+> В якості зброї, Боб вибирає для Бренора бойову сокиру та дві ручні сокири. Його бойова сокира - рукопашна зброя, тому для атак і при нанесенні нею ушкоджень Бренор додає модифікатор Сили. Його бонус атаки дорівнює (+5). Це сума його модифікатора Сили (+3) плюс його бонус майстерності (+2). Бойова сокира завдає 1к8 рубаних ушкоджень і Бренор додає до цього числа свій модифікатор Сили (+3), коли попадає по супернику, що в підсумку дає 1к8 + 3 рубаних ушкоджень. Коли Бренор метає ручну сокиру, у нього буде такий же бонус атаки (ручна сокира має властивість «метальна», тому використовує модифікатор Сили для розрахунку кидків атак і ушкоджень), тож ця зброя буде завдавати 1к6 + 3 рубаних ушкоджень.
 
-## 6. Come Together
+## 6. Зберіться Разом
 
-Most D&D characters don’t work alone. Each character plays a role within a **party**, a group of adventurers working together for a common purpose. Teamwork and cooperation greatly improve your party’s chances to survive the many perils in the worlds of Dungeons & Dragons. Talk to your fellow players and your DM to decide whether your characters know one another, how they met, and what sorts of quests the group might undertake.
+Більшість персонажів D&D не надто ефективні наодинці. Кожен персонаж грає певну роль у своєму **загоні** - групі шукачів пригод, яка злагоджено працює для досягнення спільної мети. Робота в команді та партнерство значно збільшують шанси вашого загону пережити більшість небезпек в світах D&D. Поговори з іншими гравцями і Майстром, щоб вирішити, чи знають ваші персонажі один одного, як вони зустрілися, і якого роду завдання буде виконувати група.
 
-## Beyond 1st Level
+## Після 1 Рівня
 
-As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**.
+Коли твій персонаж вирушає в пригоду і долає випробування, він отримує Досвід (який виражається числом). Персонаж, який отримує достатню кількість Досвіду, покращує свої здібності. Це покращення називається **досягненням рівня**.
 
-When your character gains a level, his or her class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores, either increasing two scores by 1 each or increasing one score by 2. You can’t increase an ability score above 20. In addition, every character’s proficiency bonus increases at certain levels.
+Коли твій персонаж досягає певного рівня, йому стають доступні нові класові уміння, вказані в описі його класу. Деякі з цих умінь дозволяють підвищити показники характеристик: або збільшити два показники на 1, або збільшити один показник на 2. Не можна підвищити показник характеристики вище 20. Крім того, на певних рівнях у кожного персонажа зростає його бонус майстерності.
 
-Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll (rounded up).
+Щоразу, коли ти досягаєш нового рівня, ти отримуєш ще 1 Кубик Здоров’я. Здійсни кидок цього кубика, додай свій бонус Статури, а отриманий результат (мінімум 1) додай до свого максимуму здоров’я. Або ж ти можеш додавати фіксоване значення, вказане на початку опису кожного класу, яке є середнім результатом кидка кубика (закругленим в більшу сторону).
 
-When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, when Bruenor reaches 8th level as a fighter, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
+Якщо при досягненні вищого рівня твій модифікатор Статури збільшується на 1, то твій максимум здоров’я також збільшується на 1 один з кожен твій рівень. Наприклад, коли Бренор досягає 8 рівня, він підвищує показник своєї Статури з 17 до 18, що в свою чергу збільшує його модифікатор Статури із +3 до +4. Завдяки цьому його максимум здоров’я тепер збільшується на 8.
 
-The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character’s class description to see what other improvements you gain at each level.
+Таблиця «Розвиток персонажа» містить інформацію про кількість Досвіду, необхідну для досягнення рівнів від 1 до 20, а також вказує бонус майстерності, який матиме персонаж на відповідному рівні. Звернись до інформації, включеної в опис твого класу, щоб ознайомитись з іншими покращеннями, які ти отримуєш на кожному рівні.
 
-### Tiers of Play
+### Категорії Гри
 
-The shading in the Character Advancement table shows the four tiers of play. The tiers don’t have any rules associated with them; they are a general description of how the play experience changes as characters gain levels.
+В таблиці «Розвиток персонажа» виділено чотири категорії гри. Ці категорії ніяк не пов’язані з правилами гри, вони просто дають загальне уявлення про те, як змінюється ігровий досвід в процесі досягнення персонажами вищих рівнів.
 
-In the first tier (levels 1–4), characters are effectively apprentice adventurers. They are learning the features that define them as members of particular classes, including the major choices that flavor their class features as they advance (such as a wizard’s Arcane Tradition or a fighter’s Martial Archetype). The threats they face are relatively minor, usually posing a danger to local farmsteads or villages.
+Персонажі першої категорії (рівні 1-4) - початківці. Вони навчаються умінням, які характеризують їх, як представників певного класу, включаючи прийняття вагомих рішень при виборі гілки класових умінь (наприклад, Магічні Традиції у чарівника або Бойовий Архетип у бійця). Небезпеки, з якими вони стикаються, зазвичай пов’язані з загрозою для місцевих ферм або сіл.
 
-In the second tier (levels 5–10), characters come into their own. Many spellcasters gain access to 3rd-level spells at the start of this tier, crossing a new threshold of magical power with spells such as fireball and lightning bolt. At this tier, many weapon-using classes gain the ability to make multiple attacks in one round. These characters have become important, facing dangers that threaten cities and kingdoms.
+Персонажі другої категорії (рівні 5-10) вже реалізували себе. Багато заклинателів на початку цієї категорії отримують доступ до заклинань 3 рівня, досягаючи нового ступеня магічної могутності з такими заклинаннями як *вогняна куля* і *блискавка*. Герої другої категорії, які належать до класів, що спеціалізуються на застосуванні зброї, отримують можливість здійснювати кілька атак за раунд. Ці персонажі грають важливу роль у боротьбі з небезпеками, які загрожують містам і королівствам.
 
-In the third tier (levels 11–16), characters have reached a level of power that sets them high above the ordinary populace and makes them special even among adventurers. At 11th level, many spellcasters gain access to 6th-level spells, some of which create effects previously impossible for player characters to achieve. Other characters gain features that allow them to make more attacks or do more impressive things with those attacks. These mighty adventurers often confront threats to whole regions and continents.
+Персонажі третьої категорії (рівні 11-16) досягають рівня могутності, який високо підносить їх над звичайними людьми і робить їх особливими навіть серед інших шукачів пригод. На 11 рівні багато заклинателів отримують доступ до заклинань 6 рівня, які дарують ефекти, раніше недосяжні для гравців. Інші персонажі отримують уміння, які дозволяють їм здійснювати ще більше атак або робити ці атаки набагато могутнішими. Ці величні шукачі пригод часто протистоять загрозам, що повисли над регіонами і континентами.
 
-At the fourth tier (levels 17–20), characters achieve the pinnacle of their class features, becoming heroic (or villainous) archetypes in their own right. The fate of the world or even the fundamental order of the multiverse might hang in the balance during their adventures.
+Персонажі четвертої категорії (рівні 17-20) досягають вершини умінь своїх класів, стаючи легендарними героями (або лиходіями). Доля світу та фундаментальні закони мультивсесвіту можуть залежати від результату їхніх пригод.
 
-### Character Advancement
+### Розвиток Персонажа
 
-| Experience Points | Level | Proficiency Bonus |
-| :---------------- | :---: | ----------------: |
-| 0                 |   1   |                +2 |
-| 300               |   2   |                +2 |
-| 900               |   3   |                +2 |
-| 2,700             |   4   |                +2 |
-| 6,500             |   5   |                +3 |
-| 14,000            |   6   |                +3 |
-| 23,000            |   7   |                +3 |
-| 34,000            |   8   |                +3 |
-| 48,000            |   9   |                +4 |
-| 64,000            |  10   |                +4 |
-| 85,000            |  11   |                +4 |
-| 100,000           |  12   |                +4 |
-| 120,000           |  13   |                +5 |
-| 140,000           |  14   |                +5 |
-| 165,000           |  15   |                +5 |
-| 195,000           |  16   |                +5 |
-| 225,000           |  17   |                +6 |
-| 265,000           |  18   |                +6 |
-| 305,000           |  19   |                +6 |
-| 355,000           |  20   |                +6 |
+| **Досвід** | **Рівень** | **Бонус майстерності** |
+| :--------- | :--------: | :--------------------: |
+| 0          |     1      |           +2           |
+| 300        |     2      |           +2           |
+| 900        |     3      |           +2           |
+| 2,700      |     4      |           +2           |
+| 6,500      |     5      |           +3           |
+| 14,000     |     6      |           +3           |
+| 23,000     |     7      |           +3           |
+| 34,000     |     8      |           +3           |
+| 48,000     |     9      |           +4           |
+| 64,000     |     10     |           +4           |
+| 85,000     |     11     |           +4           |
+| 100,000    |     12     |           +4           |
+| 120,000    |     13     |           +5           |
+| 140,000    |     14     |           +5           |
+| 165,000    |     15     |           +5           |
+| 195,000    |     16     |           +5           |
+| 225,000    |     17     |           +6           |
+| 265,000    |     18     |           +6           |
+| 305,000    |     19     |           +6           |
+| 355,000    |     20     |           +6           |
 
 ***
 

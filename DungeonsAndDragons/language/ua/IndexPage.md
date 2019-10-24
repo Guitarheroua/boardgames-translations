@@ -47,11 +47,11 @@ Available for download at DungeonsandDragons.com
 
 ## Parts
 
-1. [Introduction](Introduction.md)
-2. [Part 1: Creating A Character](Part1CreatingACharacter.md)
-3. [Part 2: Playing The Game](Part2PlayingTheGame.md)
-4. [Part 3: The Rules Of Magic](Part3TheRulesOfMagic.md)
-5. [Part 4: Dungeon Masters Tools](Part4DungeonMastersTools.md)
+1. [Вступ](Introduction.md)
+2. [Частина 1: Створення Персонажа](Part1CreatingACharacter.md)
+3. [Частина 2: Playing The Game](Part2PlayingTheGame.md)
+4. [Частина 3: The Rules Of Magic](Part3TheRulesOfMagic.md)
+5. [Частина 4: Dungeon Masters Tools](Part4DungeonMastersTools.md)
 6. [Appendices](Appendices.md)
 
 <!--Web links ref-->
