@@ -1,9 +1,9 @@
 ---
 permalink: /ua/d-and-d-basic-rules-part1-creating-a-character/
-title: Part 1 Creating A Character
+title: Частина 1 Створення Персонажа
 ---
 
-# Part 1: Creating A Character
+# Частина 1: Створення Персонажа
 
 [Переглянути цю сторінку англійською](../en/Part1CreatingACharacter.md)
 
@@ -17,12 +17,12 @@ title: Part 1 Creating A Character
 
 ## Chapters
 
-1. [Chapter 1: Step-by-StepCharacters](Part1CreatingACharacter/Ch1StepByStepCharacters.md)
-2. [Chapter 2: Races](Part1CreatingACharacter/Ch2Races.md)
-3. [Chapter 3: Classes](Part1CreatingACharacter/Ch3Classes.md)
-4. [Chapter 4: Personality And Background](Part1CreatingACharacter/Ch4PersonalityAndBackground.md)
-5. [Chapter 5: Equipment](Part1CreatingACharacter/Ch5Equipment.md)
-6. [Chapter 6: Customization Options](Part1CreatingACharacter/Ch6CustomizationOptions.md)
+1. [Розділ 1: Поетапне Створення Персонажа](Part1CreatingACharacter/Ch1StepByStepCharacters.md)
+2. [Розділ 2: Раси](Part1CreatingACharacter/Ch2Races.md)
+3. [Розділ 3: Класи](Part1CreatingACharacter/Ch3Classes.md)
+4. [Розділ 4: Особистість та передісторія](Part1CreatingACharacter/Ch4PersonalityAndBackground.md)
+5. [Розділ 5: Спорядження](Part1CreatingACharacter/Ch5Equipment.md)
+6. [Розділ 6: Індивідуальні опції](Part1CreatingACharacter/Ch6CustomizationOptions.md)
 
 ***
 
