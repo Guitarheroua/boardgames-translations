@@ -760,105 +760,232 @@ title: Розділ 2 Раси
 видимості, створеній листям, сильним дощем, снігопадом,
 туманом або іншим природним явищем.
 
-## Halfling
+## Напіврослик
 
-> Regis the halfling, the only one of his kind for hundreds of miles in any direction, locked his fingers behind his head and leaned back against the mossy blanket of the tree trunk. Regis was short, even by the standards of his diminutive race, with the fluff of his curly brown locks barely cresting the three-foot mark, but his belly was amply thickened by his love of a good meal, or several, as the opportunities presented themselves. The crooked stick that served as his fishing pole rose up above him, clenched between two of his toes, and hung out over the quiet lake, mirrored perfectly in the glassy surface of Maer Dualdon.
+> Реджис, єдиний напіврослик в межах сотні миль, зчепив до-
+лоні за головою і відкинувся на густо зарослий мохом стовбур
+дерева. Реджис був надзвичайно малим на зріст, навіть за
+мірками власного мініатюрного народу. Верхні кінчики його
+волосся стирчали навсебіч буйної гриви, проте живіт Реджи-
+са ясно свідчив про те, що його власник любить з’їсти хороший
+обід, а то й декілька обідів, залежно від обставин. Довга крива
+палиця, що служила Реджису вудилищем, піднялась догори,
+трохи здригнулася, прилаштувалася зручніше між волоха-
+тими пальцями напіврослика і повисла над спокійними во-
+дами, бездоганно відбиваючись у дзеркальній поверхні озера.
 >  
-> -R.A. Salvatore, The Crystal Shard
+> -Р. А. Сальваторе, Магічний кристал
 
-The comforts of home are the goals of most halflings’ lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. Though some halflings live out their days in remote agricultural communities, others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. But even these wanderers love peace, food, hearth, and home, though home might be a wagon jostling along an dirt road or a raft floating downriver.
+Мрією більшості напівросликів є домашній затишок —
+місце, де можна оселитися в спокої та тиші, подалі від ма-
+родерства чудовиськ і войовничих армій. Вогонь каміну,
+ситна їжа, добра випивка і дружня розмова. Хоча деякі
+напіврослики проживають свій вік у віддалених сільських
+громадах, інші збиваються в кочові табори, адже їх ваблять
+відкриті дороги, широкі обрії та можливість відкривати
+чудеса нових місць. Але навіть такі кочовики люблять спо-
+кій, смачну їжу, своє вогнище і свій будинок, навіть якщо це
+усього-на-всього візок, що трясеться по болотяній дорозі,
+або човник, що пливе за течією річки.
 
-### Small and Practical
+### Маленькі І Практичні
 
-The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries in the shadow of empires and on the edges of wars and political strife. They are inclined to be stout, weighing between 40 and 45 pounds.
+Крихітні напіврослики виживають у світі, сповненому
+більших істот, намагаючись уникати уваги, а якщо це стає
+неможливим — усе одно тримаються подалі від сутичок.
+Маючи зріст близько 90 сантиметрів, по них не скажеш,
+що вони здатні заподіяти шкоди, і саме завдяки цьому вони
+успішно існують століттями, залишаючись в тіні імперій,
+воєн і політичної боротьби. Вони схильні до повноти, і ва-
+жать, в середньому, від 18 до 20 кілограм.
 
-Halflings’ skin ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and mustaches even more so. They like to wear simple, comfortable, and practical clothes, favoring bright colors.
+Шкіра у напівросликів зустрічається від смаглявої до
+блідої, з рум’янцем. Їхнє кучеряве волосся зазвичай корич-
+невого або рудого кольору. Очі напіврослика карі або горі-
+хові. Чоловіки часто відпускають довгі бакенбарди, проте
+бороди носять рідко, а вуса ще рідше. Вони люблять носити
+простий, зручний одяг, надаючи перевагу яскравим кольорам.
 
-Halfling practicality extends beyond their clothing. They’re concerned with basic needs and simple pleasures and have little use for ostentation. Even the wealthiest of halflings keep their treasures locked in a cellar rather than on display for all to see. They have a knack for finding the most straightforward solution to a problem, and have little patience for dithering.
+Простота напівросликів поширюється не тільки на їхній
+одяг. Вони насолоджуються задоволенням побутових по-
+треб і простих радощів, приділяючи зовсім мало уваги роз-
+коші. Навіть найбагатші з них вважають за краще зберігати
+своє добро в закритих скринях і підвалах, а не виставляти
+його на загальний огляд. Напіврослики вміють знаходити
+прості рішення своїх проблем і завжди дуже нетерплячі.
 
-### Kind and Curious
+### Добрі Та Допитливі
 
-Halflings are an affable and cheerful people. They cherish the bonds of family and friendship as well as the comforts of hearth and home, harboring few dreams of gold or glory. Even adventurers among them usually venture into the world for reasons of community, friendship, wanderlust, or curiosity. They love discovering new things, even simple things, such as an exotic food or an unfamiliar style of clothing.
+Напіврослики — привітний і товариський народ. Вони
+цінують дружбу і родинні зв’язки так само, як власний бу-
+динок і камін, і лише в секреті можуть мріяти про золото
+і славу. Навіть ті з них, хто вирушає в пригоди, зазвичай
+обирають цей шлях, керуючись дружбою або суспільним
+благоустроєм, тягою до змін або цікавістю. Вони люблять
+відкривати для себе щось нове, навіть якщо це зовсім прості
+речі, на зразок екзотичної їжі або незнайомого стилю одягу.
 
-Halflings are easily moved to pity and hate to see any living thing suffer. They are generous, happily sharing what they have even in lean times.
+Напіврослики легко піддаються жалю і не переносять ви-
+гляду чужих страждань. Вони щедрі та з радістю діляться
+тим, що мають, навіть у важкі часи.
 
-### Blend into the Crowd
+### Єдині З Натовпом
 
-Halflings are adept at fitting into a community of humans, dwarves, or elves, making themselves valuable and welcome. The combination of their inherent stealth and their unassuming nature helps halflings to avoid unwanted attention.
+Напіврослики легко вливаються в общини людей, двергів
+або ельфів, де їх цінують та завжди їм раді. Поєднання врод-
+женої скритності та скромності дозволяє їм легко уникати
+зайвої уваги.
 
-Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
+Напіврослики охоче співпрацюють з іншими, і вони вірні
+своїм друзям, незалежно від їхньої раси. Вони здатні про-
+являти дивовижну відвагу, коли їхнім родичам, друзям або
+спільнотам загрожує небезпека.
 
-### Pastoral Pleasantries
+### Пасторальні Блага
 
-Most halflings live in small, peaceful communities with large farms and well-kept groves. They rarely build kingdoms of their own or even hold much land beyond their quiet shires. They typically don’t recognize any sort of halfling nobility or royalty, instead looking to family elders to guide them. Families preserve their traditional ways despite the rise and fall of empires.
+Більшість напівросликів живе в маленьких, мирних гро-
+мадах з великими фермами серед доглянутих долин. Вони
+рідко створюють власні королівства, і не тримають земель
+за межами своїх тихих володінь. Зазвичай вони не визна-
+ють у своїх общинах знаті або королівської влади, натомість
+прислухаючись до сімейних старійшин. Сім’ї напівросликів
+зберігають свій традиційний уклад, незважаючи на підйоми
+і падіння імперій.
 
-Many halflings live among other races, where the halflings’ hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving wagons or guiding boats from place to place and maintaining no permanent home.
+Велика кількість напівросликів живе серед інших рас, де
+старанна робота і надійні перспективи приносять їм хоро-
+ший прибуток. Деякі громади напівросликів ведуть кочо-
+вий спосіб життя, подорожуючи на візках або плаваючи на
+човнах від одного місця до іншого.
 
-### Exploring Opportunities
+### Пошук Можливостей
 
-Halflings usually set out on the adventurer’s path to defend their communities, support their friends, or explore a wide and wonder-filled world. For them, adventuring is less a career than an opportunity or sometimes a necessity.
+Напіврослики зазвичай стають на шлях шукача пригод, аби
+захистити свої громади чи підтримати своїх друзів, а також
+дослідити величезний, наповнений дивами, світ. Для них
+авантюризм це не стільки кар’єра, скільки просто можли-
+вість, а іноді і необхідність.
 
-### Halfling Names
+### Імена Напівросликів
 
-A halfling has a given name, a family name, and possibly a nickname. Family names are often nicknames that stuck so tenaciously they have been passed down through the generations.
+Напіврослику дається ім’я, прізвище, та, іноді, прізвисько.
+Прізвища часто є прізвиськами, які приклеїлись так силь-
+но, що стали передаватись з покоління у покоління.
 
-**Male Names:** Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
+**Чоловічі імена:** Альтон, Андер, Гаррет, Елдон, Ерріх, Кейд,
+Коррін, Лайл, Ліндал, Майло, Меррік, Осборн, Перрін,
+Рід, Роско, Уеллбі, Фіннан
 
-**Female Names:** Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
+**Жіночі імена:** Брі, Вані, Верна, Джилліан, Ендрю, Кітрі,
+Кора, Келлі, Лавінія, Лідда, Мерла, Недда, Паелія, Пор-
+тія, Серафіна, Трім, Шаена, Юфемія
 
-**Family Names:** Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
+**Прізвища:** Вверхногастик, Високогорб, Галькокид, Добро-
+бочка, Зеленофляг, Кущозбір, Лугодуг, Підгілкін, Реп’ях,
+Чайнолист
 
-### Halfling Traits
+### Расові Особливості Напівросликів
 
-Your halfling character has a number of traits in common with all other halflings.
+Твій персонаж-напіврослик володіє наступними здібностями.
 
-**Ability Score Increase.** Your Dexterity score increases by 2.
+**Підвищення характеристики.** Показник твоєї Вправ-
+ності збільшується на 2.
 
-**Age.** A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+**Вік.** Напіврослики досягають зрілості в 20 років, і зазви-
+чай живуть до середини свого другого століття.
 
-**Alignment.** Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
+**Світогляд.** Більшість напівросликів законно-добрі. Як
+правило, вони добросердечні та люб’язні, не виносять чу-
+жого болю і не стерплять приниження. Також вони вірять
+у порядок та традиції, сильно покладаються на суспільство і
+віддають перевагу надійнішому шляху.
 
-**Size.** Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+**Розмір.** Напіврослики мають середній зріст 90 сантиме-
+трів і важать близько 18 кілограм. Твій розмір — Малень-
+кий.
 
-**Speed.** Your base walking speed is 25 feet.
+**Швидкість.** Твоя базова швидкість ходьби становить 5
+метрів.
 
-**Lucky.** When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+**Везучий.** Якщо на к20 при кидку атаки, кидку рятунку
+або перевірці характеристики у тебе випадає «1», ти можеш
+перекинути кубик і мусиш використовувати новий резуль-
+тат.
 
-**Brave.** You have advantage on saving throws against being frightened.
+**Хоробрий.** Ти робиш з перевагою кидки рятунку проти
+переляку.
 
-**Halfling Nimbleness.** You can move through the space of any creature that is of a size larger than yours.
+**Моторність напіврослика.** Ти можеш вільно пересува-
+тись через простір істот, більших від тебе за розміром.
 
-**Languages.** You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
+**Мови.** Ти можеш говорити, читати і писати на загальній
+та мові напівросликів. Мова напівросликів не є таємною,
+проте вони не поспішають ділитися нею з іншими. Пишуть
+вони мало, тож не можуть похвалитись об’ємами власної лі-
+тератури, але усні перекази у них дуже поширені. Майже всі
+напіврослики знають загальну мову, якою часто спілкують-
+ся з людьми в землях, через які ті подорожують.
 
-**Subrace.** The two main kinds of halfling, lightfoot and stout, are more like closely related families than true subraces. Choose one of these subraces.
+**Підвиди.** Два основних підвиди напівросликів, кремезні
+та легконогі, скоріше є двома великими родами, аніж істин-
+ними підвидами. Вибери один з них.
 
-#### Lightfoot
+#### Легконогий Напіврослик
 
-As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus are the most common variety.
+Легконогі напіврослики вміють відмінно ховатися і часто
+використовують інших істот в якості укриття. Вони при-
+вітні і добре ладнають з іншими. У світі Забутих Королівств
+легконогі є найпоширенішою расою напівросликів. Вони
+схильні до зміни локації, часто селяться по сусідству з ін-
+шими народами, або ведуть кочове життя. У світі Сірого
+Яструба таких напівросликів називають «мохноногими»
+або «високоросликами».
 
-Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life. In the world of Greyhawk, these halflings are called hairfeet or tallfellows.
+**Підвищення характеристики.** Показник твоєї Хариз-
+ми збільшується на 1.
 
-**Ability Score Increase.** Your Charisma score increases by 1.
+**Вроджена скритність.** Ти можеш спробувати схова-
+тись, якщо ти усього на-всього закритий істотою, більшою
+від тебе мінімум на одну категорію розміру.
 
-**Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+#### Кремезний Напіврослик
 
-#### Stout
+Кремезні напіврослики є витривалішими за інших, і воло-
+діють певною стійкістю до отрут. Подейкують, що в їхніх
+жилах тече кров двергів. У світі Забутих Королівств таких
+напівросликів звуть «сильними серцем», а найчастіше їх
+можна зустріти у південних краях.
 
-As a stout halfling, you’re hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they’re most common in the south.
+**Підвищення характеристики.** Показник твоєї Стату-
+ри збільшується на 1.
 
-**Ability Score Increase.** Your Constitution score increases by 1.
+**Стійкість кремезних.** Ти робиш з перевагою кидки ря-
+тунку проти отрути, а також маєш опір до ушкоджень от-
+рутою.
 
-**Stout Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.
-
-> **Affable and Positive**
+> **Привітні Та Позитивні**
 >  
-> Halflings try to get along with everyone else and are loath to make sweeping generalizations - especially negative ones.
+> Напіврослики намагаються порозумітися з усіма та не
+схильні виносити поспішні судження — особливо негативно-
+го характеру.
 >  
-> **Dwarves.** “Dwarves make loyal friends, and you can count on them to keep their word. But would it hurt them to smile once in a while?”
+> **Про двергів.** «Дверги — вірні друзі, і ви можете розрахо-
+вувати на те, що вони завжди стримають своє слово. Але їм
+би не завадило хоча б іноді посміхатися».
 >  
-> **Elves.** “They’re so beautiful! Their faces, their music, their grace and all. It’s like they stepped out of a wonderful dream. But there’s no telling what’s going on behind their smiling faces - surely more than they ever let on.”
+> **Про ельфів.** «Вони такі прекрасні! Їхні обличчя, їхня му-
+зика, грація і все інше! Вони ніби з’явилися з чудесного
+сну. Але ніхто не зможе точно сказати, що відбувається за
+їх усміхненими обличчями — напевно більше, ніж вони нам
+показують».
 >  
-> **Humans.** “Humans are a lot like us, really. At least some of them are. Step out of the castles and keeps, go talk to the farmers and herders and you’ll find good, solid folk. Not that there’s anything wrong with the barons and soldiers - you have to admire their conviction. And by protecting their own lands, they protect us as well.”
+> **Про людей.** «Люди, насправді, багато в чому схожі на
+нас. По крайній мірі, деякі з них. Відійдіть від замків і цита-
+делей, поговоріть з фермерами та скотарями, і ви побачите
+хороший, надійний народ. Не те, щоб барони чи солдати
+були поганими людьми — неможливо ними не захоплюва-
+тись. Адже захищаючи свої землі, вони також захищають і
+нас».
 
 ## Human
 
