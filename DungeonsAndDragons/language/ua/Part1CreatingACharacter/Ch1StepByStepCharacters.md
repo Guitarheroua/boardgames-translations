@@ -9,7 +9,7 @@ title: Розділ 1 Поетапне Створення Персонажа
 
 ***
 
-[◄ Попередня](../Part1CreatingACharacter.md) | [🚪 Головна 🚪](../IndexPage.md) | [Наступна ►](Part1CreatingACharacter/Ch2Races.md)
+[◄ Попередня](../Part1CreatingACharacter.md) | [🚪 Головна 🚪](../IndexPage.md) | [Наступна ►](Ch2Races.md)
 
 ***
 
@@ -345,7 +345,7 @@ title: Розділ 1 Поетапне Створення Персонажа
 
 ***
 
-[◄ Попередня](../Part1CreatingACharacter.md) | [🚪 Головна 🚪](../IndexPage.md) | [Наступна ►](Part1CreatingACharacter/Ch2Races.md)
+[◄ Попередня](../Part1CreatingACharacter.md) | [🚪 Головна 🚪](../IndexPage.md) | [Наступна ►](Ch2Races.md)
 
 <!--Image links ref-->
 

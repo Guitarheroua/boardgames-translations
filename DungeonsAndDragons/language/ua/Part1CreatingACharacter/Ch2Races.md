@@ -9,7 +9,7 @@ title: Розділ 2 Раси
 
 ***
 
-[◄ Попередня](Ch1StepByStepCharacters.md) | [🚪 Main 🚪](../IndexPage.md) | [Наступна ►](Ch3Classes.md)
+[◄ Попередня](Ch1StepByStepCharacters.md) | [🚪 Головна 🚪](../IndexPage.md) | [Наступна ►](Ch3Classes.md)
 
 ***
 
@@ -562,7 +562,7 @@ Chondathans are slender, tawny-skinned folk with brown hair that ranges from alm
 
 ***
 
-[◄ Попередня](Ch1StepByStepCharacters.md) | [🚪 Main 🚪](../IndexPage.md) | [Наступна ►](Ch3Classes.md)
+[◄ Попередня](Ch1StepByStepCharacters.md) | [🚪 Головна 🚪](../IndexPage.md) | [Наступна ►](Ch3Classes.md)
 
 <!--Image links ref-->
 [p1_c2_1]: ../../../resources/img/p1_c2_1.jpg
