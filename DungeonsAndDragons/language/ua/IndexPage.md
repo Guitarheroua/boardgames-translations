@@ -18,7 +18,7 @@ title: D&D Базові правила
 5. [Частина 4: Dungeon Masters Tools](Part4DungeonMastersTools.md)
 6. [Додатки](Appendices.md)
 
-<span>**Прогрес перекладу:** <progress value="30" max="180"/></progress> **17%** </span>
+<span>**Прогрес перекладу:** <progress value="30" max="180"></progress> **17%** </span>
 
 ***
 
