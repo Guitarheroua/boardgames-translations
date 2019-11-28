@@ -18,6 +18,8 @@ title: D&D Базові правила
 5. [Частина 4: Dungeon Masters Tools](Part4DungeonMastersTools.md)
 6. [Додатки](Appendices.md)
 
+<span>**Прогрес перекладу:** <progress value="30" max="180"/></progress> **17%** </span>
+
 ***
 
 ## D&D Basic Rules, Version 1.0, Released November 2018
