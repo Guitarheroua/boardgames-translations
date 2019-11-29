@@ -5,7 +5,7 @@ title: Розділ 1 Поетапне Створення Персонажа
 
 # Розділ 1: Поетапне Створення Персонажа
 
-[Переглянути цю сторінку англійською](../../en/Part1CreatingACharacter/Ch1StepByStepCharacters.md)
+[Переглянути сторінку англійською](../../en/Part1CreatingACharacter/Ch1StepByStepCharacters.md)
 
 ***
 

@@ -3,7 +3,7 @@ permalink: /ua/d-and-d-basic-rules-main-page/
 title: D&D Базові правила
 ---
 
-[Переглянути цю сторінку англійською](../en/IndexPage.md) | [Повернутись на Початкову сторінку](../../../index.md)
+[Переглянути сторінку англійською](../en/IndexPage.md) | [Повернутись на Початкову сторінку](../../../index.md)
 
 ***
 
@@ -18,7 +18,7 @@ title: D&D Базові правила
 5. [Частина 4: Dungeon Masters Tools](Part4DungeonMastersTools.md)
 6. [Додатки](Appendices.md)
 
-<span>**Прогрес перекладу:** <progress value="30" max="180"></progress> **17%** </span>
+<span>**Прогрес перекладу:** <progress value="34" max="180"></progress> **19%** </span>
 
 ***
 

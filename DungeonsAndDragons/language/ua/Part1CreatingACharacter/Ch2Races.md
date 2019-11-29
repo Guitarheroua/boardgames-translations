@@ -5,7 +5,7 @@ title: Розділ 2 Раси
 
 # Розділ 2: Раси
 
-[Переглянути цю сторінку англійською](../../en/Part1CreatingACharacter/Ch2Races.md)
+[Переглянути сторінку англійською](../../en/Part1CreatingACharacter/Ch2Races.md)
 
 ***
 
