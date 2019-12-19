@@ -65,4 +65,3 @@ But the mysterious source which the Phoenixborn drew upon was not done with them
 9. Здібність
 10. Необмежений ефект
 11. Ліміт виклику
-
