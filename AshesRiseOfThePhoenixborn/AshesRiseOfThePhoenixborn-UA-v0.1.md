@@ -1,6 +1,6 @@
 # Ashes: Відродження Пломенекровних
 
-The Red Rains swept over the world of Argaia, poisoning the creatures that dwelt there, and from these rains the chimera were born. Some say the chimera were a curse upon humanity for their crimes against the children of dragons, but whatever the reason for their birth, the chimera visited destruction upon the world, and civilization shuddered. These monstrous foes slaughtered armies, devoured townships, and despoiled the ground and seas. Humans withdrew to the largest of cities, and these they fortified against the horrors of the world outside.
+Червоні дощі прокотились Арґаєю, отруюючи створінь що населяли світ. Під цим дощем у світі народилась химера. Кажуть, що химера стала прокляттям людства за злодіяння проти дітей драконів. Але якою б не була справжня причина її народження, химера сколихнула цивілізацію, перетворюючи світ на руїни. Цей страхітлививй ворог винищував армії, трощив селеща і псував землі та моря. Люди втікали до великих міст, де відгороджувались від жахів, що коїлись у світі.
 
 Ages passed and humanity's future looked bleak. But then a new power arose to confront the chimera. They were called the Phoenixborn - humans capable of wielding magics not previously thought possible, and together they initiated the Great Cleansing, and eradicated the chimera menace. The great cities finally reopened, trade flourished, and the Phoenixborn ushered humanity into a new golden age.
 
