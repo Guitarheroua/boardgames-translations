@@ -126,7 +126,7 @@ Battlefield Value: The number of units a Phoenixborn can have on its battlefield
 
 Blocker: An unexhausted unit that has been declared to be blocking 1 attacking unit.
 
-**Скасувати:** ефект який перериває виконання закляття, вміння або властивості кістки. Коли закляття, вміння або властивість кістки скасовано, гравець все ще повнен сплатити їх вартість, але не може застосувати їх ефект.
+**Скасувати:** ефект який перериває виконання закляття, здібності або властивості кістки. Коли закляття, здібність або властивість кістки скасовано, гравець все ще повнен сплатити їх вартість, але не може застосувати їх ефект.
 
 Cancel: An effect that prevents another spell, ability, or
 dice power from resolving. When a spell, ability, or die
@@ -192,7 +192,7 @@ placed in the discard pile face up.
 Draw Pile: The pile of cards that you draw from during
 the game.
 
-**Ефект:** правила, як закляття або вміння взаємодіють з грою.
+**Ефект:** правила, що пояснюють як закляття або здібності взаємодіють з грою.
 
 Effect: Rules for how a spell or ability interacts with the
 game.
@@ -208,7 +208,7 @@ Exhaust (when referring to a die): The process of
 placing a die in your exhausted pool because of the
 result of a card effect or paying a cost.
 
-**Виснажена (карта):** карта на яку викладено жетон виснаження. Виснажена карта не може активувати вміння, а також атакувати і блокувати.
+**Виснажена (карта):** карта на яку викладено жетон виснаження. Виснажена карта не може активувати здібність, а також атакувати і блокувати.
 
 Exhausted (when referring to a card): A card that has
 an exhaustion token on it is exhausted. Cards that are
