@@ -19,10 +19,10 @@ But the mysterious source which the Phoenixborn drew upon was not done with them
 * 26 – жетони ран
 * 30 – жетони виснаження
 * 21 – жетони стану
-* 10 – кістки зачарування
-* 10 – кістки ритуалу
-* 10 – кістки омани
-* 10 – кістки природи
+* 10 – кубики зачарування
+* 10 – кубики ритуалу
+* 10 – кубики омани
+* 10 – кубики природи
 * 1 – жетон першого гравця
 * 1 – правила гри
 
@@ -80,11 +80,11 @@ Action Spell: A type of spell card that is played for a 1 time effect.
 
 Activation Cost: The cost that needs to be paid to activate a spell or ability (cause its effect to happen).
 
-**Резерв активних кісток(або активний резерв):** місце де ви розміщуєте кістки на початку кожного раунду.
+**Резерв активних кубиків(або активний резерв):** місце де ви розміщуєте кубики на початку кожного раунду.
 
 Active Dice Pool (aka Active Pool): The place where you place your dice at the beginning of each round.
 
-**Активна кістка:** кістка яка знаходиться у активний резерві і може бути витрачена щоб сплатити відповідну вартість.
+**Активний кубик:** кубик який знаходиться у активний резерві і може бути витрачений щоб сплатити відповідну вартість.
 
 Active Dice: Dice that are currently in your active pool and can be spent to pay a matching magic cost.
 
@@ -126,7 +126,7 @@ Battlefield Value: The number of units a Phoenixborn can have on its battlefield
 
 Blocker: An unexhausted unit that has been declared to be blocking 1 attacking unit.
 
-**Скасувати:** ефект який перериває виконання закляття, здібності або властивості кістки. Коли закляття, здібність або властивість кістки скасовано, гравець все ще повнен сплатити їх вартість, але не може застосувати їх ефект.
+**Скасувати:** ефект який перериває виконання закляття, здібності або властивість кубика. Коли закляття, здібність або властивість кубика скасовано, гравець все ще повнен сплатити їх вартість, але не може застосувати їх ефект.
 
 Cancel: An effect that prevents another spell, ability, or
 dice power from resolving. When a spell, ability, or die
@@ -175,7 +175,7 @@ has been declared the target of an ‘Attack a Unit’ or
 Dice Pool: A collection of 10 dice that is a part of a
 player’s deck.
 
-**Властивість кістки:** кожен тип кістки має особливу властивість, яку можна активувати витративши другорядну дію і кістку з символом властивості.
+**Властивість кубика:** кожен тип кубика має особливу властивість, яку можна активувати витративши другорядну дію і кубик з символом властивості.
 
 Dice Power: Each dice type has a unique ability that can
 be performed by spending a side action and a die of
@@ -202,7 +202,7 @@ game.
 Exhaust (when referring to a card): The process of
 placing an exhaustion token on a card.
 
-**Використанння (кістка):** процес переміщення кістки в ваш використаний резерв внаслідок ефекту карти або сплати вартості.
+**Використанння (кубик):** процес переміщення кубика в ваш використаний резерв внаслідок ефекту карти або сплати вартості.
 
 Exhaust (when referring to a die): The process of
 placing a die in your exhausted pool because of the
@@ -215,19 +215,19 @@ an exhaustion token on it is exhausted. Cards that are
 exhausted have no ability text and cannot attack or
 block.
 
-**Використана (кістка):** кістка яка знаходиться в вашому використаному резерві.
+**Використаний (кубик):** кубик який знаходиться в вашому використаному резерві.
 
 Exhausted (when referring to a die): A die that is
 currently in your exhausted dice pool is considered
 exhausted.
 
-**Резерв використаних кісток (використаний резерв):** місце де ви розміщуєте кістки використані для сплати вартості.
+**Резерв використаних кубиків (використаний резерв):** місце де ви розміщуєте кубики використані для сплати вартості.
 
 Exhausted Dice Pool (aka Exhausted Pool): The place
 where you place your dice when they are spent to pay a
 magic cost.
 
-**Використана кістка:** кістка яка знаходиться в вашому використаному резерві і не може бути витрачена для сплати вартості.
+**Використаний кубик:** кубик який знаходиться в вашому використаному резерві і не може бути витрачений для сплати вартості.
 
 Exhausted Dice: Dice that are currently in your
 exhausted dice pool and cannot be spent to pay a
@@ -328,7 +328,7 @@ a Phoenixborn can have on their spellboard.
 Stats: The values displayed on Phoenixborn and unit
 cards.
 
-**Ціль:** термін який визначає що ефект закляття, здібність або властивість кістки напряму впливає на щось, наприклад видозміну, бійця, гравця, пломенекровного тощо.
+**Ціль:** термін який визначає що ефект закляття, здібність або властивість кубика напряму впливає на щось, наприклад видозміну, бійця, гравця, пломенекровного тощо.
 
 Target: A term that is used to identify that the effect
 of a spell, ability or die power is directly affecting
