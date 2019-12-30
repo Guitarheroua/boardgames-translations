@@ -6,25 +6,47 @@ Aradel Summergaard, Phoenixborn of Evermist Valley
 
 ![aradel_b.jpg](https://www.plaidhatgames.com/images/u/PHG_Website_Article_Aradel_Scene.jpg)
 
+«Вони прийшли за тобою.»
+
 They have come for you.
+
+Арадел йшла, ігноруючи голос. Її сніжно-біла шкіра сяяла у сонячному світлі, а навколо пурхали дивні прекрасні комахи і рідкісні феї.
 
 Aradel ignored the voice and kept walking. Her mist-kissed skin shimmered in the sunlight, and all around flitted strangely beautiful insects and the occasional fay.
 
+«Вони досі полюють на тебе. Ти прирекла цю землю на знищення.»
+
 Even now they hunt you. You have laid a doom upon this land.
+
+Прибувши на батькову могилу, вона похитала головою. Вона мала б знати, що це завжди було її призначенням. На надгробку вона побачила його благаючі блакитні очі.
 
 When she arrived at her father's grave, she shook her head. She should have known this was her destination all along. And she saw him there by the gravestone, his deep blue eyes pleading with her.
 
+«Я загинув за цю землю і за її народ. Чи yt була моя жертва марною?»
+
 I died for this land. For its people. Would you strip all meaning from my sacrifice?
+
+«Я боротимусь за них!» сказала вона голосно, порушуючи навколишній спокій. «Як завжди мусила, як ти мене вчив.»
 
 “I will fight for them!” she said too loudly, her voice breaking the serenity. “Like I always have. Like you taught me.”
 
+«Якщо ти залишишся - народ Вічномлистої долини загине. Всі чесні чоловіки, що працювали заради блага своїх сімей. Усі добрі жінки, що трудились, не знаючи втоми. Всі милі діточки, чиї мрії ще не стали реальністю.»
+
 If you stay here, the people of the Evermist will die. Each honest man who labors for his family. Every good woman who toils with her hands. All the sweet babes whose dreams have yet to take shape.
+
+«Я не можу піти» - благала вона. «Моє серце тут. Чи накажеш вирвати його з моїх грудей? Нехай приходять й інші, я битимусь і переможу.»
 
 "But I cannot leave,” she pleaded. “My heart is here. Would you have me tear it from my breast? Let the others come to me. I shall fight them, and I shall win.”
 
+«Битимешся? Так. Переможеш? Можливо. Але дерева охопить полум'я, а туман наповниться попелом і пилом. Єдина винагорода, на яку ти можеш розраховувати, залишившись тут - це свіжі могили на кладовищі.»
+
 Fight them? Yes. Win? Perhaps. But you will lose trees to flame, and the mists will be trapped by dust and ash. The digging of graves is the only prize you can hope to win by staying in this place.
 
+Тумани засвітилися синім сяйвом, і з них постав дух. Він ліниво котився по повітрю, щось воркочучи на своїй дивній мові. Арадел усміхнулась, коли він пролітав повз, і простягнула  палець щоб торкнутись. Дух туману обернувся і поглянув на неї сумними мудрими очима.
+
 The mists glowed blue, and from out of them emerged a spirit. It rolled lazily through the air, cooing in the strange tongue of its kind. Aradel smiled as it floated by her, and she held out a finger for it to touch. The mist spirit turned and looked at her, its eyes sad and knowing.
+
+«Якщо я залишу це місце» - прошепотіла вона, «то коли зможу повернутись?». Дух проворкував у відповідь і Арадел заплакала.
 
 “If I leave this place,” she whispered to it, “how long will it be before I can return?” And when Aradel heard the spirit coo the answer, she wept.
 
