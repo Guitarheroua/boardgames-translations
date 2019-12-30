@@ -46,7 +46,7 @@ Fight them? Yes. Win? Perhaps. But you will lose trees to flame, and the mists w
 
 The mists glowed blue, and from out of them emerged a spirit. It rolled lazily through the air, cooing in the strange tongue of its kind. Aradel smiled as it floated by her, and she held out a finger for it to touch. The mist spirit turned and looked at her, its eyes sad and knowing.
 
-«Якщо я залишу це місце» - прошепотіла вона, «то коли зможу повернутись?». Дух проворкував щось у відповідь і Арадел заплакала.
+«Якщо я піду» - прошепотіла вона, «то коли зможу повернутись?». Дух проворкував щось у відповідь і Арадел заплакала.
 
 “If I leave this place,” she whispered to it, “how long will it be before I can return?” And when Aradel heard the spirit coo the answer, she wept.
 
