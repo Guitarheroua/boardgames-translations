@@ -22,7 +22,7 @@ Even now they hunt you. You have laid a doom upon this land.
 
 When she arrived at her father's grave, she shook her head. She should have known this was her destination all along. And she saw him there by the gravestone, his deep blue eyes pleading with her.
 
-«Я загинув за цю землю і за її народ. Чи yt була моя жертва марною?»
+«Я загинув за цю землю і за її народ. Чи не була моя жертва марною?»
 
 I died for this land. For its people. Would you strip all meaning from my sacrifice?
 
