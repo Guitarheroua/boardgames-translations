@@ -76,8 +76,8 @@ But the mysterious source which the Phoenixborn drew upon was not done with them
 
 У Ashes є різні типи кубиків (4 типи в цьому наборі). Кожен тип має три різні символи, що зображені в таблиці нижче:
 
-|                    |                        Символ сили                        |                       Символ класу                        |                      Базовий символ                       |
-| :----------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+|                   |                        Символ сили                        |                       Символ класу                        |                      Базовий символ                       |
+| :---------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 |   Кубик природи   |  ![natural-power.png](resources/dices/natural-power.png)  |  ![natural-class.png](resources/dices/natural-class.png)  |  ![natural-basic.png](resources/dices/natural-basic.png)  |
 | Кубик зачарування |    ![charm-power.png](resources/dices/charm-power.png)    |    ![charm-class.png](resources/dices/charm-class.png)    |    ![charm-basic.png](resources/dices/charm-basic.png)    |
 |   Кубик ритуалу   |   ![ritual-power.png](resources/dices/ritual-power.png)   |   ![ritual-class.png](resources/dices/ritual-class.png)   |   ![ritual-basic.png](resources/dices/ritual-basic.png)   |
@@ -91,21 +91,9 @@ But the mysterious source which the Phoenixborn drew upon was not done with them
 
 ## Жетони
 
-![wound.png](resources/tokens/wound.png)
-
-**Ран**
-
-![exhaustion.png](resources/tokens/exhaustion.png)
-
-**Виснаження**
-
-![status.png](resources/tokens/status.png)
-
-**Стану**
-
-![first-player.png](resources/tokens/first-player.png)
-
-**Першого гравця**
+| ![wound.png](resources/tokens/wound.png) | ![exhaustion.png](resources/tokens/exhaustion.png) | ![status.png](resources/tokens/status.png) | ![first-player.png](resources/tokens/first-player.png) |
+| :--------------------------------------: | :------------------------------------------------: | :----------------------------------------: | :----------------------------------------------------: |
+|                 **Ран**                  |                   **Виснаження**                   |                 **Стану**                  |                   **Першого гравця**                   |
 
 ## Словник термінів
 
