@@ -2,7 +2,13 @@
 
 Червоні дощі прокотились Арґаєю, отруюючи створінь що населяли світ. Під цим дощем у світі народилась химера. Кажуть, що химера стала прокляттям людства за злодіяння проти дітей драконів. Але якою б не була справжня причина її народження, химера сколихнула цивілізацію, перетворюючи світ на руїни. Цей страхітлививй ворог винищував армії, трощив селеща і псував землі та моря. Люди втікали до великих міст, де відгороджувались від жахів, що коїлись у світі.
 
+The Red Rains swept over the world of Argaia, poisoning the creatures that dwelt there, and from these rains the chimera were born. Some say the chimera were a curse upon humanity for their crimes against the children of dragons, but whatever the reason for their birth, the chimera visited destruction upon the world, and civilization shuddered. These monstrous foes slaughtered armies, devoured townships, and despoiled the ground and seas. Humans withdrew to the largest of cities, and these they fortified against the horrors of the world outside.
+
+І коли, за декілька віків майбутнє людства майже згасло, з'явилась нова сила, що здатна була протистояти химері. Їх назвали пломенекровними - людьми, які оволоділи незнаною до того магією. Разом вони влаштували «Велике Очищення» і знищили загрозу химери. Величні міста нарешті знову відкрились, торгівля процвітала, і пломенекровні привели людство до нової золотої доби.
+
 Ages passed and humanity's future looked bleak. But then a new power arose to confront the chimera. They were called the Phoenixborn - humans capable of wielding magics not previously thought possible, and together they initiated the Great Cleansing, and eradicated the chimera menace. The great cities finally reopened, trade flourished, and the Phoenixborn ushered humanity into a new golden age.
+
+Але містичне джерело магічних сил пломенекровних ще не взяло своє. Кожен з чаклунів-воїнів був обдарований лише частинкою справжньої сили і ця сила прагнула до возєднання.
 
 But the mysterious source which the Phoenixborn drew upon was not done with them. Each of these wizard-warriors had been gifted with but a fraction of the true power that blessed them, and that power now desired unification. Slowly but steadily, the Phoenixborn were plagued with a desire to slaughter their own kind, and absorb the abilities of their incinerated kin. Now is the time of the Collection of Ashes, when Phoenixborn must battle Phoenixborn until only one remains to inherit a newborn world.
 
@@ -15,7 +21,7 @@ But the mysterious source which the Phoenixborn drew upon was not done with them
 * 6 – карти пломенекровних
 * 241 – карти бійців/заклять
 * 4 – карти-пам'ятки фаз гри
-* 16 – карти-пам'ятки властивостей кісток
+* 16 – карти-пам'ятки властивостей кубиків
 * 26 – жетони ран
 * 30 – жетони виснаження
 * 21 – жетони стану
@@ -65,6 +71,41 @@ But the mysterious source which the Phoenixborn drew upon was not done with them
 9. Здібність
 10. Необмежений ефект
 11. Ліміт виклику
+
+## Кубики
+
+У Ashes є різні типи кубиків (4 типи в цьому наборі). Кожен тип має три різні символи, що зображені в таблиці нижче:
+
+|                    |                        Символ сили                        |                       Символ класу                        |                      Базовий символ                       |
+| :----------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+|   Кубик природи   |  ![natural-power.png](resources/dices/natural-power.png)  |  ![natural-class.png](resources/dices/natural-class.png)  |  ![natural-basic.png](resources/dices/natural-basic.png)  |
+| Кубик зачарування |    ![charm-power.png](resources/dices/charm-power.png)    |    ![charm-class.png](resources/dices/charm-class.png)    |    ![charm-basic.png](resources/dices/charm-basic.png)    |
+|   Кубик ритуалу   |   ![ritual-power.png](resources/dices/ritual-power.png)   |   ![ritual-class.png](resources/dices/ritual-class.png)   |   ![ritual-basic.png](resources/dices/ritual-basic.png)   |
+|    Кубик омани    | ![illusion-power.png](resources/dices/illusion-power.png) | ![illusion-class.png](resources/dices/illusion-class.png) | ![illusion-basic.png](resources/dices/illusion-basic.png) |
+
+## Карти-пам'ятки властивостей кубиків
+
+![004-ref-cards.png](resources/004-ref-cards.png)
+
+Кубики з символом сили можна використати як другорядну для активації його ефекту. Карти-пам'ятки описують ефект сили усіх типів кубиків.
+
+## Жетони
+
+![wound.png](resources/tokens/wound.png)
+
+**Ран**
+
+![exhaustion.png](resources/tokens/exhaustion.png)
+
+**Виснаження**
+
+![status.png](resources/tokens/status.png)
+
+**Стану**
+
+![first-player.png](resources/tokens/first-player.png)
+
+**Першого гравця**
 
 ## Словник термінів
 
@@ -158,7 +199,7 @@ player’s battlefield or spellboard or is that player’s
 Phoenixborn. A player also controls any card that is
 attached to a card she controls.
 
-**Колода:** кожен з гравців мусить збудувати або обрати готову колоду для гри в Ashes. Колода складається з 1-го пломенекровного, 10-ти кісток і 30-ти карт.
+**Колода:** кожен з гравців мусить збудувати або обрати готову колоду для гри в Ashes. Колода складається з 1-го пломенекровного, 10-ти кубиків і 30-ти карт.
 
 Deck: Each player must build a deck or select a
 pre-built deck to play Ashes. A deck consists of 1
@@ -170,7 +211,7 @@ Defending Player: A player whose Phoenixborn or unit
 has been declared the target of an ‘Attack a Unit’ or
 ‘Attack a Phoenixborn’ action.
 
-**Резерв кісток:** збірка з 10-ти кісток, які є частиною колоди гравця.
+**Резерв кубиків:** збірка з 10-ти кубиків, які є частиною колоди гравця.
 
 Dice Pool: A collection of 10 dice that is a part of a
 player’s deck.
