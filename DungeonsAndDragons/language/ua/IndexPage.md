@@ -20,6 +20,8 @@ title: D&D Базові правила
 
 <span>**Прогрес перекладу:** <progress value="34" max="180"></progress> **19%** </span>
 
+Вдячність за термміни ["Шлякбитраф"](http://sbt.localization.com.ua/sbtdnd/).
+
 ***
 
 ## D&D Basic Rules, Version 1.0, Released November 2018
