@@ -1,24 +1,24 @@
-# Ashes: Відродження Пломенекровних
+# Ashes: Відродження Феніксонародженого
 
 Червоні дощі прокотились Арґаєю, отруюючи створінь що населяли світ. Під цим дощем у світі народилась химера. Кажуть, що химера стала прокляттям людства за злодіяння проти дітей драконів. Але якою б не була справжня причина її народження, химера сколихнула цивілізацію, перетворюючи світ на руїни. Цей страхітлививй ворог винищував армії, трощив селеща і псував землі та моря. Люди втікали до великих міст, де відгороджувались від жахів, що коїлись у світі.
 
-The Red Rains swept over the world of Argaia, poisoning the creatures that dwelt there, and from these rains the chimera were born. Some say the chimera were a curse upon humanity for their crimes against the children of dragons, but whatever the reason for their birth, the chimera visited destruction upon the world, and civilization shuddered. These monstrous foes slaughtered armies, devoured townships, and despoiled the ground and seas. Humans withdrew to the largest of cities, and these they fortified against the horrors of the world outside.
+> The Red Rains swept over the world of Argaia, poisoning the creatures that dwelt there, and from these rains the chimera were born. Some say the chimera were a curse upon humanity for their crimes against the children of dragons, but whatever the reason for their birth, the chimera visited destruction upon the world, and civilization shuddered. These monstrous foes slaughtered armies, devoured townships, and despoiled the ground and seas. Humans withdrew to the largest of cities, and these they fortified against the horrors of the world outside.
 
-І коли, за декілька віків майбутнє людства майже згасло, з'явилась нова сила, що здатна була протистояти химері. Їх назвали пломенекровними - людьми, які оволоділи незнаною до того магією. Разом вони влаштували «Велике Очищення» і знищили загрозу химери. Величні міста нарешті знову відкрились, торгівля процвітала, і пломенекровні привели людство до нової золотої доби.
+І коли, за декілька віків майбутнє людства майже згасло, з'явилась нова сила, що здатна була протистояти химері. Їх назвали феніксонародженими - людьми, які оволоділи незнаною до того магією. Разом вони влаштували «Велике Очищення» і знищили загрозу химери. Величні міста нарешті знову відкрились, торгівля процвітала, і феніксонароджені привели людство до нової золотої доби.
 
-Ages passed and humanity's future looked bleak. But then a new power arose to confront the chimera. They were called the Phoenixborn - humans capable of wielding magics not previously thought possible, and together they initiated the Great Cleansing, and eradicated the chimera menace. The great cities finally reopened, trade flourished, and the Phoenixborn ushered humanity into a new golden age.
+> Ages passed and humanity's future looked bleak. But then a new power arose to confront the chimera. They were called the Phoenixborn - humans capable of wielding magics not previously thought possible, and together they initiated the Great Cleansing, and eradicated the chimera menace. The great cities finally reopened, trade flourished, and the Phoenixborn ushered humanity into a new golden age.
 
-Але містичне джерело магічних сил пломенекровних ще не взяло своє. Кожен з чаклунів-воїнів був обдарований лише частинкою справжньої сили і ця сила прагнула до возєднання.
+Але містичне джерело магічних сил феніксонароджених ще не взяло своє. Кожен з чаклунів-воїнів був обдарований лише частинкою справжньої сили і ця сила прагнула до возєднання.
 
-But the mysterious source which the Phoenixborn drew upon was not done with them. Each of these wizard-warriors had been gifted with but a fraction of the true power that blessed them, and that power now desired unification. Slowly but steadily, the Phoenixborn were plagued with a desire to slaughter their own kind, and absorb the abilities of their incinerated kin. Now is the time of the Collection of Ashes, when Phoenixborn must battle Phoenixborn until only one remains to inherit a newborn world.
+> But the mysterious source which the Phoenixborn drew upon was not done with them. Each of these wizard-warriors had been gifted with but a fraction of the true power that blessed them, and that power now desired unification. Slowly but steadily, the Phoenixborn were plagued with a desire to slaughter their own kind, and absorb the abilities of their incinerated kin. Now is the time of the Collection of Ashes, when Phoenixborn must battle Phoenixborn until only one remains to inherit a newborn world.
 
 ## Мета гри
 
-У Ashes, ви - пломенекровний, повелитель магії, який бореться з іншими пломенекровними в двобої розуму і магічної досконалості. Чаклуйте закляття, викликайте союзників щоб знищити ваших суперників і перемогти.
+У Ashes, ви - феніксонароджений, повелитель магії, який бореться з іншими феніксонародженими в двобої розуму і магічної досконалості. Чаклуйте закляття, викликайте союзників щоб знищити ваших суперників і перемогти.
 
 ## Компоненти в цьому наборі
 
-* 6 – карти пломенекровних
+* 6 – карти феніксонароджених
 * 241 – карти бійців/заклять
 * 4 – карти-пам'ятки фаз гри
 * 16 – карти-пам'ятки властивостей кубиків
@@ -32,7 +32,7 @@ But the mysterious source which the Phoenixborn drew upon was not done with them
 * 1 – жетон першого гравця
 * 1 – правила гри
 
-## Пломенекровний
+## Феніксонароджений
 
 ![001-aradel.png](resources/001-aradel.png)
 
@@ -98,7 +98,7 @@ But the mysterious source which the Phoenixborn drew upon was not done with them
 ## Приготування до гри
 
 1. #TODO
-2. Розмістіть вашого пломенекровного в ігровій зоні характеристикою горілиць.
+2. Розмістіть вашого феніксонародженого в ігровій зоні характеристикою горілиць.
 3. Оберіть першу п'ятірку карт з колоди в руку. Карти в першій п'ятірці не повинні дублюватись.
 4. Розмістіть ваш стос виклику долілиць в ігровій зоні.
 5. Перемішайте решту карт з вашої колоди. Сформуйте з них стос добору і розмістіть його в ігровій зоні долілиць.
@@ -123,7 +123,7 @@ But the mysterious source which the Phoenixborn drew upon was not done with them
 
 As a game of Ashes is played, you will place spells onto your spellboard and units onto your battlefield.  Here is an example of what your play area might look like during a game in progress.
 
-1. Пломенекровний
+1. Феніксонароджений
 2. Стос скиду гравця
 3. Стос добору гравця
 4. Карти-пам'ятки властивостей кубиків
@@ -235,191 +235,191 @@ If you cannot take any other main action, you must choose to pass as your main a
 
 ## Словник термінів
 
-**Здібність:** ефект який мають пломенекровні або бійці у грі. Здібності є постійними або такими, які потрібно активувати.
+**Здібність:** ефект який мають феніксонароджені або бійці у грі. Здібності є постійними або такими, які потрібно активувати.
 
-Ability: An effect that a Phoenixborn or Unit has on the game that in some cases is constant and in other cases needs to be activated.
+> **Ability:** An effect that a Phoenixborn or Unit has on the game that in some cases is constant and in other cases needs to be activated.
 
 **Миттєве закляття:** тип карт заклять які мають одноразовий ефект.
 
-Action Spell: A type of spell card that is played for a 1 time effect.
+> **Action Spell:** A type of spell card that is played for a 1 time effect.
 
 **Вартість активації:** вартість, яку необхідно сплатити щоб активувати закляття або здібність.
 
-Activation Cost: The cost that needs to be paid to activate a spell or ability (cause its effect to happen).
+> **Activation Cost:** The cost that needs to be paid to activate a spell or ability (cause its effect to happen).
 
 **Резерв активних кубиків(або активний резерв):** місце де ви розміщуєте кубики на початку кожного раунду.
 
-Active Dice Pool (aka Active Pool): The place where you place your dice at the beginning of each round.
+> **Active Dice Pool (aka Active Pool):** The place where you place your dice at the beginning of each round.
 
 **Активний кубик:** кубик який знаходиться у активний резерві і може бути витрачений щоб сплатити відповідну вартість.
 
-Active Dice: Dice that are currently in your active pool and can be spent to pay a matching magic cost.
+> **Active Dice:** Dice that are currently in your active pool and can be spent to pay a matching magic cost.
 
 **Союзник:** тип карти бійця.
 
-Ally: A type of unit card.
+> **Ally:** A type of unit card.
 
 **Видозмінююче закляття:** тип карт заклять які можуть бути додані до  бійця на полі бою щоб певним чином його модифікувати.
 
-Alteration Spell: A type of spell card that can be attached to a unit on a player’s battlefield to alter that unit in some way.
+> **Alteration Spell:** A type of spell card that can be attached to a unit on a player’s battlefield to alter that unit in some way.
 
-**Додавання:** процес розміщення видозмінюючого закляття під бійцем і застосування його ефекту і бонусного значення до цього бійця.  
+**Додавання:** процес розміщення видозмінюючого закляття під бійцем і застосування його ефекту і бонусів до значень цього бійця.  
 
-Attach: The process of placing an alteration spell underneath a unit and applying its effects and value bonuses to that unit.
+> **Attach:** The process of placing an alteration spell underneath a unit and applying its effects and value bonuses to that unit.
 
 **Додана карта:** карта, яку було додано до бійця.
 
-Attached Card: A card that has been attached to a unit.
+> **Attached Card:** A card that has been attached to a unit.
 
-**Атакуючий:** невиснажений боєць, якого оголошено атакуючим у основній дії «Напад на пломенекровного» або «Напад на бійця».
+**Атакуючий:** невиснажений боєць, якого оголошено атакуючим у основній дії «Напад на феніксонародженого» або «Напад на бійця».
 
-Attacker: An unexhausted unit that has been declared to be attacking when performing the ‘Attack a Phoenixborn’ or ‘Attack a Unit’ main action.
+> **Attacker:** An unexhausted unit that has been declared to be attacking when performing the ‘Attack a Phoenixborn’ or ‘Attack a Unit’ main action.
 
 **Значення атаки:** кількість шкоди яку завдає боєць під час атаки
 
-Attack Value: The amount of damage that a unit deals
+> **Attack Value:** The amount of damage that a unit deals
 when attacking.
 
 **Поле бою:** частина вашої ігрової зони де ви розміщуєте бійців.
 
-Battlefield: The part of your play area where units are
+> **Battlefield:** The part of your play area where units are
 placed.
 
-**Ліміт поля бою:** кількість бійців, яку прломенекровний може розмістити на полі бою.
+**Ліміт поля бою:** кількість бійців, яку феніксонароджений може розмістити на полі бою.
 
-Battlefield Value: The number of units a Phoenixborn can have on its battlefield.
+> **Battlefield Value:** The number of units a Phoenixborn can have on its battlefield.
 
 **Блокуючий:** невиснажений боєць, якого оголошено блокуючим для 1-го атакуючого бійця.
 
-Blocker: An unexhausted unit that has been declared to be blocking 1 attacking unit.
+> **Blocker:** An unexhausted unit that has been declared to be blocking 1 attacking unit.
 
 **Скасувати:** ефект який перериває виконання закляття, здібності або властивість кубика. Коли закляття, здібність або властивість кубика скасовано, гравець все ще повнен сплатити їх вартість, але не може застосувати їх ефект.
 
-Cancel: An effect that prevents another spell, ability, or
+> **Cancel:** An effect that prevents another spell, ability, or
 dice power from resolving. When a spell, ability, or die
 power is canceled, the costs are still paid by the player
 that used it, but the canceled effects are not resolved.
 
 **Викликаний:** тип карти бійця, які на початку гри знаходяться в стосі виклику і можуть бути зіграні лише активацією ефекту карти.
 
-Conjuration: A type of unit card that starts the game
+> **Conjuration:** A type of unit card that starts the game
 in a conjuration pile and can be brought into play by a
 card effect.
 
 **Ліміт виклику:** Кількість копій карт викликаних бійців, яку можна підмішати в стос виклику.
 
-Conjuration Limit: The number of copies of a
+> **Conjuration Limit:** The number of copies of a
 conjuration unit card you are allowed to put into your
 conjuration pile.
 
-**Стос виклику:** стос карток викликаних бійців яких можна зіграти.
+**Стос виклику:** стос карток викликаних бійців яких можна викликати закляттями з вашої колоди.
 
-Conjuration Pile: A stack of conjuration cards that
+> **Conjuration Pile:** A stack of conjuration cards that
 contains the conjuration units that your deck is capable
 of producing.
 
-**Контролювати:** гравець контролює картку, якщо вона на його полі бою або полі заклять, або це пломенекровний гравця. Гравець також контролює карти які додані до його карт.
+**Контролювати:** гравець контролює картку, якщо вона на його полі бою або полі заклять, або це феніксонароджений гравця. Гравець також контролює карти які додані до його карт.
 
-Control: A card is controlled by a player if it is on a
+> **Control:** A card is controlled by a player if it is on a
 player’s battlefield or spellboard or is that player’s
 Phoenixborn. A player also controls any card that is
 attached to a card she controls.
 
-**Колода:** кожен з гравців мусить збудувати або обрати готову колоду для гри в Ashes. Колода складається з 1-го пломенекровного, 10-ти кубиків і 30-ти карт.
+**Колода:** кожен з гравців мусить збудувати або обрати готову колоду для гри в Ashes. Колода складається з 1-го феніксонародженого, 10-ти кубиків і 30-ти карт.
 
-Deck: Each player must build a deck or select a
+> **Deck:** Each player must build a deck or select a
 pre-built deck to play Ashes. A deck consists of 1
 Phoenixborn, 10 dice and 30 cards.
 
-**Гравець, що захищається:** гравець чий пломенекровний або боєць був оголошений ціллю дії «Напад на пломенекровного» або magic cost.
+**Гравець, що захищається:** гравець чий феніксонароджений або боєць був оголошений ціллю дії «Напад на феніксонародженого» або «Напад на бійця».
 
-Defending Player: A player whose Phoenixborn or unit
+> **Defending Player:** A player whose Phoenixborn or unit
 has been declared the target of an ‘Attack a Unit’ or
 ‘Attack a Phoenixborn’ action.
 
 **Резерв кубиків:** збірка з 10-ти кубиків, які є частиною колоди гравця.
 
-Dice Pool: A collection of 10 dice that is a part of a
+> **Dice Pool:** A collection of 10 dice that is a part of a
 player’s deck.
 
 **Властивість кубика:** кожен тип кубика має особливу властивість, яку можна активувати витративши другорядну дію і кубик з символом властивості.
 
-Dice Power: Each dice type has a unique ability that can
+> **Dice Power:** Each dice type has a unique ability that can
 be performed by spending a side action and a die of
 that type that is power symbol side up.
 
 **Стос скиду:** місце в ігровій зоні де ви розміщуєте скинуті карти. Карти потрібно скидати горілиць.
 
-Discard Pile: The place in the play area where you
+> **Discard Pile:** The place in the play area where you
 place cards that you are instructed to discard. Cards are
 placed in the discard pile face up.
 
 **Стос добору:** стос карт які ви добираєте протягом гри.
 
-Draw Pile: The pile of cards that you draw from during
+> **Draw Pile:** The pile of cards that you draw from during
 the game.
 
 **Ефект:** правила, що пояснюють як закляття або здібності взаємодіють з грою.
 
-Effect: Rules for how a spell or ability interacts with the
+> **Effect:** Rules for how a spell or ability interacts with the
 game.
 
 **Виснаження (карта):** процес викладання жетону виснаження на карту.
 
-Exhaust (when referring to a card): The process of
+> **Exhaust (when referring to a card):** The process of
 placing an exhaustion token on a card.
 
 **Використанння (кубик):** процес переміщення кубика в ваш використаний резерв внаслідок ефекту карти або сплати вартості.
 
-Exhaust (when referring to a die): The process of
+> **Exhaust (when referring to a die):** The process of
 placing a die in your exhausted pool because of the
 result of a card effect or paying a cost.
 
 **Виснажена (карта):** карта на яку викладено жетон виснаження. Виснажена карта не може активувати здібність, а також атакувати і блокувати.
 
-Exhausted (when referring to a card): A card that has
+> **Exhausted (when referring to a card):** A card that has
 an exhaustion token on it is exhausted. Cards that are
 exhausted have no ability text and cannot attack or
 block.
 
 **Використаний (кубик):** кубик який знаходиться в вашому використаному резерві.
 
-Exhausted (when referring to a die): A die that is
+> **Exhausted (when referring to a die):** A die that is
 currently in your exhausted dice pool is considered
 exhausted.
 
 **Резерв використаних кубиків (використаний резерв):** місце де ви розміщуєте кубики використані для сплати вартості.
 
-Exhausted Dice Pool (aka Exhausted Pool): The place
+> **Exhausted Dice Pool (aka Exhausted Pool):** The place
 where you place your dice when they are spent to pay a
 magic cost.
 
 **Використаний кубик:** кубик який знаходиться в вашому використаному резерві і не може бути витрачений для сплати вартості.
 
-Exhausted Dice: Dice that are currently in your
+> **Exhausted Dice:** Dice that are currently in your
 exhausted dice pool and cannot be spent to pay a
 magic cost.
 
 **Жетон виснаження:** жетон, який викладається на карту і позначає її як виснажену.
 
-Exhaustion Token: A token that when placed on a card
+> **Exhaustion Token:** A token that when placed on a card
 marks that card as being exhausted.
 
 **Перша п'ятірка:** 5 різних обраних карт, що формують вашу початкову руку
 
-First Five: A selection of 5 different cards that form
+> **First Five:** A selection of 5 different cards that form
 your starting hand.
 
-**Захисник:** пломенекровний або боєць зі здібністю «Захисник», який був оголошений захисником бійця атакованого основною дією «Напад на бійця».
+**Захисник:** феніксонароджений або боєць зі здібністю «Захисник», який був оголошений захисником бійця атакованого основною дією «Напад на бійця».
 
-Guard: A Phoenixborn or unit with the ‘Unit Guard’
+> **Guard:** A Phoenixborn or unit with the ‘Unit Guard’
 ability that has been declared to be guarding a unit
 that is being targeted for an attack by an ‘Attack a Unit’
 main action.
 
-**У грі:** карта у грі, якщо її контролює будь-який гравець(катри на полі бою або полі заклять, пломенекровний гравця, карти додані до карт у грі). Якщо на карті або в правилах не вказано інакше, карта мусить бути у грі, щоб її текст став доступний для використання.
+**У грі:** карта у грі, якщо її контролює будь-який гравець(катри на полі бою або полі заклять, феніксонароджений гравця, карти додані до карт у грі). Якщо на карті або в правилах не вказано інакше, карта мусить бути у грі, щоб її текст став доступний для використання.
 
-In Play: A card is in play if it is controlled by any player,
+> **In Play:** A card is in play if it is controlled by any player,
 (i.e. on a player’s battlefield or spellboard, is a player’s
 Phoenixborn, or is attached to a card that is in play).
 Unless explicitly stated on the card or explicitly allowed
@@ -428,105 +428,105 @@ text to be used.
 
 **Необмежений ефект:** Ефект, який можна використовувати навіть якщо карта виснажена.
 
-Inexhaustible Effect: Effects that remain even if a card
+> **Inexhaustible Effect:** Effects that remain even if a card
 is exhausted.
 
-**Значення життя:** ліміт жетонів ран, який можна викласти на пломенекровного або бійця до його знищення.
+**Значення життя:** ліміт жетонів ран, який можна викласти на феніксонародженого або бійця до його знищення.
 
-Life Value: The number of wound tokens that a
+> **Life Value:** The number of wound tokens that a
 Phoenixborn or unit can have placed on it before it is
 destroyed.
 
 **Власник:** гравець є власником карт з колод добору і виклику, з якими він починає гру.
 
-Owner: A card’s owner is the player whose deck or
+> **Owner:** A card’s owner is the player whose deck or
 conjuration pile that card started the game in.
 
-**Пломенекровний:** кожен гравець контролює пломенекровного. Якщо вашого пломенекровного знищують - ви програєте гру.
+**Феніксонароджений:** кожен гравець контролює феніксонародженого. Якщо вашого феніксонародженого знищують - ви програєте гру.
 
-Phoenixborn: Each player controls a Phoenixborn.
+> **Phoenixborn:** Each player controls a Phoenixborn.
 When your Phoenixborn is destroyed, you lose the game.
 
 **Розміщення:** місце куди викладають зіграну карту. Приклади: поле бою, боєць, скид, поле заклять.
 
-Placement: Direction on where a card goes when it is
+> **Placement:** Direction on where a card goes when it is
 played. Examples: Battlefield, Unit, Discard, Spellboard.
 
 **Вартість грання:** вартість яку необхідно сплатити щоб зіграти карту.
 
-Play Cost: The cost that needs to be paid before a card
+> **Play Cost:** The cost that needs to be paid before a card
 can be put into play.
 
 **Протидіюче закляття:** тип карт заклять які мають одноразовий ефект і можуть бути зіграні при виконанні певних умов. Кожен гравець може зіграти протидіюче закляття раз за хід.
 
-Reaction Spell: A type of spell card that can only be
+> **Reaction Spell:** A type of spell card that can only be
 played if a specific condition is met for a 1 time effect.
 Each player may only play 1 reaction spell per turn.
 
 **Підготоване закляття:** тип заклять які викладають на поле заклять до кінця гри. Щоб застосувати ефект підготованого закляття у грі потрібно сплатити вартість активації.
 
-Ready Spell: A type of spell that is placed on your
+> **Ready Spell:** A type of spell that is placed on your
 spellboard and remains in play. Usually there is a cost
 to activate the spell once it is in play.
 
 **Значення відновлення:** Кількість жетонів ран які потрібно скинути з бійця під час кроку відновлення у фазу відновлення.
 
-Recover Value: The number of wound tokens that are
+> **Recover Value:** The number of wound tokens that are
 removed from a unit during the recover step of the
 recovery phase.
 
 **Закляття:** будь-яка карта що має у назві типу слово «закляття». Приклад: підготоване закляття.
 
-Spell: Any card that has the word ‘spell’ as a part of its
+> **Spell:** Any card that has the word ‘spell’ as a part of its
 card type. Example: Ready Spell
 
 **Поле заклять:** місце в ігровій зоні де ви викладаєте підготовані закляття.
 
-Spellboard: The part of your play area where ready
+> **Spellboard:** The part of your play area where ready
 spells are placed.
 
-**Ліміт поля заклять:** максимальна кількість різних підготованих заклять на полі заклять пломенекровного.
+**Ліміт поля заклять:** максимальна кількість різних підготованих заклять на полі заклять феніксонародженого.
 
-Spellboard Value: The number of different ready spells
+> **Spellboard Value:** The number of different ready spells
 a Phoenixborn can have on their spellboard.
 
-**Характеристики:** значення представлені на картах пломенекровних і бійців
+**Характеристики:** значення представлені на картах феніксонароджених і бійців
 
-Stats: The values displayed on Phoenixborn and unit
+> **Stats:** The values displayed on Phoenixborn and unit
 cards.
 
-**Ціль:** термін який визначає що ефект закляття, здібність або властивість кубика напряму впливає на щось, наприклад видозміну, бійця, гравця, пломенекровного тощо.
+**Ціль:** термін який визначає що ефект закляття, здібність або властивість кубика напряму впливає на щось, наприклад видозміну, бійця, гравця, феніксонародженого тощо.
 
-Target: A term that is used to identify that the effect
+> **Target:** A term that is used to identify that the effect
 of a spell, ability or die power is directly affecting
 something (including, but not limited to, an alteration, a
 unit, a player, or a Phoenixborn).
 
 **Тип:** кожне закляття і кожен боєць мають тип. Приклад: союзник, викликаний, підготоване закляття, видозмінююче закляття, миттєве закляття, протидіюче закляття.
 
-Type: Each spell and unit card has a type. Examples: Ally,
+> **Type:** Each spell and unit card has a type. Examples: Ally,
 Conjuration, Ready Spell, Alteration Spell, Action Spell,
 Reaction Spell.
 
 **Невиснажений:** карта, на якій відсутні жетони виснаження.
 
-Unexhausted: A card that does not have an exhaustion
+> **Unexhausted:** A card that does not have an exhaustion
 token on it.
 
 **Боєць:** карта типу союзник або викликаний, що викладається на поле бою і залишається там до знищення.
 
-Unit: A card with the type ally or conjuration that is
+> **Unit:** A card with the type ally or conjuration that is
 played on a player’s battlefield and remains in play until
 it is destroyed.
 
 **Значення бонусу:** число на яке збільшується або зменшується значення атаки, життя або відновлення бійця до якого додано видозмінююче закляття.
 
-Value Bonus: The amount an alteration spell increases
+> **Value Bonus:** The amount an alteration spell increases
 or decreases the attack, life, or recovery value of the
 unit it is attached to.
 
-**Жетон рани:** жетон, який викладають на свого бійця або пломенекровного щоб відслідковувати, наскільки вони близькі до знищення.
+**Жетон рани:** жетон, який викладають на свого бійця або феніксонародженого щоб відслідковувати, наскільки вони близькі до знищення.
 
-Wound Token: Tokens that you place on your units
+> **Wound Token:** Tokens that you place on your units
 and Phoenixborn to track how close they are to being
 destroyed.

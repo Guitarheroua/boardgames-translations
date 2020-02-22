@@ -1,6 +1,6 @@
-# Пломенекровні
+# Феніксонароджені
 
-## Арадел Самерґард: пломенекровний з Вічномлистої долини
+## Арадел Самерґард: феніксонароджений з Вічномлистої долини
 
 Aradel Summergaard, Phoenixborn of Evermist Valley
 
@@ -52,7 +52,7 @@ The mists glowed blue, and from out of them emerged a spirit. It rolled lazily t
 
 **Source:** [PlaidHat Games: Aradel. The Mists Glowed Blue](https://www.plaidhatgames.com/news/529)
 
-## Мейоні Вайпер: пломенекровний з Срібнолісся
+## Мейоні Вайпер: феніксонароджений з Срібнолісся
 
 Maeoni Viper, Phoenixborn of Silverwood
 
@@ -72,7 +72,7 @@ And he gave one last scream.
 
 **Source:** [PlaidHat Games: Maeoni. The Snakes' Den](https://www.plaidhatgames.com/news/497)
 
-## Коал Роаркін: пломенекровний з Багряної застави
+## Коал Роаркін: феніксонароджений з Багряної застави
 
 Coal Roarkwin, Phoenixborn of Rustwatch
 
@@ -98,7 +98,7 @@ And suddenly she was there. Her armor was immaculately clean and she wore a smir
 
 **Source:** [PlaidHat Games: Coal. For Rustwatch. For love.](https://www.plaidhatgames.com/news/503)
 
-## Сарія Ґайдмен: пломенекровний з Маякової затоки
+## Сарія Ґайдмен: феніксонароджений з Маякової затоки
 
 Saria Guideman, Phoenixborn of Lighthouse Bay
 
@@ -120,7 +120,7 @@ Saria raised her hands, and suddenly there were two enormous seaside ravens upon
 
 **Source:** [PlaidHat Games: Saria. Graceful, Indomitable](https://www.plaidhatgames.com/news/510)
 
-## Ноа Редмун: пломенекровний з Віроса
+## Ноа Редмун: феніксонароджений з Віроса
 
 Noah Redmoon, Phoenixborn of Viros
 
@@ -138,7 +138,7 @@ From down the street, a common woman shrieked in terror, and the gnashing snarls
 
 **Source:** [PlaidHat Games: Noah. Viros Burns](https://www.plaidhatgames.com/news/515)
 
-## Джеса Не Ні: пломенекровний з клану Кроволісся
+## Джеса Не Ні: феніксонароджений з клану Кроволісся
 
 Jessa Na Ni, Phoenixborn of the Bloodwoods Clan
 
@@ -162,7 +162,7 @@ The throne was hers now. Jessa giggled as she climbed atop it and settled into i
 
 **Source:** [PlaidHat Games: Jessa. Slayer of Maggada](https://www.plaidhatgames.com/news/522)
 
-## Дімона Одінстар: пломенекровний з Рейварда
+## Дімона Одінстар: феніксонароджений з Рейварда
 
 Dimona Odinstar, Phoenixborn of Rayward
 
