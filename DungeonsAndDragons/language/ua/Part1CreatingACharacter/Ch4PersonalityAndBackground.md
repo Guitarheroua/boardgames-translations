@@ -1,5 +1,5 @@
 ---
-permalink: /ua/d-and-d-basic-rules-ch4-personality-and-background/
+id: /ua/d-and-d-basic-rules-ch4-personality-and-background/
 title: Розділ 4 Особистість Та Передісторія
 ---
 

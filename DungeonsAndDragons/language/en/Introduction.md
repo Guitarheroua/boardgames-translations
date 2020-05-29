@@ -1,5 +1,5 @@
 ---
-permalink: /en/d-and-d-basic-rules-introduction/
+id: /en/d-and-d-basic-rules-introduction/
 title: Introduction
 ---
 

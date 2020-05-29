@@ -1,5 +1,5 @@
 ---
-permalink: /en/d-and-d-basic-rules-ch3-classes/
+id: /en/d-and-d-basic-rules-ch3-classes/
 title: Chapter 3 Classes
 ---
 

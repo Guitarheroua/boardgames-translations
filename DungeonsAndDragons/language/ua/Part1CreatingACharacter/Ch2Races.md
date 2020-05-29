@@ -1,5 +1,5 @@
 ---
-permalink: /ua/d-and-d-basic-rules-ch2-races/
+id: /ua/d-and-d-basic-rules-ch2-races/
 title: Розділ 2 Раси
 ---
 

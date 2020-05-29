@@ -1,5 +1,5 @@
 ---
-permalink: /ua/d-and-d-basic-rules-ch1-step-by-step-characters/
+id: /ua/d-and-d-basic-rules-ch1-step-by-step-characters/
 title: Розділ 1 Поетапне Створення Персонажа
 ---
 

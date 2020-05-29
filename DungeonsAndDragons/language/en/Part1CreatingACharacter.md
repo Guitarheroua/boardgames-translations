@@ -1,5 +1,5 @@
 ---
-permalink: /en/d-and-d-basic-rules-part1-creating-a-character/
+id: /en/d-and-d-basic-rules-part1-creating-a-character/
 title: Part 1 Creating A Character
 ---
 

@@ -1,5 +1,5 @@
 ---
-permalink: /ua/d-and-d-basic-rules-ch3-classes/
+id: /ua/d-and-d-basic-rules-ch3-classes/
 title: Розділ 3 Класи
 ---
 

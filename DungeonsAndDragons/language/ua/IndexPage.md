@@ -1,5 +1,5 @@
 ---
-permalink: /ua/d-and-d-basic-rules-main-page/
+id: /ua/d-and-d-basic-rules-main-page/
 title: D&D Базові правила
 ---
 

@@ -1,5 +1,5 @@
 ---
-permalink: /ua/d-and-d-basic-rules-introduction/
+id: /ua/d-and-d-basic-rules-introduction/
 title: Вступ
 ---
 

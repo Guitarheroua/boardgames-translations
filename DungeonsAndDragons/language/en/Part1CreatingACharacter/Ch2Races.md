@@ -1,5 +1,5 @@
 ---
-permalink: /en/d-and-d-basic-rules-ch2-races/
+id: /en/d-and-d-basic-rules-ch2-races/
 title: Chapter 2 Races
 ---
 

@@ -1,5 +1,5 @@
 ---
-permalink: /en/d-and-d-basic-rules-main-page/
+id: /en/d-and-d-basic-rules-main-page/
 title: D&D Basic Rules
 ---
 

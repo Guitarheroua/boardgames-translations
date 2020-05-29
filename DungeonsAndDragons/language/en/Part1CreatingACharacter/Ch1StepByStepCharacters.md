@@ -1,5 +1,5 @@
 ---
-permalink: /en/d-and-d-basic-rules-ch1-step-by-step-characters/
+id: /en/d-and-d-basic-rules-ch1-step-by-step-characters/
 title: Chapter 1 Step-by-Step Characters
 ---
 

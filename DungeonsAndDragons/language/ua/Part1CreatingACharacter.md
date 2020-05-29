@@ -1,5 +1,5 @@
 ---
-permalink: /ua/d-and-d-basic-rules-part1-creating-a-character/
+id: /ua/d-and-d-basic-rules-part1-creating-a-character/
 title: Частина 1 Створення Персонажа
 ---
 
