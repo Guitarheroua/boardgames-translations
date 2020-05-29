@@ -1,0 +1,105 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>02 - Приготування до гри · Board Games Translations</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="## Приготування до гри"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="02 - Приготування до гри · Board Games Translations"/><meta property="og:type" content="website"/><meta property="og:url" content="https://guitarheroua.github.io/boardgames-translations/"/><meta property="og:description" content="## Приготування до гри"/><meta property="og:image" content="https://guitarheroua.github.io/boardgames-translations/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://guitarheroua.github.io/boardgames-translations/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/boardgames-translations/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/boardgames-translations/js/scrollSpy.js"></script><link rel="stylesheet" href="/boardgames-translations/css/main.css"/><script src="/boardgames-translations/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/boardgames-translations/"><img class="logo" src="/boardgames-translations/img/favicon.ico" alt="Board Games Translations"/><h2 class="headerTitleWithLogo">Board Games Translations</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class="siteNavGroupActive"><a href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/description" target="_self">Rules</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Ashes: Відродження Феніксонародженого</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Ashes: Відродження Феніксонародженого</h3><ul class=""><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/description">01 - Опис</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/setup">02 - Приготування до гри</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/roundOrder">03 - Послідовнцість раунду</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/mainAction">03 - Main Actions</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/glossary">Словник термінів</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/heroesHistory">Історії феніксонароджених</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">02 - Приготування до гри</h1></header><article><div><span><h2><a class="anchor" aria-hidden="true" id="приготування-до-гри"></a><a href="#приготування-до-гри" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Приготування до гри</h2>
+<ol>
+<li>#TODO</li>
+<li>Розмістіть вашого феніксонародженого в ігровій зоні характеристикою горілиць.</li>
+<li>Оберіть першу п'ятірку карт з колоди в руку. Карти в першій п'ятірці не повинні дублюватись.</li>
+<li>Розмістіть ваш стос виклику долілиць в ігровій зоні.</li>
+<li>Перемішайте решту карт з вашої колоди. Сформуйте з них стос добору і розмістіть його в ігровій зоні долілиць.</li>
+<li>Візміть карти-пам'ятки властивостей кубиків відповідно до кубиків які ви використовуєте і, при потребі, карту-пам'ятку фаз гри.</li>
+<li>Розмістіть 10 кубиків у використаному резерві.</li>
+<li>Сформуйте 3 окремі купи жетонів.</li>
+</ol>
+<hr>
+<ol>
+<li>Choose a deck to play with (see page 14-15 for suggested decks). Or build a deck to play with (see page 14 for deck building rules). Or draft a deck to play with (see page 16 for drafting rules).</li>
+<li>Place your Phoenixborn in your play area with stats side face up.</li>
+<li>Choose your First Five by taking 5 cards of your choosing from your deck and adding them to your hand. You may not include more than one copy of a card in your First Five.</li>
+<li>Place your conjuration pile face down in your play area.</li>
+<li>Shuffle the rest of your deck and form a face down draw pile in your play area.</li>
+<li>Take the dice power reference cards that correspond to the dice you are using and a phases of play reference card, if needed.</li>
+<li>Place all 10 of your dice in your exhausted pool.</li>
+<li>Make 3 separate piles of tokens within reach of all players.</li>
+</ol>
+<h2><a class="anchor" aria-hidden="true" id="ігрова-зона"></a><a href="#ігрова-зона" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Ігрова зона</h2>
+<p>Протягом гри в Ashes, ви будете розміщувати закляття на полі заклять і бійців на полі бою. Ось приклад, як може виглядати ваша ігрова зона в ході гри.</p>
+<p>As a game of Ashes is played, you will place spells onto your spellboard and units onto your battlefield.  Here is an example of what your play area might look like during a game in progress.</p>
+<ol>
+<li>Феніксонароджений</li>
+<li>Стос скиду гравця</li>
+<li>Стос добору гравця</li>
+<li>Карти-пам'ятки властивостей кубиків</li>
+<li>Резерв активних кубиків</li>
+<li>Резерв використаних кубиків</li>
+<li>Поле бою</li>
+<li>Поле заклять</li>
+<li>Стос виклику</li>
+</ol>
+<hr>
+<ol>
+<li>Phoenixborn</li>
+<li>Player Discard Pile</li>
+<li>Player Draw Pile</li>
+<li>Dice PowerReference Cards</li>
+<li>Active Dice Pool</li>
+<li>Exhausted Dice Pool</li>
+<li>Battlefield</li>
+<li>Spellboard</li>
+<li>Conjuration Pile</li>
+</ol>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/description"><span class="arrow-prev">← </span><span>01 - Опис</span></a><a class="docs-next button" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/roundOrder"><span>03 - Послідовнцість раунду</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#приготування-до-гри">Приготування до гри</a></li><li><a href="#ігрова-зона">Ігрова зона</a></li></ul></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/boardgames-translations/" class="nav-home"><img src="/boardgames-translations/img/favicon.ico" alt="Board Games Translations" width="66" height="58"/></a><div><h5>Docs</h5><a href="/boardgames-translations/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/boardgames-translations/docs/en/doc2.html">Guides (or other categories)</a><a href="/boardgames-translations/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/boardgames-translations/en/users.html">User Showcase</a><a href="https://stackoverflow.com/questions/tagged/" target="_blank" rel="noreferrer noopener">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a></div><div><h5>More</h5><a href="/boardgames-translations/blog">Blog</a><a href="https://github.com/">GitHub</a><a class="github-button" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://opensource.facebook.com/" target="_blank" rel="noreferrer noopener" class="fbOpenSource"><img src="/boardgames-translations/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2020 guitarheroua</section></footer></div></body></html>

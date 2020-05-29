@@ -1,0 +1,149 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>01 - Опис · Board Games Translations</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Червоні дощі прокотились Арґаєю, отруюючи створінь що населяли світ. Під цим дощем у світі народилась химера. Кажуть, що химера стала прокляттям людства за злодіяння проти дітей драконів. Але якою б не була справжня причина її народження, химера сколихнула цивілізацію, перетворюючи світ на руїни. Цей страхітлививй ворог винищував армії, трощив селеща і псував землі та моря. Люди втікали до великих міст, де відгороджувались від жахів, що коїлись у світі."/><meta name="docsearch:language" content="en"/><meta property="og:title" content="01 - Опис · Board Games Translations"/><meta property="og:type" content="website"/><meta property="og:url" content="https://guitarheroua.github.io/boardgames-translations/"/><meta property="og:description" content="Червоні дощі прокотились Арґаєю, отруюючи створінь що населяли світ. Під цим дощем у світі народилась химера. Кажуть, що химера стала прокляттям людства за злодіяння проти дітей драконів. Але якою б не була справжня причина її народження, химера сколихнула цивілізацію, перетворюючи світ на руїни. Цей страхітлививй ворог винищував армії, трощив селеща і псував землі та моря. Люди втікали до великих міст, де відгороджувались від жахів, що коїлись у світі."/><meta property="og:image" content="https://guitarheroua.github.io/boardgames-translations/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://guitarheroua.github.io/boardgames-translations/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/boardgames-translations/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/boardgames-translations/js/scrollSpy.js"></script><link rel="stylesheet" href="/boardgames-translations/css/main.css"/><script src="/boardgames-translations/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/boardgames-translations/"><img class="logo" src="/boardgames-translations/img/favicon.ico" alt="Board Games Translations"/><h2 class="headerTitleWithLogo">Board Games Translations</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class="siteNavGroupActive siteNavItemActive"><a href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/description" target="_self">Rules</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Ashes: Відродження Феніксонародженого</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Ashes: Відродження Феніксонародженого</h3><ul class=""><li class="navListItem navListItemActive"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/description">01 - Опис</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/setup">02 - Приготування до гри</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/roundOrder">03 - Послідовнцість раунду</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/mainAction">03 - Main Actions</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/glossary">Словник термінів</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/heroesHistory">Історії феніксонароджених</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">01 - Опис</h1></header><article><div><span><p>Червоні дощі прокотились Арґаєю, отруюючи створінь що населяли світ. Під цим дощем у світі народилась химера. Кажуть, що химера стала прокляттям людства за злодіяння проти дітей драконів. Але якою б не була справжня причина її народження, химера сколихнула цивілізацію, перетворюючи світ на руїни. Цей страхітлививй ворог винищував армії, трощив селеща і псував землі та моря. Люди втікали до великих міст, де відгороджувались від жахів, що коїлись у світі.</p>
+<blockquote>
+<p>The Red Rains swept over the world of Argaia, poisoning the creatures that dwelt there, and from these rains the chimera were born. Some say the chimera were a curse upon humanity for their crimes against the children of dragons, but whatever the reason for their birth, the chimera visited destruction upon the world, and civilization shuddered. These monstrous foes slaughtered armies, devoured townships, and despoiled the ground and seas. Humans withdrew to the largest of cities, and these they fortified against the horrors of the world outside.</p>
+</blockquote>
+<p>І коли, за декілька віків майбутнє людства майже згасло, з'явилась нова сила, що здатна була протистояти химері. Їх назвали феніксонародженими - людьми, які оволоділи незнаною до того магією. Разом вони влаштували «Велике Очищення» і знищили загрозу химери. Величні міста нарешті знову відкрились, торгівля процвітала, і феніксонароджені привели людство до нової золотої доби.</p>
+<blockquote>
+<p>Ages passed and humanity's future looked bleak. But then a new power arose to confront the chimera. They were called the Phoenixborn - humans capable of wielding magics not previously thought possible, and together they initiated the Great Cleansing, and eradicated the chimera menace. The great cities finally reopened, trade flourished, and the Phoenixborn ushered humanity into a new golden age.</p>
+</blockquote>
+<p>Але містичне джерело магічних сил феніксонароджених ще не взяло своє. Кожен з чаклунів-воїнів був обдарований лише частинкою справжньої сили і ця сила прагнула до возєднання.</p>
+<blockquote>
+<p>But the mysterious source which the Phoenixborn drew upon was not done with them. Each of these wizard-warriors had been gifted with but a fraction of the true power that blessed them, and that power now desired unification. Slowly but steadily, the Phoenixborn were plagued with a desire to slaughter their own kind, and absorb the abilities of their incinerated kin. Now is the time of the Collection of Ashes, when Phoenixborn must battle Phoenixborn until only one remains to inherit a newborn world.</p>
+</blockquote>
+<h2><a class="anchor" aria-hidden="true" id="мета-гри"></a><a href="#мета-гри" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Мета гри</h2>
+<p>У Ashes, ви - феніксонароджений, повелитель магії, який бореться з іншими феніксонародженими в двобої розуму і магічної досконалості. Чаклуйте закляття, викликайте союзників щоб знищити ваших суперників і перемогти.</p>
+<h2><a class="anchor" aria-hidden="true" id="компоненти-в-цьому-наборі"></a><a href="#компоненти-в-цьому-наборі" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Компоненти в цьому наборі</h2>
+<ul>
+<li>6 – карти феніксонароджених</li>
+<li>241 – карти бійців/заклять</li>
+<li>4 – карти-пам'ятки фаз гри</li>
+<li>16 – карти-пам'ятки властивостей кубиків</li>
+<li>26 – жетони ран</li>
+<li>30 – жетони виснаження</li>
+<li>21 – жетони стану</li>
+<li>10 – кубики зачарування</li>
+<li>10 – кубики ритуалу</li>
+<li>10 – кубики омани</li>
+<li>10 – кубики природи</li>
+<li>1 – жетон першого гравця</li>
+<li>1 – правила гри</li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="феніксонароджений"></a><a href="#феніксонароджений" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Феніксонароджений</h2>
+<p><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/001-aradel.png" alt="001-aradel.png"></p>
+<ol>
+<li>Ім'я</li>
+<li>Значення життя</li>
+<li>Ліміт поля бою</li>
+<li>Ліміт поля заклять</li>
+<li>Здібність</li>
+<li>Вартість активації</li>
+</ol>
+<h2><a class="anchor" aria-hidden="true" id="карти-заклять"></a><a href="#карти-заклять" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Карти заклять</h2>
+<p><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/002-spell-cards.png" alt="002-spell-cards.png"></p>
+<ol>
+<li>Назва</li>
+<li>Тип</li>
+<li>Місце викладання</li>
+<li>Вартість грання</li>
+<li>Вартість активації</li>
+<li>Ефект</li>
+<li>Необмежений ефект</li>
+<li>Значення бонусу</li>
+</ol>
+<h2><a class="anchor" aria-hidden="true" id="карти-бійців"></a><a href="#карти-бійців" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Карти бійців</h2>
+<p><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/003-unit-cards.png" alt="003-unit-cards.png"></p>
+<ol>
+<li>Назва</li>
+<li>Тип</li>
+<li>Місце викладання</li>
+<li>Вартість грання</li>
+<li>Значення атаки</li>
+<li>Значення життя</li>
+<li>Значення відновлення</li>
+<li>Вартість активації</li>
+<li>Здібність</li>
+<li>Необмежений ефект</li>
+<li>Ліміт виклику</li>
+</ol>
+<h2><a class="anchor" aria-hidden="true" id="кубики"></a><a href="#кубики" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Кубики</h2>
+<p>У Ashes є різні типи кубиків (4 типи в цьому наборі). Кожен тип має три різні символи, що зображені в таблиці нижче:</p>
+<table>
+<thead>
+<tr><th style="text-align:center"></th><th style="text-align:center">Символ сили</th><th style="text-align:center">Символ класу</th><th style="text-align:center">Базовий символ</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center">Кубик природи</td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/natural-power.png" alt="natural-power.png"></td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/natural-class.png" alt="natural-class.png"></td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/natural-basic.png" alt="natural-basic.png"></td></tr>
+<tr><td style="text-align:center">Кубик зачарування</td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/charm-power.png" alt="charm-power.png"></td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/charm-class.png" alt="charm-class.png"></td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/charm-basic.png" alt="charm-basic.png"></td></tr>
+<tr><td style="text-align:center">Кубик ритуалу</td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/ritual-power.png" alt="ritual-power.png"></td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/ritual-class.png" alt="ritual-class.png"></td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/ritual-basic.png" alt="ritual-basic.png"></td></tr>
+<tr><td style="text-align:center">Кубик омани</td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/illusion-power.png" alt="illusion-power.png"></td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/illusion-class.png" alt="illusion-class.png"></td><td style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/dices/illusion-basic.png" alt="illusion-basic.png"></td></tr>
+</tbody>
+</table>
+<h2><a class="anchor" aria-hidden="true" id="карти-памятки-властивостей-кубиків"></a><a href="#карти-памятки-властивостей-кубиків" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Карти-пам'ятки властивостей кубиків</h2>
+<p><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/004-ref-cards.png" alt="004-ref-cards.png"></p>
+<p>Кубики з символом сили можна використати як другорядну дію для активації його ефекту. Карти-пам'ятки описують ефект сили усіх типів кубиків.</p>
+<h2><a class="anchor" aria-hidden="true" id="жетони"></a><a href="#жетони" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Жетони</h2>
+<table>
+<thead>
+<tr><th style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/tokens/wound.png" alt="wound.png"></th><th style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/tokens/exhaustion.png" alt="exhaustion.png"></th><th style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/tokens/status.png" alt="status.png"></th><th style="text-align:center"><img src="/boardgames-translations/docs/assets/AshesRiseOfThePhoenixborn/tokens/first-player.png" alt="first-player.png"></th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center"><strong>Ран</strong></td><td style="text-align:center"><strong>Виснаження</strong></td><td style="text-align:center"><strong>Стану</strong></td><td style="text-align:center"><strong>Першого гравця</strong></td></tr>
+</tbody>
+</table>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-next button" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/setup"><span>02 - Приготування до гри</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#мета-гри">Мета гри</a></li><li><a href="#компоненти-в-цьому-наборі">Компоненти в цьому наборі</a></li><li><a href="#феніксонароджений">Феніксонароджений</a></li><li><a href="#карти-заклять">Карти заклять</a></li><li><a href="#карти-бійців">Карти бійців</a></li><li><a href="#кубики">Кубики</a></li><li><a href="#карти-памятки-властивостей-кубиків">Карти-пам'ятки властивостей кубиків</a></li><li><a href="#жетони">Жетони</a></li></ul></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/boardgames-translations/" class="nav-home"><img src="/boardgames-translations/img/favicon.ico" alt="Board Games Translations" width="66" height="58"/></a><div><h5>Docs</h5><a href="/boardgames-translations/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/boardgames-translations/docs/en/doc2.html">Guides (or other categories)</a><a href="/boardgames-translations/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/boardgames-translations/en/users.html">User Showcase</a><a href="https://stackoverflow.com/questions/tagged/" target="_blank" rel="noreferrer noopener">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a></div><div><h5>More</h5><a href="/boardgames-translations/blog">Blog</a><a href="https://github.com/">GitHub</a><a class="github-button" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://opensource.facebook.com/" target="_blank" rel="noreferrer noopener" class="fbOpenSource"><img src="/boardgames-translations/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2020 guitarheroua</section></footer></div></body></html>

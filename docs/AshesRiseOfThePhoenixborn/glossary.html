@@ -1,0 +1,353 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Словник термінів · Board Games Translations</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="**Здібність:** ефект який мають феніксонароджені або бійці у грі. Здібності є постійними або такими, які потрібно активувати."/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Словник термінів · Board Games Translations"/><meta property="og:type" content="website"/><meta property="og:url" content="https://guitarheroua.github.io/boardgames-translations/"/><meta property="og:description" content="**Здібність:** ефект який мають феніксонароджені або бійці у грі. Здібності є постійними або такими, які потрібно активувати."/><meta property="og:image" content="https://guitarheroua.github.io/boardgames-translations/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://guitarheroua.github.io/boardgames-translations/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/boardgames-translations/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/boardgames-translations/js/scrollSpy.js"></script><link rel="stylesheet" href="/boardgames-translations/css/main.css"/><script src="/boardgames-translations/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/boardgames-translations/"><img class="logo" src="/boardgames-translations/img/favicon.ico" alt="Board Games Translations"/><h2 class="headerTitleWithLogo">Board Games Translations</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class="siteNavGroupActive"><a href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/description" target="_self">Rules</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Ashes: Відродження Феніксонародженого</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Ashes: Відродження Феніксонародженого</h3><ul class=""><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/description">01 - Опис</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/setup">02 - Приготування до гри</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/roundOrder">03 - Послідовнцість раунду</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/mainAction">03 - Main Actions</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/glossary">Словник термінів</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/heroesHistory">Історії феніксонароджених</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Словник термінів</h1></header><article><div><span><p><strong>Здібність:</strong> ефект який мають феніксонароджені або бійці у грі. Здібності є постійними або такими, які потрібно активувати.</p>
+<blockquote>
+<p><strong>Ability:</strong> An effect that a Phoenixborn or Unit has on the game that in some cases is constant and in other cases needs to be activated.</p>
+</blockquote>
+<p><strong>Миттєве закляття:</strong> тип карт заклять які мають одноразовий ефект.</p>
+<blockquote>
+<p><strong>Action Spell:</strong> A type of spell card that is played for a 1 time effect.</p>
+</blockquote>
+<p><strong>Вартість активації:</strong> вартість, яку необхідно сплатити щоб активувати закляття або здібність.</p>
+<blockquote>
+<p><strong>Activation Cost:</strong> The cost that needs to be paid to activate a spell or ability (cause its effect to happen).</p>
+</blockquote>
+<p><strong>Резерв активних кубиків(або активний резерв):</strong> місце де ви розміщуєте кубики на початку кожного раунду.</p>
+<blockquote>
+<p><strong>Active Dice Pool (aka Active Pool):</strong> The place where you place your dice at the beginning of each round.</p>
+</blockquote>
+<p><strong>Активний кубик:</strong> кубик який знаходиться у активний резерві і може бути витрачений щоб сплатити відповідну вартість.</p>
+<blockquote>
+<p><strong>Active Dice:</strong> Dice that are currently in your active pool and can be spent to pay a matching magic cost.</p>
+</blockquote>
+<p><strong>Союзник:</strong> тип карти бійця.</p>
+<blockquote>
+<p><strong>Ally:</strong> A type of unit card.</p>
+</blockquote>
+<p><strong>Видозмінююче закляття:</strong> тип карт заклять які можуть бути додані до  бійця на полі бою щоб певним чином його модифікувати.</p>
+<blockquote>
+<p><strong>Alteration Spell:</strong> A type of spell card that can be attached to a unit on a player’s battlefield to alter that unit in some way.</p>
+</blockquote>
+<p><strong>Додавання:</strong> процес розміщення видозмінюючого закляття під бійцем і застосування його ефекту і бонусів до значень цього бійця.</p>
+<blockquote>
+<p><strong>Attach:</strong> The process of placing an alteration spell underneath a unit and applying its effects and value bonuses to that unit.</p>
+</blockquote>
+<p><strong>Додана карта:</strong> карта, яку було додано до бійця.</p>
+<blockquote>
+<p><strong>Attached Card:</strong> A card that has been attached to a unit.</p>
+</blockquote>
+<p><strong>Атакуючий:</strong> невиснажений боєць, якого оголошено атакуючим у основній дії «Напад на феніксонародженого» або «Напад на бійця».</p>
+<blockquote>
+<p><strong>Attacker:</strong> An unexhausted unit that has been declared to be attacking when performing the ‘Attack a Phoenixborn’ or ‘Attack a Unit’ main action.</p>
+</blockquote>
+<p><strong>Значення атаки:</strong> кількість шкоди яку завдає боєць під час атаки</p>
+<blockquote>
+<p><strong>Attack Value:</strong> The amount of damage that a unit deals
+when attacking.</p>
+</blockquote>
+<p><strong>Поле бою:</strong> частина вашої ігрової зони де ви розміщуєте бійців.</p>
+<blockquote>
+<p><strong>Battlefield:</strong> The part of your play area where units are
+placed.</p>
+</blockquote>
+<p><strong>Ліміт поля бою:</strong> кількість бійців, яку феніксонароджений може розмістити на полі бою.</p>
+<blockquote>
+<p><strong>Battlefield Value:</strong> The number of units a Phoenixborn can have on its battlefield.</p>
+</blockquote>
+<p><strong>Блокуючий:</strong> невиснажений боєць, якого оголошено блокуючим для 1-го атакуючого бійця.</p>
+<blockquote>
+<p><strong>Blocker:</strong> An unexhausted unit that has been declared to be blocking 1 attacking unit.</p>
+</blockquote>
+<p><strong>Скасувати:</strong> ефект який перериває виконання закляття, здібності або властивість кубика. Коли закляття, здібність або властивість кубика скасовано, гравець все ще повнен сплатити їх вартість, але не може застосувати їх ефект.</p>
+<blockquote>
+<p><strong>Cancel:</strong> An effect that prevents another spell, ability, or
+dice power from resolving. When a spell, ability, or die
+power is canceled, the costs are still paid by the player
+that used it, but the canceled effects are not resolved.</p>
+</blockquote>
+<p><strong>Викликаний:</strong> тип карти бійця, які на початку гри знаходяться в стосі виклику і можуть бути зіграні лише активацією ефекту карти.</p>
+<blockquote>
+<p><strong>Conjuration:</strong> A type of unit card that starts the game
+in a conjuration pile and can be brought into play by a
+card effect.</p>
+</blockquote>
+<p><strong>Ліміт виклику:</strong> Кількість копій карт викликаних бійців, яку можна підмішати в стос виклику.</p>
+<blockquote>
+<p><strong>Conjuration Limit:</strong> The number of copies of a
+conjuration unit card you are allowed to put into your
+conjuration pile.</p>
+</blockquote>
+<p><strong>Стос виклику:</strong> стос карток викликаних бійців яких можна викликати закляттями з вашої колоди.</p>
+<blockquote>
+<p><strong>Conjuration Pile:</strong> A stack of conjuration cards that
+contains the conjuration units that your deck is capable
+of producing.</p>
+</blockquote>
+<p><strong>Контролювати:</strong> гравець контролює картку, якщо вона на його полі бою або полі заклять, або це феніксонароджений гравця. Гравець також контролює карти які додані до його карт.</p>
+<blockquote>
+<p><strong>Control:</strong> A card is controlled by a player if it is on a
+player’s battlefield or spellboard or is that player’s
+Phoenixborn. A player also controls any card that is
+attached to a card she controls.</p>
+</blockquote>
+<p><strong>Колода:</strong> кожен з гравців мусить збудувати або обрати готову колоду для гри в Ashes. Колода складається з 1-го феніксонародженого, 10-ти кубиків і 30-ти карт.</p>
+<blockquote>
+<p><strong>Deck:</strong> Each player must build a deck or select a
+pre-built deck to play Ashes. A deck consists of 1
+Phoenixborn, 10 dice and 30 cards.</p>
+</blockquote>
+<p><strong>Гравець, що захищається:</strong> гравець чий феніксонароджений або боєць був оголошений ціллю дії «Напад на феніксонародженого» або «Напад на бійця».</p>
+<blockquote>
+<p><strong>Defending Player:</strong> A player whose Phoenixborn or unit
+has been declared the target of an ‘Attack a Unit’ or
+‘Attack a Phoenixborn’ action.</p>
+</blockquote>
+<p><strong>Резерв кубиків:</strong> збірка з 10-ти кубиків, які є частиною колоди гравця.</p>
+<blockquote>
+<p><strong>Dice Pool:</strong> A collection of 10 dice that is a part of a
+player’s deck.</p>
+</blockquote>
+<p><strong>Властивість кубика:</strong> кожен тип кубика має особливу властивість, яку можна активувати витративши другорядну дію і кубик з символом властивості.</p>
+<blockquote>
+<p><strong>Dice Power:</strong> Each dice type has a unique ability that can
+be performed by spending a side action and a die of
+that type that is power symbol side up.</p>
+</blockquote>
+<p><strong>Стос скиду:</strong> місце в ігровій зоні де ви розміщуєте скинуті карти. Карти потрібно скидати горілиць.</p>
+<blockquote>
+<p><strong>Discard Pile:</strong> The place in the play area where you
+place cards that you are instructed to discard. Cards are
+placed in the discard pile face up.</p>
+</blockquote>
+<p><strong>Стос добору:</strong> стос карт які ви добираєте протягом гри.</p>
+<blockquote>
+<p><strong>Draw Pile:</strong> The pile of cards that you draw from during
+the game.</p>
+</blockquote>
+<p><strong>Ефект:</strong> правила, що пояснюють як закляття або здібності взаємодіють з грою.</p>
+<blockquote>
+<p><strong>Effect:</strong> Rules for how a spell or ability interacts with the
+game.</p>
+</blockquote>
+<p><strong>Виснаження (карта):</strong> процес викладання жетону виснаження на карту.</p>
+<blockquote>
+<p><strong>Exhaust (when referring to a card):</strong> The process of
+placing an exhaustion token on a card.</p>
+</blockquote>
+<p><strong>Використанння (кубик):</strong> процес переміщення кубика в ваш використаний резерв внаслідок ефекту карти або сплати вартості.</p>
+<blockquote>
+<p><strong>Exhaust (when referring to a die):</strong> The process of
+placing a die in your exhausted pool because of the
+result of a card effect or paying a cost.</p>
+</blockquote>
+<p><strong>Виснажена (карта):</strong> карта на яку викладено жетон виснаження. Виснажена карта не може активувати здібність, а також атакувати і блокувати.</p>
+<blockquote>
+<p><strong>Exhausted (when referring to a card):</strong> A card that has
+an exhaustion token on it is exhausted. Cards that are
+exhausted have no ability text and cannot attack or
+block.</p>
+</blockquote>
+<p><strong>Використаний (кубик):</strong> кубик який знаходиться в вашому використаному резерві.</p>
+<blockquote>
+<p><strong>Exhausted (when referring to a die):</strong> A die that is
+currently in your exhausted dice pool is considered
+exhausted.</p>
+</blockquote>
+<p><strong>Резерв використаних кубиків (використаний резерв):</strong> місце де ви розміщуєте кубики використані для сплати вартості.</p>
+<blockquote>
+<p><strong>Exhausted Dice Pool (aka Exhausted Pool):</strong> The place
+where you place your dice when they are spent to pay a
+magic cost.</p>
+</blockquote>
+<p><strong>Використаний кубик:</strong> кубик який знаходиться в вашому використаному резерві і не може бути витрачений для сплати вартості.</p>
+<blockquote>
+<p><strong>Exhausted Dice:</strong> Dice that are currently in your
+exhausted dice pool and cannot be spent to pay a
+magic cost.</p>
+</blockquote>
+<p><strong>Жетон виснаження:</strong> жетон, який викладається на карту і позначає її як виснажену.</p>
+<blockquote>
+<p><strong>Exhaustion Token:</strong> A token that when placed on a card
+marks that card as being exhausted.</p>
+</blockquote>
+<p><strong>Перша п'ятірка:</strong> 5 різних обраних карт, що формують вашу початкову руку</p>
+<blockquote>
+<p><strong>First Five:</strong> A selection of 5 different cards that form
+your starting hand.</p>
+</blockquote>
+<p><strong>Захисник:</strong> феніксонароджений або боєць зі здібністю «Захисник», який був оголошений захисником бійця атакованого основною дією «Напад на бійця».</p>
+<blockquote>
+<p><strong>Guard:</strong> A Phoenixborn or unit with the ‘Unit Guard’
+ability that has been declared to be guarding a unit
+that is being targeted for an attack by an ‘Attack a Unit’
+main action.</p>
+</blockquote>
+<p><strong>У грі:</strong> карта у грі, якщо її контролює будь-який гравець(катри на полі бою або полі заклять, феніксонароджений гравця, карти додані до карт у грі). Якщо на карті або в правилах не вказано інакше, карта мусить бути у грі, щоб її текст став доступний для використання.</p>
+<blockquote>
+<p><strong>In Play:</strong> A card is in play if it is controlled by any player,
+(i.e. on a player’s battlefield or spellboard, is a player’s
+Phoenixborn, or is attached to a card that is in play).
+Unless explicitly stated on the card or explicitly allowed
+by the game rules, a card must be in play for that card’s
+text to be used.</p>
+</blockquote>
+<p><strong>Необмежений ефект:</strong> Ефект, який можна використовувати навіть якщо карта виснажена.</p>
+<blockquote>
+<p><strong>Inexhaustible Effect:</strong> Effects that remain even if a card
+is exhausted.</p>
+</blockquote>
+<p><strong>Значення життя:</strong> ліміт жетонів ран, який можна викласти на феніксонародженого або бійця до його знищення.</p>
+<blockquote>
+<p><strong>Life Value:</strong> The number of wound tokens that a
+Phoenixborn or unit can have placed on it before it is
+destroyed.</p>
+</blockquote>
+<p><strong>Власник:</strong> гравець є власником карт з колод добору і виклику, з якими він починає гру.</p>
+<blockquote>
+<p><strong>Owner:</strong> A card’s owner is the player whose deck or
+conjuration pile that card started the game in.</p>
+</blockquote>
+<p><strong>Феніксонароджений:</strong> кожен гравець контролює феніксонародженого. Якщо вашого феніксонародженого знищують - ви програєте гру.</p>
+<blockquote>
+<p><strong>Phoenixborn:</strong> Each player controls a Phoenixborn.
+When your Phoenixborn is destroyed, you lose the game.</p>
+</blockquote>
+<p><strong>Розміщення:</strong> місце куди викладають зіграну карту. Приклади: поле бою, боєць, скид, поле заклять.</p>
+<blockquote>
+<p><strong>Placement:</strong> Direction on where a card goes when it is
+played. Examples: Battlefield, Unit, Discard, Spellboard.</p>
+</blockquote>
+<p><strong>Вартість грання:</strong> вартість яку необхідно сплатити щоб зіграти карту.</p>
+<blockquote>
+<p><strong>Play Cost:</strong> The cost that needs to be paid before a card
+can be put into play.</p>
+</blockquote>
+<p><strong>Протидіюче закляття:</strong> тип карт заклять які мають одноразовий ефект і можуть бути зіграні при виконанні певних умов. Кожен гравець може зіграти протидіюче закляття раз за хід.</p>
+<blockquote>
+<p><strong>Reaction Spell:</strong> A type of spell card that can only be
+played if a specific condition is met for a 1 time effect.
+Each player may only play 1 reaction spell per turn.</p>
+</blockquote>
+<p><strong>Підготоване закляття:</strong> тип заклять які викладають на поле заклять до кінця гри. Щоб застосувати ефект підготованого закляття у грі потрібно сплатити вартість активації.</p>
+<blockquote>
+<p><strong>Ready Spell:</strong> A type of spell that is placed on your
+spellboard and remains in play. Usually there is a cost
+to activate the spell once it is in play.</p>
+</blockquote>
+<p><strong>Значення відновлення:</strong> Кількість жетонів ран які потрібно скинути з бійця під час кроку відновлення у фазу відновлення.</p>
+<blockquote>
+<p><strong>Recover Value:</strong> The number of wound tokens that are
+removed from a unit during the recover step of the
+recovery phase.</p>
+</blockquote>
+<p><strong>Закляття:</strong> будь-яка карта що має у назві типу слово «закляття». Приклад: підготоване закляття.</p>
+<blockquote>
+<p><strong>Spell:</strong> Any card that has the word ‘spell’ as a part of its
+card type. Example: Ready Spell</p>
+</blockquote>
+<p><strong>Поле заклять:</strong> місце в ігровій зоні де ви викладаєте підготовані закляття.</p>
+<blockquote>
+<p><strong>Spellboard:</strong> The part of your play area where ready
+spells are placed.</p>
+</blockquote>
+<p><strong>Ліміт поля заклять:</strong> максимальна кількість різних підготованих заклять на полі заклять феніксонародженого.</p>
+<blockquote>
+<p><strong>Spellboard Value:</strong> The number of different ready spells
+a Phoenixborn can have on their spellboard.</p>
+</blockquote>
+<p><strong>Характеристики:</strong> значення представлені на картах феніксонароджених і бійців</p>
+<blockquote>
+<p><strong>Stats:</strong> The values displayed on Phoenixborn and unit
+cards.</p>
+</blockquote>
+<p><strong>Ціль:</strong> термін який визначає що ефект закляття, здібність або властивість кубика напряму впливає на щось, наприклад видозміну, бійця, гравця, феніксонародженого тощо.</p>
+<blockquote>
+<p><strong>Target:</strong> A term that is used to identify that the effect</p>
+</blockquote>
+<p>of a spell, ability or die power is directly affecting
+something (including, but not limited to, an alteration, a
+unit, a player, or a Phoenixborn).</p>
+<p><strong>Тип:</strong> кожне закляття і кожен боєць мають тип. Приклад: союзник, викликаний, підготоване закляття, видозмінююче закляття, миттєве закляття, протидіюче закляття.</p>
+<blockquote>
+<p><strong>Type:</strong> Each spell and unit card has a type. Examples: Ally,
+Conjuration, Ready Spell, Alteration Spell, Action Spell,
+Reaction Spell.</p>
+</blockquote>
+<p><strong>Невиснажений:</strong> карта, на якій відсутні жетони виснаження.</p>
+<blockquote>
+<p><strong>Unexhausted:</strong> A card that does not have an exhaustion
+token on it.</p>
+</blockquote>
+<p><strong>Боєць:</strong> карта типу союзник або викликаний, що викладається на поле бою і залишається там до знищення.</p>
+<blockquote>
+<p><strong>Unit:</strong> A card with the type ally or conjuration that is
+played on a player’s battlefield and remains in play until
+it is destroyed.</p>
+</blockquote>
+<p><strong>Значення бонусу:</strong> число на яке збільшується або зменшується значення атаки, життя або відновлення бійця до якого додано видозмінююче закляття.</p>
+<blockquote>
+<p><strong>Value Bonus:</strong> The amount an alteration spell increases
+or decreases the attack, life, or recovery value of the
+unit it is attached to.</p>
+</blockquote>
+<p><strong>Жетон рани:</strong> жетон, який викладають на свого бійця або феніксонародженого щоб відслідковувати, наскільки вони близькі до знищення.</p>
+<blockquote>
+<p><strong>Wound Token:</strong> Tokens that you place on your units
+and Phoenixborn to track how close they are to being
+destroyed.</p>
+</blockquote>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/mainAction"><span class="arrow-prev">← </span><span>03 - Main Actions</span></a><a class="docs-next button" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/heroesHistory"><span>Історії феніксонароджених</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/boardgames-translations/" class="nav-home"><img src="/boardgames-translations/img/favicon.ico" alt="Board Games Translations" width="66" height="58"/></a><div><h5>Docs</h5><a href="/boardgames-translations/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/boardgames-translations/docs/en/doc2.html">Guides (or other categories)</a><a href="/boardgames-translations/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/boardgames-translations/en/users.html">User Showcase</a><a href="https://stackoverflow.com/questions/tagged/" target="_blank" rel="noreferrer noopener">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a></div><div><h5>More</h5><a href="/boardgames-translations/blog">Blog</a><a href="https://github.com/">GitHub</a><a class="github-button" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://opensource.facebook.com/" target="_blank" rel="noreferrer noopener" class="fbOpenSource"><img src="/boardgames-translations/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2020 guitarheroua</section></footer></div></body></html>

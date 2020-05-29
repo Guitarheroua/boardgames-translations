@@ -1,0 +1,88 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>03 - Main Actions · Board Games Translations</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="### Pay a Cost"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="03 - Main Actions · Board Games Translations"/><meta property="og:type" content="website"/><meta property="og:url" content="https://guitarheroua.github.io/boardgames-translations/"/><meta property="og:description" content="### Pay a Cost"/><meta property="og:image" content="https://guitarheroua.github.io/boardgames-translations/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://guitarheroua.github.io/boardgames-translations/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/boardgames-translations/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/boardgames-translations/js/scrollSpy.js"></script><link rel="stylesheet" href="/boardgames-translations/css/main.css"/><script src="/boardgames-translations/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/boardgames-translations/"><img class="logo" src="/boardgames-translations/img/favicon.ico" alt="Board Games Translations"/><h2 class="headerTitleWithLogo">Board Games Translations</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class="siteNavGroupActive"><a href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/description" target="_self">Rules</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Ashes: Відродження Феніксонародженого</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Ashes: Відродження Феніксонародженого</h3><ul class=""><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/description">01 - Опис</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/setup">02 - Приготування до гри</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/roundOrder">03 - Послідовнцість раунду</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/mainAction">03 - Main Actions</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/glossary">Словник термінів</a></li><li class="navListItem"><a class="navItem" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/heroesHistory">Історії феніксонароджених</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">03 - Main Actions</h1></header><article><div><span><h3><a class="anchor" aria-hidden="true" id="pay-a-cost"></a><a href="#pay-a-cost" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Pay a Cost</h3>
+<p>If the symbol appears on a play cost or activation cost, part of the cost to play or activate that card is that it takes up your main action for the turn (see page 10 for details on playing cards and paying costs).</p>
+<h3><a class="anchor" aria-hidden="true" id="attack-a-phoenixborn"></a><a href="#attack-a-phoenixborn" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Attack a Phoenixborn</h3>
+<p>Attack a target Phoenixborn with 1 or more of your units.  When you attack a Phoenixborn, resolve the following steps in order (see ‘Example: Attacking a Phoenixborn’ on page 7):</p>
+<ol>
+<li>Declare Attackers: You (the attacking player) choose any number of your unexhausted units to attack with by pushing them forward on your battlefield.</li>
+<li>Choose Target: Choose an opponent’s Phoenixborn to attack. All of your attacking units will attack this targeted Phoenixborn.</li>
+<li>Declare Blockers: The defending player may declare up to 1 blocker for each attacking unit.  To declare a blocker, the defending player places 1 of her unexhausted units in front of an attacking unit to show that her unit is blocking that attacker.  Each attacking unit cannot be blocked by more than 1 unit.</li>
+<li>Resolve Damage: One at a time, in an order of your choosing, resolve each attacking unit’s damage. If the attacking unit is unblocked, deal an amount of damage equal to its attack value on the defending player’s Phoenixborn. Then place 1 exhaustion token on the attacking unit.  If the attacking unit is blocked, the defending player may now choose to counter with his blocking unit.
+<ol>
+<li>If the defending player chooses not to counter with his blocking unit, the attacking unit will deal damage equal to its attack value to the blocking unit. Then place 1 exhaustion token on the attacking unit. The blocking unit does not become exhausted if it did not counter.</li>
+<li>If the blocking unit counters, both units are now considered to be in battle. Units in battle will simultaneously deal an amount of damage equal to their attack values on each other. Then place 1 exhaustion token on each unit involved in that battle that was not destroyed.</li>
+</ol></li>
+</ol>
+<h3><a class="anchor" aria-hidden="true" id="attack-a-unit"></a><a href="#attack-a-unit" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Attack a Unit</h3>
+<p>Attack a target unit with 1 or more of your units.  When you attack a unit, resolve the following steps in order (see ‘Example: Attacking a Unit’ on page 8):</p>
+<ol>
+<li>Declare Attackers: Declare which of your units are attacking by pushing them forward on the battlefield.</li>
+<li>Choose Target: Choose a single unit to target on an opponent’s battlefield. All of your attacking units will attack the targeted unit.</li>
+<li>Declare a Guard: The defending player may choose to have her Phoenixborn guard the unit being targeted by moving her Phoenixborn in front of that unit.  The Phoenixborn is now the target of the attack. <strong>Note</strong>: <em>A Phoenixborn can guard even if it is exhausted.</em> An unexhausted unit the defending player controls with the ‘Unit Guard’ ability can be declared as a guard in the same way. Only a single unit can be declared as a guard for any given attack.</li>
+<li>Resolve Damage: If the final target of the attack is a Phoenixborn, total each attacking unit’s attack values and deal that amount of damage to the target Phoenixborn. Then place 1 exhaustion token on each attacking unit. If the final target of the attack is a unit and that unit is unexhausted the defending player may now choose to counter with that unit.
+<ol>
+<li>If the target unit does not counter or cannot counterbecause it is exhausted, total each of the attacking unit’s attack values and deal that amount of damage on the target unit. Then place 1 exhaustion token on each attacking unit. The target unit does not get an exhaustion token if it did not counter.</li>
+<li>If the target unit counters, the attacking player’s units and the defending player’s unit are now considered to be in battle. Total each of the attacking unit’s attack values and deal that amount of damage on the defending player’s unit. Simultaneously the defending player’s countering unit will deal an amount of damage equal to its attack value to the attacking units. If the defending player is countering multiple units, the defending player may choose how to split up her unit’s damage among the attacking units. Then place 1 exhaustion token on each unit involved in that battle that was not destroyed.</li>
+</ol></li>
+</ol>
+<h3><a class="anchor" aria-hidden="true" id="pass"></a><a href="#pass" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Pass</h3>
+<p>If you cannot take any other main action, you must choose to pass as your main action. You may also choose to pass even if there are other main actions you could perform.   When you pass, your main action is to do nothing.  If all players pass on consecutive turns, the player turns phase ends and players move on to the recovery phase of the round.</p>
+<blockquote>
+<p><strong>Note:</strong> <em>If a player passes and 1 or more of her opponents do not, the player turns phase continues and the player who passed may pass again or take any other main action (if able) on her next turn.</em></p>
+</blockquote>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/roundOrder"><span class="arrow-prev">← </span><span>03 - Послідовнцість раунду</span></a><a class="docs-next button" href="/boardgames-translations/docs/AshesRiseOfThePhoenixborn/glossary"><span>Словник термінів</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/boardgames-translations/" class="nav-home"><img src="/boardgames-translations/img/favicon.ico" alt="Board Games Translations" width="66" height="58"/></a><div><h5>Docs</h5><a href="/boardgames-translations/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/boardgames-translations/docs/en/doc2.html">Guides (or other categories)</a><a href="/boardgames-translations/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/boardgames-translations/en/users.html">User Showcase</a><a href="https://stackoverflow.com/questions/tagged/" target="_blank" rel="noreferrer noopener">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a></div><div><h5>More</h5><a href="/boardgames-translations/blog">Blog</a><a href="https://github.com/">GitHub</a><a class="github-button" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://opensource.facebook.com/" target="_blank" rel="noreferrer noopener" class="fbOpenSource"><img src="/boardgames-translations/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2020 guitarheroua</section></footer></div></body></html>
