@@ -1,17 +1,7 @@
 ---
-id: en-fi-ref-page
+id: ref-page
 title: Additional game information
 ---
-
-# Additional game information
-
-[Check ukrainian version of this page](../ua/ReferencesPage.md)
-
-***
-
-[◄ Previous](WeatherCards.md) | [🚪 Main 🚪](IndexPage.md)
-
-***
 
 ## About Publisher
 
@@ -31,5 +21,3 @@ title: Additional game information
 ## Other Links
 
 [Board Game Geek webpage](https://boardgamegeek.com/boardgame/250823/foggy-island)
-
-***

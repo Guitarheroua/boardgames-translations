@@ -7,6 +7,26 @@
             "AshesRiseOfThePhoenixborn/mainAction",
             "AshesRiseOfThePhoenixborn/glossary",
             "AshesRiseOfThePhoenixborn/heroesHistory"
+        ],
+        "Foggy Island": [
+            "FoggyIsland/index",
+            "FoggyIsland/components",
+            "FoggyIsland/game-setup",
+            "FoggyIsland/gameplay",
+            "FoggyIsland/game-end-and-scoring",
+            "FoggyIsland/basic-characters",
+            "FoggyIsland/mercenary-characters",
+            "FoggyIsland/weather-cards",
+            "FoggyIsland/ref-page"
+        ],
+        "З поверненням в Підземелля": [
+            "WelcomeBackToTheDungeon/index",
+            "WelcomeBackToTheDungeon/components",
+            "WelcomeBackToTheDungeon/game-setup",
+            "WelcomeBackToTheDungeon/gameplay",
+            "WelcomeBackToTheDungeon/clarification-of-equipment",
+            "WelcomeBackToTheDungeon/description-of-special-monsters",
+            "WelcomeBackToTheDungeon/ref-page"
         ]
     }
 }
